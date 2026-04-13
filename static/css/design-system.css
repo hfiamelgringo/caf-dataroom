@@ -425,13 +425,9 @@ a:hover {
 }
 
 .country-card {
-  border-radius: var(--radius-lg);
-  min-height: 220px;
-  aspect-ratio: 16 / 9;
   position: relative;
+  border-radius: var(--radius-lg);
   overflow: hidden;
-  text-decoration: none;
-  display: block;
   box-shadow: var(--shadow-md);
   transition: box-shadow 0.25s, transform 0.25s;
 }
@@ -441,67 +437,66 @@ a:hover {
   transform: translateY(-2px);
 }
 
-/* Carousel slides */
-.carousel__slide {
+/* Carousel images — first one sets the aspect ratio, rest are absolute */
+.carousel__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+}
+
+/* Hide all images except the first via absolute stacking */
+.carousel__img:not(:first-of-type) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+/* Visibility controlled by class */
+.carousel__img {
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+
+.carousel__img--active {
+  opacity: 1;
+}
+
+/* First image stays in flow to set height, but controlled by opacity */
+.carousel__img:first-of-type {
+  opacity: 0;
+}
+
+.carousel__img:first-of-type.carousel__img--active {
+  opacity: 1;
+}
+
+/* Link overlay with gradient */
+.country-card__link {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-size: cover;
-  background-position: center;
-  opacity: 0;
-  z-index: 0;
-  transition: opacity 0.8s ease;
-}
-
-.carousel__slide--active {
-  opacity: 1;
-  z-index: 1;
-}
-
-/* Gradient overlay */
-.country-card__overlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to top, rgba(0, 58, 87, 0.9) 0%, rgba(0, 81, 123, 0.2) 55%, transparent 100%);
+  background: linear-gradient(to top, rgba(0, 58, 87, 0.9) 0%, rgba(0, 81, 123, 0.2) 50%, transparent 100%);
   display: flex;
   align-items: flex-end;
-  padding: var(--space-md) var(--space-md) 8% 8%;
+  padding: 8% 8%;
+  text-decoration: none;
   z-index: 2;
   transition: background 0.3s;
 }
 
-.country-card:hover .country-card__overlay {
-  background: linear-gradient(to top, rgba(0, 58, 87, 0.95) 0%, rgba(0, 81, 123, 0.3) 55%, transparent 100%);
+.country-card:hover .country-card__link {
+  background: linear-gradient(to top, rgba(0, 58, 87, 0.95) 0%, rgba(0, 81, 123, 0.3) 50%, transparent 100%);
 }
 
 .country-card__name {
   font-size: 22px;
   font-weight: 700;
   color: var(--white);
-}
-
-/* Carousel dots */
-.carousel__dots {
-  position: absolute;
-  bottom: 12px;
-  right: 16px;
-  display: flex;
-  gap: 6px;
-  z-index: 3;
-}
-
-.carousel__dot {
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.35);
-  transition: background 0.3s;
-}
-
-.carousel__dot--active {
-  background: var(--orange);
 }
 
 /* ---------- Sidebar Nav ---------- */

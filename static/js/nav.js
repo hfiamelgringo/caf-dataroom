@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const nav = document.getElementById('site-nav');
+  var nav = document.getElementById('site-nav');
 
   window.addEventListener('scroll', function () {
     if (window.scrollY > 10) {
@@ -11,17 +11,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Country card carousels
   document.querySelectorAll('.carousel').forEach(function (card) {
-    const slides = card.querySelectorAll('.carousel__slide');
-    const dots = card.querySelectorAll('.carousel__dot');
-    if (slides.length < 2) return;
+    var imgs = card.querySelectorAll('.carousel__img');
+    if (imgs.length < 2) return;
 
-    let current = 0;
+    var current = 0;
     setInterval(function () {
-      slides[current].classList.remove('carousel__slide--active');
-      dots[current].classList.remove('carousel__dot--active');
-      current = (current + 1) % slides.length;
-      slides[current].classList.add('carousel__slide--active');
-      dots[current].classList.add('carousel__dot--active');
+      imgs[current].classList.remove('carousel__img--active');
+      current = (current + 1) % imgs.length;
+      imgs[current].classList.add('carousel__img--active');
     }, 3500);
   });
 });

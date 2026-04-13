@@ -45,70 +45,16 @@
     <span class="label-md">Country Profiles</span>
     <h2 style="margin-top: var(--space-xs); margin-bottom: var(--space-lg);">Four Frontier Markets</h2>
     <div class="country-grid">
-      {% with code="GT" name="Guatemala" %}
-      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
-        {% for img in country_images.GT %}
-        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
+      {% for item in country_list %}
+      <div class="country-card carousel">
+        {% for img in item.images %}
+        <img src="{% static img %}" class="carousel__img {% if forloop.first %}carousel__img--active{% endif %}" alt="{{ item.name }}">
         {% endfor %}
-        <div class="country-card__overlay">
-          <span class="country-card__name">{{ name }}</span>
-        </div>
-        <div class="carousel__dots">
-          {% for img in country_images.GT %}
-          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
-          {% endfor %}
-        </div>
-      </a>
-      {% endwith %}
-
-      {% with code="CR" name="Costa Rica" %}
-      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
-        {% for img in country_images.CR %}
-        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
-        {% endfor %}
-        <div class="country-card__overlay">
-          <span class="country-card__name">{{ name }}</span>
-        </div>
-        <div class="carousel__dots">
-          {% for img in country_images.CR %}
-          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
-          {% endfor %}
-        </div>
-      </a>
-      {% endwith %}
-
-      {% with code="DO" name="Dominican Republic" %}
-      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
-        {% for img in country_images.DO %}
-        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
-        {% endfor %}
-        <div class="country-card__overlay">
-          <span class="country-card__name">{{ name }}</span>
-        </div>
-        <div class="carousel__dots">
-          {% for img in country_images.DO %}
-          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
-          {% endfor %}
-        </div>
-      </a>
-      {% endwith %}
-
-      {% with code="HN" name="Honduras" %}
-      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
-        {% for img in country_images.HN %}
-        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
-        {% endfor %}
-        <div class="country-card__overlay">
-          <span class="country-card__name">{{ name }}</span>
-        </div>
-        <div class="carousel__dots">
-          {% for img in country_images.HN %}
-          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
-          {% endfor %}
-        </div>
-      </a>
-      {% endwith %}
-
+        <a href="{% url 'content:country_detail' item.code %}" class="country-card__link">
+          <span class="country-card__name">{{ item.name }}</span>
+        </a>
+      </div>
+      {% endfor %}
     </div>
   </div>
 </section>

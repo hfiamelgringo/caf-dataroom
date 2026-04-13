@@ -34,12 +34,18 @@ def home(request):
     recommendations = sections.filter(section_type="recommendation")
     countries = sections.filter(section_type="country", parent__isnull=True).distinct()
     country_images = get_country_images()
+    country_list = [
+        {"code": "GT", "name": "Guatemala", "images": country_images.get("GT", [])},
+        {"code": "CR", "name": "Costa Rica", "images": country_images.get("CR", [])},
+        {"code": "DO", "name": "Dominican Republic", "images": country_images.get("DO", [])},
+        {"code": "HN", "name": "Honduras", "images": country_images.get("HN", [])},
+    ]
     return render(request, "content/home.html", {
         "executive_summary": executive_summary,
         "recommendations": recommendations,
         "countries": countries,
         "nav_sections": sections,
-        "country_images": country_images,
+        "country_list": country_list,
     })
 
 
