@@ -1,0 +1,44 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}CAF Innovation Strategy{% endblock %} | Dataroom</title>
+  <link rel="stylesheet" href="{% static 'css/design-system.css' %}">
+  <link rel="stylesheet" href="{% static 'css/chat.css' %}">
+</head>
+<body>
+
+  <nav class="site-nav" id="site-nav">
+    <div class="container">
+      <a href="{% url 'content:home' %}" class="site-nav__brand">CAF Dataroom</a>
+      <ul class="site-nav__links">
+        <li><a href="{% url 'content:home' %}">Overview</a></li>
+        <li><a href="{% url 'content:recommendations' %}">Recommendations</a></li>
+        <li><a href="{% url 'content:country_detail' 'GT' %}">Guatemala</a></li>
+        <li><a href="{% url 'content:country_detail' 'CR' %}">Costa Rica</a></li>
+        <li><a href="{% url 'content:country_detail' 'DO' %}">Dominican Republic</a></li>
+        <li><a href="{% url 'content:country_detail' 'HN' %}">Honduras</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="app-layout">
+    <main class="app-layout__content">
+      {% block content %}{% endblock %}
+
+      <footer class="site-footer">
+        <div class="container">
+          <p>Prepared by <a href="https://hf.capital">HF Capital</a> &amp; Partnership for the Americas for CAF &mdash; April 2026</p>
+        </div>
+      </footer>
+    </main>
+
+    {% include "chat/widget.html" %}
+  </div>
+
+  <script src="{% static 'js/nav.js' %}"></script>
+  <script src="{% static 'js/chat.js' %}"></script>
+</body>
+</html>

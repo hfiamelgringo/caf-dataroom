@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% load content_filters %}
+{% block title %}{{ section.title }}{% endblock %}
+
+{% block content %}
+<div class="container">
+  <article class="article">
+    <nav class="breadcrumbs">
+      <a href="{% url 'content:home' %}">Home</a>
+      <span class="breadcrumbs__sep">/</span>
+      <a href="{% url 'content:recommendations' %}">Recommendations</a>
+      <span class="breadcrumbs__sep">/</span>
+      <span class="breadcrumbs__current">{{ section.title }}</span>
+    </nav>
+
+    <header class="article__header">
+      <h2>{{ section.title }}</h2>
+    </header>
+    <div class="article__body">
+      {{ section.body_html|strip_leading_headings }}
+    </div>
+
+    <nav class="prev-next" style="margin-top: var(--space-2xl); padding-top: var(--space-lg); border-top: 1px solid var(--border); display: flex; justify-content: space-between; align-items: flex-start;">
+      <div>
+        {% if prev_rec %}
+        <a href="{% url 'content:recommendation_detail' prev_rec.slug %}" class="prev-next__link">
+          <span class="prev-next__label">&larr; Previous</span>
+          <span class="prev-next__title">{{ prev_rec.title }}</span>
+        </a>
+        {% endif %}
+      </div>
+      <div style="text-align: right;">
+        {% if next_rec %}
+        <a href="{% url 'content:recommendation_detail' next_rec.slug %}" class="prev-next__link">
+          <span class="prev-next__label">Next &rarr;</span>
+          <span class="prev-next__title">{{ next_rec.title }}</span>
+        </a>
+        {% endif %}
+      </div>
+    </nav>
+  </article>
+</div>
+{% endblock %}

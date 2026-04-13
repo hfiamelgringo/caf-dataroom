@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}{{ main_section.title }} Country Profile{% endblock %}
+
+{% block content %}
+<div class="container">
+  <article class="article">
+    {% if main_section %}
+    <header class="article__header">
+      <h1>{{ main_section.title }}</h1>
+    </header>
+    <div class="article__body">
+      {{ main_section.body_html|safe }}
+    </div>
+    {% endif %}
+
+    {% for sub in subsections %}
+    <div style="margin-top: var(--space-xl);">
+      <h2>{{ sub.title }}</h2>
+      <div class="article__body">
+        {{ sub.body_html|safe }}
+      </div>
+    </div>
+    {% endfor %}
+  </article>
+</div>
+{% endblock %}

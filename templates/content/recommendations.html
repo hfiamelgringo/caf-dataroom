@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load content_filters %}
+{% block title %}Strategic Recommendations{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="article">
+    <header class="article__header">
+      <h1>Macro Recommendations for CAF</h1>
+    </header>
+
+    <div class="card-grid">
+      {% for rec in recommendations %}
+      <a href="{% url 'content:recommendation_detail' rec.slug %}" class="card" style="text-decoration: none;">
+        <div class="card__title">{{ rec.title }}</div>
+        <div class="card__body">{{ rec.body_html|excerpt:25 }}</div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endblock %}

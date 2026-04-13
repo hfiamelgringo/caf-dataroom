@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{ section.title }}{% endblock %}
+
+{% block content %}
+<div class="container">
+  <article class="article">
+    <header class="article__header">
+      <span class="label-md">{{ section.get_section_type_display }}</span>
+      <h1 style="margin-top: var(--space-xs);">{{ section.title }}</h1>
+    </header>
+    <div class="article__body">
+      {{ section.body_html|safe }}
+    </div>
+
+    {% if children %}
+    <div style="margin-top: var(--space-xl);">
+      {% for child in children %}
+      <div style="margin-bottom: var(--space-lg);">
+        <h2>{{ child.title }}</h2>
+        <div class="article__body">
+          {{ child.body_html|safe }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </article>
+</div>
+{% endblock %}

@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+{% load static content_filters %}
+{% block title %}Overview{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="container container--wide">
+    <span class="label-md">CAF &mdash; Deliverable 1</span>
+    <h1>Venture Capital Strategy for Frontier Markets</h1>
+    <p class="subtitle">Regulatory and ecosystem roadmap for Guatemala, Costa Rica, the Dominican Republic, and Honduras. Prepared by PFA &amp; HF Capital for the Development Bank of Latin America and the Caribbean.</p>
+  </div>
+</section>
+
+{% if executive_summary %}
+<section class="section-block section-block--surface">
+  <div class="container container--wide">
+    <span class="label-md">Executive Summary</span>
+    <p class="display-sm" style="margin-top: var(--space-xs); color: var(--primary-navy); max-width: 50ch;">All four countries are "thin markets" — too few investors, too few investable opportunities — resulting in a double-sided market failure.</p>
+    <p style="margin-top: var(--space-sm); max-width: 60ch;">Rather than replicating existing accelerator and training programs, CAF should focus its resources on structural market formation: unlocking institutional capital, building exit infrastructure, and creating the conditions where entrepreneurship becomes a rational outcome.</p>
+    <a href="{% url 'content:section_detail' executive_summary.slug %}" class="btn btn--primary" style="margin-top: var(--space-lg);">Read Full Executive Summary</a>
+  </div>
+</section>
+{% endif %}
+
+{% if recommendations %}
+<section class="section-block">
+  <div class="container container--wide">
+    <span class="label-md">Strategic Recommendations</span>
+    <h2 style="margin-top: var(--space-xs); margin-bottom: var(--space-lg);">Macro Recommendations</h2>
+    <div class="card-grid">
+      {% for rec in recommendations %}
+      <a href="{% url 'content:recommendation_detail' rec.slug %}" class="card" style="text-decoration: none;">
+        <div class="card__label">Recommendation {{ forloop.counter }}</div>
+        <div class="card__title">{{ rec.title }}</div>
+        <div class="card__body">{{ rec.body_html|excerpt:20 }}</div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section class="section-block section-block--container">
+  <div class="container container--wide">
+    <span class="label-md">Country Profiles</span>
+    <h2 style="margin-top: var(--space-xs); margin-bottom: var(--space-lg);">Four Frontier Markets</h2>
+    <div class="country-grid">
+      {% with code="GT" name="Guatemala" %}
+      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
+        {% for img in country_images.GT %}
+        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
+        {% endfor %}
+        <div class="country-card__overlay">
+          <span class="country-card__name">{{ name }}</span>
+        </div>
+        <div class="carousel__dots">
+          {% for img in country_images.GT %}
+          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
+          {% endfor %}
+        </div>
+      </a>
+      {% endwith %}
+
+      {% with code="CR" name="Costa Rica" %}
+      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
+        {% for img in country_images.CR %}
+        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
+        {% endfor %}
+        <div class="country-card__overlay">
+          <span class="country-card__name">{{ name }}</span>
+        </div>
+        <div class="carousel__dots">
+          {% for img in country_images.CR %}
+          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
+          {% endfor %}
+        </div>
+      </a>
+      {% endwith %}
+
+      {% with code="DO" name="Dominican Republic" %}
+      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
+        {% for img in country_images.DO %}
+        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
+        {% endfor %}
+        <div class="country-card__overlay">
+          <span class="country-card__name">{{ name }}</span>
+        </div>
+        <div class="carousel__dots">
+          {% for img in country_images.DO %}
+          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
+          {% endfor %}
+        </div>
+      </a>
+      {% endwith %}
+
+      {% with code="HN" name="Honduras" %}
+      <a href="{% url 'content:country_detail' code %}" class="country-card carousel" data-country="{{ code }}">
+        {% for img in country_images.HN %}
+        <div class="carousel__slide {% if forloop.first %}carousel__slide--active{% endif %}" style="background-image: url('{% static img %}');"></div>
+        {% endfor %}
+        <div class="country-card__overlay">
+          <span class="country-card__name">{{ name }}</span>
+        </div>
+        <div class="carousel__dots">
+          {% for img in country_images.HN %}
+          <span class="carousel__dot {% if forloop.first %}carousel__dot--active{% endif %}"></span>
+          {% endfor %}
+        </div>
+      </a>
+      {% endwith %}
+
+    </div>
+  </div>
+</section>
+{% endblock %}
