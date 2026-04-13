@@ -421,7 +421,7 @@ a:hover {
 .country-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: var(--space-md);
+  gap: var(--space-lg);
 }
 
 .country-card {
@@ -448,11 +448,13 @@ a:hover {
   background-size: cover;
   background-position: center;
   opacity: 0;
-  transition: opacity 1s ease;
+  z-index: 0;
+  transition: opacity 0.8s ease;
 }
 
 .carousel__slide--active {
   opacity: 1;
+  z-index: 1;
 }
 
 /* Gradient overlay */
