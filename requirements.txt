@@ -3,3 +3,6 @@ anthropic>=0.40
 markdown>=3.5
 python-dotenv>=1.0
 scikit-learn>=1.4
+psycopg[binary]>=3.1
+gunicorn>=21.2
+whitenoise>=6.6
