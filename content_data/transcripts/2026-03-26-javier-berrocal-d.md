@@ -7,6 +7,8 @@ role: CEO & Co-founder
 organization: Nanoweave (Nanoweave CR)
 countries: ["CR"]
 topics: ["agri-tech-deeptech", "biomass-cellulose-technology", "early-stage-fundraising", "capex-intensive-startups", "sustainable-materials", "central-america-investment-gaps"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/c49ec5cf-ef4d-438d-b7bd-cfda18817ee3
 ---
 

@@ -700,3 +700,213 @@ a:hover {
     display: none;
   }
 }
+
+/* ---------- Interviews Library ---------- */
+.iv-controls {
+  background: var(--light-gray);
+  border-radius: var(--radius-md);
+  padding: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+#iv-search {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 0.95rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--white);
+}
+
+#iv-search:focus {
+  outline: 2px solid var(--blue);
+  outline-offset: -1px;
+  border-color: var(--blue);
+}
+
+.iv-filter-group {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+
+.iv-filter-group__label {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--gray);
+  margin-right: var(--space-sm);
+  min-width: 70px;
+}
+
+.iv-chip {
+  font: inherit;
+  font-size: 12px;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: var(--white);
+  color: var(--dark);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.iv-chip:hover {
+  border-color: var(--blue);
+  color: var(--blue);
+}
+
+.iv-chip--active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: var(--white);
+}
+
+.iv-status {
+  font-size: 13px;
+  color: var(--gray);
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.iv-clear {
+  font: inherit;
+  font-size: 12px;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--gray);
+  padding: 3px 10px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+}
+
+.iv-clear:hover {
+  border-color: var(--orange);
+  color: var(--orange);
+}
+
+.iv-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--white);
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.iv-table th {
+  text-align: left;
+  padding: 12px 14px;
+  background: var(--blue);
+  color: var(--white);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  user-select: none;
+}
+
+.iv-table th.iv-sort {
+  cursor: pointer;
+}
+
+.iv-table th.iv-sort:hover {
+  background: var(--blue-dark);
+}
+
+.iv-table th.iv-sort--active::after {
+  content: '';
+  display: inline-block;
+  margin-left: 6px;
+  width: 0; height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+}
+
+.iv-table th.iv-sort--asc::after {
+  border-bottom: 5px solid var(--white);
+}
+
+.iv-table th.iv-sort--desc::after {
+  border-top: 5px solid var(--white);
+}
+
+.iv-table td {
+  padding: 12px 14px;
+  font-size: 14px;
+  border-top: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.iv-row {
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.iv-row:hover {
+  background: var(--callout-bg);
+}
+
+.iv-date {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  color: var(--gray);
+}
+
+.iv-role {
+  font-size: 12px;
+  color: var(--gray);
+  margin-top: 2px;
+}
+
+.iv-tag {
+  display: inline-block;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: var(--radius-pill);
+  margin-right: 4px;
+  margin-bottom: 4px;
+  white-space: nowrap;
+}
+
+.iv-tag--country {
+  background: var(--blue-light);
+  color: var(--blue-dark);
+}
+
+.iv-tag--topic {
+  background: var(--orange-light);
+  color: #8a4a1f;
+}
+
+.iv-tag-more {
+  font-size: 11px;
+  color: var(--gray);
+  font-style: italic;
+}
+
+.iv-source {
+  font-size: 11px;
+  color: var(--gray);
+  text-transform: lowercase;
+  letter-spacing: 0.3px;
+}
+
+.iv-empty {
+  text-align: center;
+  padding: var(--space-xl);
+  color: var(--gray);
+  font-style: italic;
+}
+
+.iv-filter-group__hint {
+  font-size: 12px;
+  color: var(--gray);
+  font-style: italic;
+}

@@ -7,6 +7,8 @@ role: Regional Strategy Team (PFA/PCA)
 organization: Rockefeller Foundation / PFA (formerly PCA)
 countries: ["GT", "HN", "CR", "DO", "regional"]
 topics: ["food-systems-school-feeding", "climate-migration-corredor-seco", "regenerative-agriculture", "private-sector-engagement", "clean-energy-access", "ecosystem-mapping"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/b63453ef-2946-41a3-938b-df9493eacc79-008umkv4
 ---
 

@@ -7,6 +7,8 @@ role: Founder
 organization: Startuplinks
 countries: ["regional", "Mexico"]
 topics: ["venture-capital-ecosystem", "latam-startup-data", "fintech-trends", "exit-liquidity", "ai-adoption", "tech-events"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/87ab1508-d4ca-4e99-b013-1412f6ce72ff-008umkv4
 ---
 

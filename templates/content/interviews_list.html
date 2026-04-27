@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% load content_filters %}
+{% load static content_filters %}
 {% block title %}Stakeholder Interviews{% endblock %}
 
 {% block content %}
@@ -8,29 +8,90 @@
     <header class="article__header">
       <h1>Stakeholder Interviews</h1>
       <p style="font-size: 1.05rem; color: var(--gray); max-width: 68ch; margin-top: var(--space-sm);">
-        Curated summaries of conversations with stakeholders across the region — government promotion agencies,
-        regional venture capital, peer innovation hubs, and emerging-markets liquidity specialists. Use the
-        AI Report Assistant on the right to ask questions across these interviews and the wider report.
+        Research library of {{ entries|length }} stakeholder conversations from the CAF research phase.
+        Filter by country, topic, or source. Sort by clicking column headers. Use the AI Report Assistant
+        on the right to ask questions across the full library — answers will cite which interviews they draw from.
       </p>
     </header>
 
-    <div class="card-grid">
-      {% for iv in interviews %}
-      <a href="{% url 'content:interview_detail' iv.slug %}" class="card" style="text-decoration: none; grid-column: auto;">
-        <div class="card__label">
-          {{ iv.country_label|default:iv.country_code }}{% if iv.topic_tag %} &middot; {{ iv.topic_tag }}{% endif %}
-        </div>
-        <div class="card__title">{{ iv.title }}</div>
-        <div class="card__body">
-          <strong>{{ iv.stakeholder_name }}</strong>{% if iv.stakeholder_role %} &mdash; {{ iv.stakeholder_role }}{% endif %}<br>
-          {% if iv.organization %}{{ iv.organization }}<br>{% endif %}
-          <span style="font-size: 12px; color: var(--gray); text-transform: uppercase; letter-spacing: 1px;">{{ iv.date|date:"F j, Y" }}</span>
-        </div>
-      </a>
-      {% empty %}
-      <p>No interviews loaded yet.</p>
-      {% endfor %}
-    </div>
+    <section class="iv-controls">
+      <input type="search" id="iv-search" placeholder="Search stakeholder, org, or topic…" autocomplete="off">
+
+      <div class="iv-filter-group">
+        <span class="iv-filter-group__label">Country:</span>
+        {% for c in filters.countries %}
+        <button type="button" class="iv-chip" data-filter="country" data-value="{{ c }}">{{ c }}</button>
+        {% endfor %}
+      </div>
+
+      <div class="iv-filter-group">
+        <span class="iv-filter-group__label">Topic:</span>
+        {% for t in filters.topics %}
+        <button type="button" class="iv-chip" data-filter="topic" data-value="{{ t }}">{{ t }}</button>
+        {% endfor %}
+        {% if filters.topic_hidden %}
+        <span class="iv-filter-group__hint">({{ filters.topic_hidden }} more long-tail topics — use search)</span>
+        {% endif %}
+      </div>
+
+      <div class="iv-filter-group">
+        <span class="iv-filter-group__label">Source:</span>
+        {% for s in filters.sources %}
+        <button type="button" class="iv-chip" data-filter="source" data-value="{{ s }}">{{ s }}</button>
+        {% endfor %}
+      </div>
+
+      <div class="iv-status">
+        <span id="iv-count">{{ entries|length }}</span> of {{ entries|length }} interviews
+        <button type="button" id="iv-clear" class="iv-clear" hidden>Clear filters</button>
+      </div>
+    </section>
+
+    <table class="iv-table">
+      <thead>
+        <tr>
+          <th data-sort="date" class="iv-sort iv-sort--active iv-sort--desc">Date</th>
+          <th data-sort="stakeholder" class="iv-sort">Stakeholder</th>
+          <th data-sort="organization" class="iv-sort">Organization</th>
+          <th>Country</th>
+          <th>Topics</th>
+          <th data-sort="source" class="iv-sort">Source</th>
+        </tr>
+      </thead>
+      <tbody id="iv-tbody">
+        {% for e in entries %}
+        <tr class="iv-row"
+            data-name="{{ e.name }}"
+            data-date="{{ e.date }}"
+            data-stakeholder="{{ e.stakeholder|lower }}"
+            data-organization="{{ e.organization|lower }}"
+            data-source="{{ e.source|default:'' }}"
+            data-countries="{{ e.countries|join:'|' }}"
+            data-topics="{{ e.topics|join:'|' }}"
+            data-search="{{ e.stakeholder|lower }} {{ e.organization|lower }} {{ e.role|lower }} {{ e.description|lower }} {{ e.topics|join:' '|lower }}"
+            onclick="location.href='{% url 'content:interview_detail' e.name %}'">
+          <td class="iv-date">{{ e.date }}</td>
+          <td>
+            <strong>{{ e.stakeholder }}</strong>
+            {% if e.role %}<div class="iv-role">{{ e.role }}</div>{% endif %}
+          </td>
+          <td>{{ e.organization|default:"—" }}</td>
+          <td>
+            {% for c in e.countries %}<span class="iv-tag iv-tag--country">{{ c }}</span>{% endfor %}
+          </td>
+          <td>
+            {% for t in e.topics|slice:":3" %}<span class="iv-tag iv-tag--topic">{{ t }}</span>{% endfor %}
+            {% if e.topics|length > 3 %}<span class="iv-tag-more">+{{ e.topics|length|add:"-3" }}</span>{% endif %}
+          </td>
+          <td><span class="iv-source iv-source--{{ e.source|default:'unknown' }}">{{ e.source|default:"—" }}</span></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <p class="iv-empty" id="iv-empty" hidden>No interviews match the current filters.</p>
   </div>
 </div>
+
+<script src="{% static 'js/interviews.js' %}"></script>
 {% endblock %}

@@ -7,6 +7,8 @@ role: Founder & Director
 organization: Costa Rica Tech Week / Latin American Startup Alliance (Central America)
 countries: ["CR", "HN", "GT", "regional"]
 topics: ["startup-ecosystem-maturity", "investment-market-dysfunction", "founder-development", "ecosystem-infrastructure", "angel-networks", "central-america-innovation"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/8281ea19-a4be-4dcb-9362-7f5acc5d872e-008umkv4
 ---
 

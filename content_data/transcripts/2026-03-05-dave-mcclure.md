@@ -5,8 +5,10 @@ date: 2026-03-05
 stakeholder: Dave McClure
 role: Founder / General Partner
 organization: Practical VC
-countries: ["regional", "United States of America"]
+countries: ["regional", "US"]
 topics: ["fund-of-funds-strategy", "secondary-market-liquidity", "tax-policy-incentives", "development-bank-lp-reform", "seed-stage-ecosystem", "latin-america-venture-capital"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/3cc6adb5-e6d3-407d-92a5-9a0cbbe869ce
 ---
 

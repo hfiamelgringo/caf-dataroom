@@ -6,6 +6,8 @@ stakeholder: Rockefeller Foundation representative
 organization: Rockefeller Foundation
 countries: ["HN", "GT", "regional"]
 topics: ["food-systems", "convening-design", "dry-corridor", "private-sector-engagement", "budget-scoping", "stakeholder-mapping"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/000d070a-c144-46d4-a0a0-8b84d525ef2a-008umkv4
 ---
 

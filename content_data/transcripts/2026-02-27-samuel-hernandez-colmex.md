@@ -7,6 +7,8 @@ role: Former Technology Development Liaison, Mexican Consulate in Silicon Valley
 organization: El Colegio de México (Colmex) / formerly Mexican Consulate San Francisco
 countries: ["regional", "Mexico"]
 topics: ["silicon-valley-strategy", "venture-capital-ecosystem", "founder-pipeline", "latin-american-funding-gaps", "consulate-diplomacy", "cross-border-investment"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/7306a917-76df-4db9-855c-fdd93e81f66b-005eakxy
 ---
 

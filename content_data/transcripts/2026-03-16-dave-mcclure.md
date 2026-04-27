@@ -5,8 +5,10 @@ date: 2026-03-16
 stakeholder: Dave McClure
 role: Venture Capitalist / Ecosystem Advisor
 organization: 500 Startups (founder); independent VC practitioner
-countries: ["regional", "United States of America"]
+countries: ["regional", "US"]
 topics: ["fund-of-funds", "government-venture-capital", "secondary-liquidity", "tax-incentives", "ecosystem-development", "development-banking"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/33771159-3d13-4337-a8cb-c6ba975b6263-008umkv4
 ---
 

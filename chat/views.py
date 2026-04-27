@@ -39,6 +39,7 @@ def chat_api(request):
     return JsonResponse({
         "answer": result["answer"],
         "sources": result["sources"],
+        "source_links": result.get("source_links", []),
         "response_time_ms": elapsed_ms,
         "session_id": session_id,
     })

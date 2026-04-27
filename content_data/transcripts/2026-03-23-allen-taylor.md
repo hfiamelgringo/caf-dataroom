@@ -4,8 +4,10 @@ description: Load this when the user asks about Endeavor's model or strategy in 
 date: 2026-03-23
 stakeholder: Allen Taylor
 organization: Endeavor
-countries: ["CR", "GT", "regional", "United States of America"]
+countries: ["CR", "GT", "regional", "US"]
 topics: ["high-growth-entrepreneurship", "venture-capital", "regional-expansion-strategy", "ecosystem-development", "fund-structure", "multiplier-effect"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/af234efd-1403-4aaa-8ff0-10958c490b57
 ---
 

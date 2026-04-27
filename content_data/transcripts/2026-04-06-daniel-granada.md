@@ -7,6 +7,8 @@ role: Fund Manager / Partner
 organization: Pomona Impact
 countries: ["CR", "HN", "GT", "regional"]
 topics: ["venture-capital-ecosystem", "debt-financing", "local-lp-fundraising", "regulatory-fragmentation", "impact-investing", "matching-capital-mechanisms"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/f0434c5d-cd59-4985-a470-2a88d5ad6ad5-008umkv4
 ---
 

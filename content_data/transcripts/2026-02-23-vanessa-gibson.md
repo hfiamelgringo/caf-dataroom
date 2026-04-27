@@ -7,6 +7,8 @@ role: Representative
 organization: CINDE
 countries: ["CR"]
 topics: ["payment-systems", "startup-ecosystem-regulation", "fdi-vs-entrepreneurship", "costa-rica-political-transition", "crypto-stablecoin-policy", "regional-fintech-infrastructure"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/16718622-f25e-4198-ad77-d8a86646a4ad
 ---
 

@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       const data = await res.json();
-      appendMessage('assistant', data.answer, data.sources);
+      appendMessage('assistant', data.answer, data.source_links || data.sources || []);
     } catch (err) {
       typing.remove();
       appendMessage('assistant', 'Connection error. Please try again.');
@@ -60,7 +60,23 @@ document.addEventListener('DOMContentLoaded', function () {
     if (sources && sources.length > 0) {
       const srcEl = document.createElement('div');
       srcEl.className = 'chat-msg__sources';
-      srcEl.textContent = 'Sources: ' + sources.join(', ');
+      const label = document.createElement('span');
+      label.textContent = 'Sources: ';
+      srcEl.appendChild(label);
+      sources.forEach((s, i) => {
+        if (i > 0) srcEl.appendChild(document.createTextNode(', '));
+        if (typeof s === 'string') {
+          srcEl.appendChild(document.createTextNode(s));
+        } else if (s.url) {
+          const a = document.createElement('a');
+          a.href = s.url;
+          a.textContent = s.title || s.stakeholder || s.slug;
+          a.className = 'chat-msg__source-link';
+          srcEl.appendChild(a);
+        } else {
+          srcEl.appendChild(document.createTextNode(s.title || s.slug || '?'));
+        }
+      });
       msg.appendChild(srcEl);
     }
 

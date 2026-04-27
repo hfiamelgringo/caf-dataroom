@@ -7,6 +7,8 @@ role: Co-founder
 organization: Venture.do
 countries: ["DO"]
 topics: ["venture-capital", "startup-ecosystem", "fintech", "regulatory-barriers", "investment-landscape", "diaspora-opportunities"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/f8444723-a649-4d26-b234-852bdcad8f5b-009c2hma
 ---
 

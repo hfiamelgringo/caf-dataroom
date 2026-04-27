@@ -5,8 +5,10 @@ date: 2026-03-03
 stakeholder: Nat, Mark, Geoffrey, Jonathan, Rigo
 role: Partners / Team
 organization: Magma Partners
-countries: ["regional", "Guatemala", "Mexico", "Chile"]
+countries: ["regional", "GT", "Mexico", "Chile"]
 topics: ["accelerator-and-ecosystem-building", "angel-investing-and-investor-education", "micro-investment-at-scale", "university-ecosystem-mismatch", "government-policy-and-zombie-companies", "structured-finance-and-sba-style-instruments"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/85dc4773-a9a7-451e-864c-388dfb94e4e9-005eakxy
 ---
 

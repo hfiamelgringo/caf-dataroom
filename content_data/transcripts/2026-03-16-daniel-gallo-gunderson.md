@@ -7,6 +7,8 @@ role: LatAm Legal Counsel
 organization: Gunderson Dettmer
 countries: ["CR", "HN", "GT", "DO", "Mexico", "Brazil", "Chile", "Colombia", "Argentina", "Uruguay", "regional"]
 topics: ["regulatory-frameworks", "fund-structures", "ubo-disclosure", "tax-treaties", "employee-stock-options", "legal-certainty"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/9411bcb1-2c42-4965-802d-39c21b17186b-008umkv4
 ---
 

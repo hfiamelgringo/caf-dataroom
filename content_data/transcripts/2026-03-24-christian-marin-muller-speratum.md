@@ -7,6 +7,8 @@ role: Founder
 organization: Speratum
 countries: ["CR"]
 topics: ["biotech", "costa-rica", "founder-introductions", "speratum"]
+anonymous: false
+anonymized_label: ""
 source: drive-gemini-notes-english
 source_url: https://docs.google.com/document/d/1Jh824cdFEWXZjjr0ZZpXaWVG-j-H2uAX-AVbIbnzgG4/edit
 ---

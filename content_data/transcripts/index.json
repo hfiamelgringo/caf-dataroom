@@ -1,5 +1,28 @@
 [
   {
+    "file": "2026-04-17-fabricio-zabala-petra.md",
+    "description": "When the user asks about LatAm VC secondary markets, the Petra Secondaries brokerage thesis, the supply-demand mismatch (200 inbound seller offers vs. ~8 deals in 6 weeks), why $30M+ secondary positions can't clear locally, the proposed $500M closed-end LatAm VC vehicle modeled on Pershing Square, the 70% foreign / 30% local capital flow data, or DPI pressure on Fund 1/2 LPs — load this. Hand-written summary of Fabricio Zabala (Founder, Petra Secondaries) on 2026-04-17.",
+    "date": "2026-04-17",
+    "stakeholder": "Fabricio Zabala",
+    "role": "Founder",
+    "organization": "Petra Secondaries",
+    "countries": [
+      "regional"
+    ],
+    "topics": [
+      "secondary-markets",
+      "exits",
+      "liquidity",
+      "fund-vehicle-design",
+      "capital-flows",
+      "dpi"
+    ],
+    "anonymous": false,
+    "anonymized_label": "",
+    "source": "hand-written-summary",
+    "name": "2026-04-17-fabricio-zabala-petra"
+  },
+  {
     "file": "2026-04-09-santiago-henao-ruta-n-transcript.md",
     "description": "When the user wants verbatim Spanish-language quotes from the Ruta N Medellín conversation — exact phrasing on the Medellín Venture Capital fund-of-funds program, the 97/3 local-vs-foreign capital data point, the Bancoldex / Sima Fintech investment specifics, or the \"money follows the money\" narrative — load this. Verbatim transcript of Santiago Henao (Director, Medellín Venture Capital at Ruta N) on 2026-04-09. Companion to the bullet-summary version; use this when citing direct quotes is important.",
     "date": "2026-04-09",
@@ -19,7 +42,55 @@
       "verbatim-quotes"
     ],
     "source": "drive-transcript",
-    "name": "2026-04-09-santiago-henao-ruta-n-transcript"
+    "name": "2026-04-09-santiago-henao-ruta-n-transcript",
+    "anonymous": false,
+    "anonymized_label": ""
+  },
+  {
+    "file": "2026-04-09-santiago-henao-ruta-n-summary.md",
+    "description": "When the user asks about Medellín's city-level VC strategy as a peer model for CAF, the Medellín Venture Capital three-pronged program (formation / community / fund-of-funds), the 97% foreign / 3% local capital data point, the Mei Capital syndicate origin story, the Bancoldex / Sima Fintech Plus investment cascade, the Israeli Yozma / Mexican FdF / Peruvian COFIDE / Chilean CORFO reference set, the Inversómetro and Startia open-data tools, or 'money follows the money' as a local-investment thesis — load this. Hand-written summary of Santiago Henao (Director, Medellín Venture Capital at Ruta N) on 2026-04-09.",
+    "date": "2026-04-09",
+    "stakeholder": "Santiago Henao",
+    "role": "Director, Medellín Venture Capital",
+    "organization": "Ruta N (Medellín)",
+    "countries": [
+      "Colombia"
+    ],
+    "topics": [
+      "fund-of-funds",
+      "local-capital-flywheel",
+      "ecosystem-data",
+      "ruta-n",
+      "venture-capital",
+      "peer-model"
+    ],
+    "anonymous": false,
+    "anonymized_label": "",
+    "source": "hand-written-summary",
+    "name": "2026-04-09-santiago-henao-ruta-n-summary"
+  },
+  {
+    "file": "2026-04-08-efrain-torrentes-procomer.md",
+    "description": "When the user asks about Costa Rica's investment-promotion model, PROCOMER's structure and KPIs, the Acá Global credit-bridge program, the Silicon Valley OPI office, the ~700 multinationals clustered in Alajuela/Grecia/Cartago, Costa Rican banking regulation gaps (consumer-banking bias, no ticket-size differentiation), the absence of a startup law, or comparing Costa Rica to Ireland or Korea on human-capital strategy — load this. Hand-written summary of Efraín Torrentes Guillén (PROCOMER, Encadenamientos) on 2026-04-08.",
+    "date": "2026-04-08",
+    "stakeholder": "Efraín Torrentes Guillén",
+    "role": "Encadenamientos / Supplier Linkages",
+    "organization": "PROCOMER (Promotora del Comercio Exterior de Costa Rica)",
+    "countries": [
+      "CR"
+    ],
+    "topics": [
+      "investment-promotion",
+      "costa-rica",
+      "banking-regulation",
+      "multinationals",
+      "talent-policy",
+      "ireland-peer-model"
+    ],
+    "anonymous": false,
+    "anonymized_label": "",
+    "source": "hand-written-summary",
+    "name": "2026-04-08-efrain-torrentes-procomer"
   },
   {
     "file": "2026-04-06-daniel-granada.md",
@@ -42,7 +113,9 @@
       "impact-investing",
       "matching-capital-mechanisms"
     ],
-    "name": "2026-04-06-daniel-granada"
+    "name": "2026-04-06-daniel-granada",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-26-javier-berrocal-d.md",
@@ -62,7 +135,9 @@
       "sustainable-materials",
       "central-america-investment-gaps"
     ],
-    "name": "2026-03-26-javier-berrocal-d"
+    "name": "2026-03-26-javier-berrocal-d",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-25-lizanka-guevara.md",
@@ -82,7 +157,9 @@
       "tax-incentives",
       "investment-protection"
     ],
-    "name": "2026-03-25-lizanka-guevara"
+    "name": "2026-03-25-lizanka-guevara",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-25-amcham-honduras-representative.md",
@@ -102,7 +179,9 @@
       "tax-incentives",
       "investment-protection"
     ],
-    "name": "2026-03-25-amcham-honduras-representative"
+    "name": "2026-03-25-amcham-honduras-representative",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-25-alvaro-peralta.md",
@@ -122,7 +201,9 @@
       "sector-clusters",
       "medtech-biotech"
     ],
-    "name": "2026-03-25-alvaro-peralta"
+    "name": "2026-03-25-alvaro-peralta",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-24-christian-marin-muller-speratum.md",
@@ -141,7 +222,9 @@
       "speratum"
     ],
     "source": "drive-gemini-notes-english",
-    "name": "2026-03-24-christian-marin-muller-speratum"
+    "name": "2026-03-24-christian-marin-muller-speratum",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-23-allen-taylor.md",
@@ -154,7 +237,7 @@
       "CR",
       "GT",
       "regional",
-      "United States of America"
+      "US"
     ],
     "topics": [
       "high-growth-entrepreneurship",
@@ -164,7 +247,9 @@
       "fund-structure",
       "multiplier-effect"
     ],
-    "name": "2026-03-23-allen-taylor"
+    "name": "2026-03-23-allen-taylor",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-16-daniel-gallo-gunderson.md",
@@ -194,7 +279,9 @@
       "employee-stock-options",
       "legal-certainty"
     ],
-    "name": "2026-03-16-daniel-gallo-gunderson"
+    "name": "2026-03-16-daniel-gallo-gunderson",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-16-dave-mcclure.md",
@@ -205,7 +292,7 @@
     "organization": "500 Startups (founder); independent VC practitioner",
     "countries": [
       "regional",
-      "United States of America"
+      "US"
     ],
     "topics": [
       "fund-of-funds",
@@ -215,7 +302,9 @@
       "ecosystem-development",
       "development-banking"
     ],
-    "name": "2026-03-16-dave-mcclure"
+    "name": "2026-03-16-dave-mcclure",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-16-andy-tsao.md",
@@ -226,7 +315,7 @@
     "organization": "Silicon Valley Bank (SVB)",
     "countries": [
       "regional",
-      "United States"
+      "US"
     ],
     "topics": [
       "venture-debt",
@@ -236,7 +325,9 @@
       "offshore-structures",
       "development-bank-partnerships"
     ],
-    "name": "2026-03-16-andy-tsao"
+    "name": "2026-03-16-andy-tsao",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-12-manariba.md",
@@ -256,7 +347,9 @@
       "honduras-ecosystem",
       "regulatory-environment"
     ],
-    "name": "2026-03-12-manariba"
+    "name": "2026-03-12-manariba",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-11-albedo-solar-representative.md",
@@ -276,7 +369,9 @@
       "venture-capital-ecosystem",
       "development-finance-barriers"
     ],
-    "name": "2026-03-11-albedo-solar-representative"
+    "name": "2026-03-11-albedo-solar-representative",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-11-dan-gray.md",
@@ -296,7 +391,9 @@
       "lp-landscape",
       "missing-middle-funding-gap"
     ],
-    "name": "2026-03-11-dan-gray"
+    "name": "2026-03-11-dan-gray",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-11-daneri.md",
@@ -319,7 +416,9 @@
       "regional-scaling",
       "financial-inclusion"
     ],
-    "name": "2026-03-11-daneri"
+    "name": "2026-03-11-daneri",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-11-israel-garcia.md",
@@ -340,7 +439,9 @@
       "ai-adoption",
       "tech-events"
     ],
-    "name": "2026-03-11-israel-garcia"
+    "name": "2026-03-11-israel-garcia",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-09-peter-walker.md",
@@ -351,7 +452,7 @@
     "organization": "Carta",
     "countries": [
       "regional",
-      "United States of America"
+      "US"
     ],
     "topics": [
       "venture-capital-market-dynamics",
@@ -361,7 +462,9 @@
       "cap-table-data",
       "ecosystem-development"
     ],
-    "name": "2026-03-09-peter-walker"
+    "name": "2026-03-09-peter-walker",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-06-patrick-menendez.md",
@@ -382,7 +485,9 @@
       "cvc-shutdowns",
       "internal-alignment"
     ],
-    "name": "2026-03-06-patrick-menendez"
+    "name": "2026-03-06-patrick-menendez",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-05-dave-mcclure.md",
@@ -393,7 +498,7 @@
     "organization": "Practical VC",
     "countries": [
       "regional",
-      "United States of America"
+      "US"
     ],
     "topics": [
       "fund-of-funds-strategy",
@@ -403,7 +508,9 @@
       "seed-stage-ecosystem",
       "latin-america-venture-capital"
     ],
-    "name": "2026-03-05-dave-mcclure"
+    "name": "2026-03-05-dave-mcclure",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-03-03-nat-mark-geoffrey-jonathan-rigo.md",
@@ -414,7 +521,7 @@
     "organization": "Magma Partners",
     "countries": [
       "regional",
-      "Guatemala",
+      "GT",
       "Mexico",
       "Chile"
     ],
@@ -426,7 +533,9 @@
       "government-policy-and-zombie-companies",
       "structured-finance-and-sba-style-instruments"
     ],
-    "name": "2026-03-03-nat-mark-geoffrey-jonathan-rigo"
+    "name": "2026-03-03-nat-mark-geoffrey-jonathan-rigo",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-27-nelson-ir-as-n-ez.md",
@@ -449,7 +558,9 @@
       "angel-networks",
       "central-america-innovation"
     ],
-    "name": "2026-02-27-nelson-ir-as-n-ez"
+    "name": "2026-02-27-nelson-ir-as-n-ez",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-27-maria-v-lez.md",
@@ -473,7 +584,9 @@
       "social-impact-investing",
       "regional-expansion"
     ],
-    "name": "2026-02-27-maria-v-lez"
+    "name": "2026-02-27-maria-v-lez",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-27-samuel-hernandez-colmex.md",
@@ -494,7 +607,9 @@
       "consulate-diplomacy",
       "cross-border-investment"
     ],
-    "name": "2026-02-27-samuel-hernandez-colmex"
+    "name": "2026-02-27-samuel-hernandez-colmex",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-23-agostina.md",
@@ -514,7 +629,9 @@
       "latin-america-ecosystem",
       "ai-for-good"
     ],
-    "name": "2026-02-23-agostina"
+    "name": "2026-02-23-agostina",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-23-vanessa-gibson.md",
@@ -534,7 +651,9 @@
       "crypto-stablecoin-policy",
       "regional-fintech-infrastructure"
     ],
-    "name": "2026-02-23-vanessa-gibson"
+    "name": "2026-02-23-vanessa-gibson",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-19-jos-kont.md",
@@ -555,7 +674,9 @@
       "public-sector-catalytic-role",
       "family-office-engagement"
     ],
-    "name": "2026-02-19-jos-kont"
+    "name": "2026-02-19-jos-kont",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-13-santiago-zavala.md",
@@ -579,7 +700,9 @@
       "market-size-constraints",
       "corporate-venture-capital"
     ],
-    "name": "2026-02-13-santiago-zavala"
+    "name": "2026-02-13-santiago-zavala",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-13-adi-beitler.md",
@@ -603,7 +726,9 @@
       "caf-investment-strategy",
       "fund-governance"
     ],
-    "name": "2026-02-13-adi-beitler"
+    "name": "2026-02-13-adi-beitler",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-12-louis-prouvost.md",
@@ -623,7 +748,9 @@
       "ito-outsourcing",
       "talent-pipeline-finance"
     ],
-    "name": "2026-02-12-louis-prouvost"
+    "name": "2026-02-12-louis-prouvost",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-11-rockefeller-foundation-representative.md",
@@ -645,7 +772,9 @@
       "budget-scoping",
       "stakeholder-mapping"
     ],
-    "name": "2026-02-11-rockefeller-foundation-representative"
+    "name": "2026-02-11-rockefeller-foundation-representative",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-05-jos-kont.md",
@@ -668,7 +797,9 @@
       "startup-incentive-programs",
       "government-coordination"
     ],
-    "name": "2026-02-05-jos-kont"
+    "name": "2026-02-05-jos-kont",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-02-03-jorge-vargas.md",
@@ -688,7 +819,9 @@
       "investment-landscape",
       "diaspora-opportunities"
     ],
-    "name": "2026-02-03-jorge-vargas"
+    "name": "2026-02-03-jorge-vargas",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-01-14-rockefeller-foundation-latam-team.md",
@@ -712,7 +845,9 @@
       "clean-energy-access",
       "ecosystem-mapping"
     ],
-    "name": "2026-01-14-rockefeller-foundation-latam-team"
+    "name": "2026-01-14-rockefeller-foundation-latam-team",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2026-01-14-rockefeller-andrea-acevedo-detailed.md",
@@ -739,7 +874,9 @@
       "private-sector-partnership"
     ],
     "source": "drive-gemini-notes-spanish",
-    "name": "2026-01-14-rockefeller-andrea-acevedo-detailed"
+    "name": "2026-01-14-rockefeller-andrea-acevedo-detailed",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2025-12-17-marcos-paya.md",
@@ -759,7 +896,9 @@
       "project-scoping",
       "dfi-evaluation-frameworks"
     ],
-    "name": "2025-12-17-marcos-paya"
+    "name": "2025-12-17-marcos-paya",
+    "anonymous": false,
+    "anonymized_label": ""
   },
   {
     "file": "2025-12-03-barnaby-dorfman.md",
@@ -783,6 +922,8 @@
       "diaspora-networks",
       "public-private-partnership"
     ],
-    "name": "2025-12-03-barnaby-dorfman"
+    "name": "2025-12-03-barnaby-dorfman",
+    "anonymous": false,
+    "anonymized_label": ""
   }
 ]

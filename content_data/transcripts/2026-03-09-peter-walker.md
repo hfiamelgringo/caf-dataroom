@@ -5,8 +5,10 @@ date: 2026-03-09
 stakeholder: Peter Walker
 role: Head of Insights
 organization: Carta
-countries: ["regional", "United States of America"]
+countries: ["regional", "US"]
 topics: ["venture-capital-market-dynamics", "lp-strategy", "fund-of-funds", "emerging-managers", "cap-table-data", "ecosystem-development"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/1fa644d4-dc08-4903-bf9e-4e8fc95db6e6-008umkv4
 ---
 

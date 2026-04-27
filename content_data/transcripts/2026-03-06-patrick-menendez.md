@@ -7,6 +7,8 @@ role: Investment Director
 organization: FEMSA Ventures
 countries: ["regional", "Mexico"]
 topics: ["corporate-venture-capital", "latam-vc-ecosystem", "fund-sizing", "multilateral-development-banks", "cvc-shutdowns", "internal-alignment"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/d/18094c66-4898-40c5-8535-d6faed857f33?utm_source=granola-app&utm_medium=copy-link&utm_campaign=document-share&utm_content=link-icon-button
 ---
 

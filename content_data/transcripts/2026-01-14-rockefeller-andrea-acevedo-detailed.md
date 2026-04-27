@@ -7,6 +7,8 @@ role: Regional Office Lead, Latin America & Caribbean
 organization: Rockefeller Foundation
 countries: ["regional", "GT", "HN", "CR", "Colombia", "Brazil"]
 topics: ["climate-migration", "school-meals", "regenerative-agriculture", "energy-access", "philanthropic-strategy", "convening-model", "private-sector-partnership"]
+anonymous: false
+anonymized_label: ""
 source: drive-gemini-notes-spanish
 source_url: https://docs.google.com/document/d/1Sjl6vr6APIXFu6XrZGNJWBlj-3q9b4ALLnAwNpmOGjQ/edit
 ---

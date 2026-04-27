@@ -7,6 +7,8 @@ role: Founder / CEO
 organization: Nilus (formerly; now Partnership for the Americas context)
 countries: ["GT", "HN", "CR", "DO", "regional"]
 topics: ["impact-fund-design", "venture-capital-structure", "impact-investing", "entrepreneurial-ecosystems", "caf-investment-strategy", "fund-governance"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/5b6cfc02-4764-4c74-9182-29df88f59d4d-009c2hma
 ---
 

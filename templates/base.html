@@ -39,7 +39,7 @@
     {% include "chat/widget.html" %}
   </div>
 
-  <script src="{% static 'js/nav.js' %}"></script>
-  <script src="{% static 'js/chat.js' %}"></script>
+  <script src="{% static 'js/nav.js' %}?v={% now 'U' %}"></script>
+  <script src="{% static 'js/chat.js' %}?v={% now 'U' %}"></script>
 </body>
 </html>

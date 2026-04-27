@@ -7,6 +7,8 @@ role: Representative / Leader
 organization: Crack the Code
 countries: ["CR", "HN", "GT", "DO", "regional"]
 topics: ["edtech-innovation", "public-school-partnerships", "workforce-development", "ai-curriculum", "social-impact-investing", "regional-expansion"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/78ea48fc-0365-4e80-958b-2f90b011b376-008umkv4
 ---
 

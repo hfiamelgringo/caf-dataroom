@@ -6,6 +6,8 @@ stakeholder: Albedo Solar representative
 organization: Albedo Solar
 countries: ["GT", "HN"]
 topics: ["solar-energy-financing", "lease-to-own-models", "sme-clean-energy", "venture-capital-ecosystem", "development-finance-barriers"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/4b0ce80f-adda-483e-81e8-664dcacba906-008umkv4
 ---
 

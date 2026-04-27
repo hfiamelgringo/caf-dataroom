@@ -7,6 +7,8 @@ role: Angel Investor / General Partner
 organization: 500 Global (500 LatAm)
 countries: ["GT", "HN", "DO", "regional", "Mexico"]
 topics: ["venture-capital-fund-performance", "central-america-investment-challenges", "entity-structure-legal", "lp-ecosystem-fundraising", "market-size-constraints", "corporate-venture-capital"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/361e26ed-88c5-49aa-85af-40a44ce5a220-008umkv4
 ---
 

@@ -5,6 +5,8 @@ date: 2025-12-17
 stakeholder: Marcos Paya
 countries: ["regional"]
 topics: ["caf-partnership", "fund-postmortem", "ecosystem-assessment", "team-capability-gaps", "project-scoping", "dfi-evaluation-frameworks"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/aa21bfaf-a195-4327-a71d-e4f15d4470c6-008umkv4
 ---
 

@@ -7,6 +7,8 @@ role: Partner
 organization: MainSail Partners
 countries: ["CR", "HN", "GT", "DO", "regional"]
 topics: ["pe-and-growth-capital", "b2b-saas-acquisition", "ai-applications", "capital-structure-gaps", "diaspora-networks", "public-private-partnership"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/b8722658-1bae-4a24-916e-e91aae8662c5
 ---
 

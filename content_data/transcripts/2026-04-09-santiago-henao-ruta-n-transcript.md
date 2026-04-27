@@ -7,6 +7,8 @@ role: Director, Medellín Venture Capital
 organization: Ruta N (Medellín)
 countries: ["Colombia", "regional"]
 topics: ["fund-of-funds", "local-capital-flywheel", "ecosystem-data", "ruta-n", "venture-capital", "verbatim-quotes"]
+anonymous: false
+anonymized_label: ""
 source: drive-transcript
 source_url: https://docs.google.com/document/d/1o-Xx0lWXVBE0n4oWdYWLAf_HIi-3MxNJn3scbDJe81g/edit
 ---

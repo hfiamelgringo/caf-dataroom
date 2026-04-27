@@ -6,6 +6,8 @@ stakeholder: Alvaro Peralta
 organization: Urek
 countries: ["CR"]
 topics: ["innovation-ecosystem", "startup-readiness", "venture-financing", "regulatory-barriers", "sector-clusters", "medtech-biotech"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/1cabcb91-c39f-426c-b043-886eef5e8282-008umkv4
 ---
 

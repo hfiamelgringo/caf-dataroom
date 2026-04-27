@@ -6,6 +6,8 @@ stakeholder: Lizanka Guevara
 organization: AmCham Honduras
 countries: ["HN"]
 topics: ["regulatory-framework", "company-formation", "foreign-investment", "venture-capital-structures", "tax-incentives", "investment-protection"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/fab9e110-5db7-4187-961f-eb432ecd9b84
 ---
 

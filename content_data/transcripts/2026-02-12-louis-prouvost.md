@@ -7,6 +7,8 @@ role: Co-founder / Leader
 organization: Level Up
 countries: ["GT"]
 topics: ["tech-talent-training", "ai-workforce-development", "nearshoring", "fee-for-service-education", "ito-outsourcing", "talent-pipeline-finance"]
+anonymous: false
+anonymized_label: ""
 source_url: https://notes.granola.ai/t/b4f3b11a-9448-4968-b1e7-1cf57fd85f7a-008umkv4
 ---
 

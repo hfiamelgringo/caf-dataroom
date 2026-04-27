@@ -2,7 +2,10 @@ from pathlib import Path
 
 from django.conf import settings
 from django.shortcuts import render, get_object_or_404
+import markdown as md_lib
+
 from .models import Interview, Section
+from . import transcripts as tx
 
 COUNTRY_IMAGE_DIRS = {
     "GT": "guatemala",
@@ -84,19 +87,29 @@ def recommendations(request):
 
 
 def interviews_list(request):
-    interviews = Interview.objects.filter(is_public=True)
+    entries = tx.load_index()
+    filters = tx.collect_filter_options(entries)
     nav_sections = Section.objects.all()
     return render(request, "content/interviews_list.html", {
-        "interviews": interviews,
+        "entries": entries,
+        "filters": filters,
         "nav_sections": nav_sections,
     })
 
 
 def interview_detail(request, slug):
-    interview = get_object_or_404(Interview, slug=slug, is_public=True)
+    entry = tx.load_transcript(slug)
+    if entry is None:
+        from django.http import Http404
+        raise Http404(f"Transcript not found: {slug}")
+    body_html = md_lib.markdown(
+        entry.get("body", ""),
+        extensions=["tables", "fenced_code"],
+    )
     nav_sections = Section.objects.all()
     return render(request, "content/interview_detail.html", {
-        "interview": interview,
+        "entry": entry,
+        "body_html": body_html,
         "nav_sections": nav_sections,
     })
 
