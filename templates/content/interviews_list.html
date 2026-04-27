@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load content_filters %}
+{% block title %}Stakeholder Interviews{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="article">
+    <header class="article__header">
+      <h1>Stakeholder Interviews</h1>
+      <p style="font-size: 1.05rem; color: var(--gray); max-width: 68ch; margin-top: var(--space-sm);">
+        Curated summaries of conversations with stakeholders across the region — government promotion agencies,
+        regional venture capital, peer innovation hubs, and emerging-markets liquidity specialists. Use the
+        AI Report Assistant on the right to ask questions across these interviews and the wider report.
+      </p>
+    </header>
+
+    <div class="card-grid">
+      {% for iv in interviews %}
+      <a href="{% url 'content:interview_detail' iv.slug %}" class="card" style="text-decoration: none; grid-column: auto;">
+        <div class="card__label">
+          {{ iv.country_label|default:iv.country_code }}{% if iv.topic_tag %} &middot; {{ iv.topic_tag }}{% endif %}
+        </div>
+        <div class="card__title">{{ iv.title }}</div>
+        <div class="card__body">
+          <strong>{{ iv.stakeholder_name }}</strong>{% if iv.stakeholder_role %} &mdash; {{ iv.stakeholder_role }}{% endif %}<br>
+          {% if iv.organization %}{{ iv.organization }}<br>{% endif %}
+          <span style="font-size: 12px; color: var(--gray); text-transform: uppercase; letter-spacing: 1px;">{{ iv.date|date:"F j, Y" }}</span>
+        </div>
+      </a>
+      {% empty %}
+      <p>No interviews loaded yet.</p>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endblock %}

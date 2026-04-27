@@ -2,7 +2,7 @@ from pathlib import Path
 
 from django.conf import settings
 from django.shortcuts import render, get_object_or_404
-from .models import Section
+from .models import Interview, Section
 
 COUNTRY_IMAGE_DIRS = {
     "GT": "guatemala",
@@ -79,6 +79,24 @@ def recommendations(request):
     nav_sections = Section.objects.all()
     return render(request, "content/recommendations.html", {
         "recommendations": recs,
+        "nav_sections": nav_sections,
+    })
+
+
+def interviews_list(request):
+    interviews = Interview.objects.filter(is_public=True)
+    nav_sections = Section.objects.all()
+    return render(request, "content/interviews_list.html", {
+        "interviews": interviews,
+        "nav_sections": nav_sections,
+    })
+
+
+def interview_detail(request, slug):
+    interview = get_object_or_404(Interview, slug=slug, is_public=True)
+    nav_sections = Section.objects.all()
+    return render(request, "content/interview_detail.html", {
+        "interview": interview,
         "nav_sections": nav_sections,
     })
 

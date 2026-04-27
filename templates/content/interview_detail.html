@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load content_filters %}
+{% block title %}{{ interview.title }}{% endblock %}
+
+{% block content %}
+<div class="container">
+  <article class="article">
+    <nav class="breadcrumbs">
+      <a href="{% url 'content:home' %}">Home</a>
+      <span class="breadcrumbs__sep">/</span>
+      <a href="{% url 'content:interviews_list' %}">Interviews</a>
+      <span class="breadcrumbs__sep">/</span>
+      <span class="breadcrumbs__current">{{ interview.stakeholder_name }}</span>
+    </nav>
+
+    <header class="article__header">
+      <div class="card__label" style="margin-bottom: var(--space-sm);">
+        {{ interview.country_label|default:interview.country_code }}{% if interview.topic_tag %} &middot; {{ interview.topic_tag }}{% endif %}
+      </div>
+      <h2>{{ interview.title }}</h2>
+      <p style="color: var(--gray); margin-top: var(--space-sm); font-size: 1.05rem;">
+        <strong>{{ interview.stakeholder_name }}</strong>{% if interview.stakeholder_role %} &mdash; {{ interview.stakeholder_role }}{% endif %}{% if interview.organization %}<br>{{ interview.organization }}{% endif %}<br>
+        <span style="font-size: 13px; text-transform: uppercase; letter-spacing: 1px;">{{ interview.date|date:"F j, Y" }}</span>
+      </p>
+    </header>
+
+    <div class="article__body">
+      {{ interview.body_html|strip_leading_headings }}
+    </div>
+  </article>
+</div>
+{% endblock %}

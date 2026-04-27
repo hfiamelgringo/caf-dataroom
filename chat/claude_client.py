@@ -3,58 +3,61 @@ from anthropic import Anthropic
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from content.models import Section
+from content.models import Interview, Section
 
-SYSTEM_PROMPT = """You are an expert analyst for the CAF (Development Bank of Latin America and the Caribbean) venture capital strategy project. You answer questions based ONLY on the provided document sections.
+SYSTEM_PROMPT = """You are an expert analyst for the CAF (Development Bank of Latin America and the Caribbean) venture capital strategy project. You answer questions based ONLY on the provided document sections and stakeholder interview summaries.
 
 Rules:
 - Keep answers SHORT — 2-4 sentences max for a first response
 - Give the key takeaway upfront, not the full analysis
 - End with a prompt like "Want me to go deeper on [specific aspect]?" to invite follow-up
-- Answer using ONLY information from the provided <context> sections
-- Cite which section(s) your answer draws from by name
-- If the information is not in the provided sections, say so clearly
+- Answer using ONLY information from the provided <context> items (sections and interviews)
+- Cite which item(s) your answer draws from by name (e.g. "PROCOMER interview", "Recommendation 3")
+- If the information is not in the provided items, say so clearly
 - If the user asks to "go deeper" or wants more detail, then expand with bullet points and specifics
-- You may synthesize across sections, but do not invent information"""
+- You may synthesize across sections and interviews, but do not invent information"""
 
 
 def get_relevant_sections(query, top_k=6):
     sections = list(Section.objects.all())
-    if not sections:
+    interviews = list(Interview.objects.filter(is_public=True))
+    docs = sections + interviews
+    if not docs:
         return []
 
-    corpus = [f"{s.title} {s.body_markdown}" for s in sections]
+    corpus = [f"{d.title} {d.body_markdown}" for d in docs]
     corpus.append(query)
 
     vectorizer = TfidfVectorizer(stop_words="english", max_features=5000)
     tfidf_matrix = vectorizer.fit_transform(corpus)
 
     query_vec = tfidf_matrix[-1]
-    section_vecs = tfidf_matrix[:-1]
-    scores = cosine_similarity(query_vec, section_vecs).flatten()
+    doc_vecs = tfidf_matrix[:-1]
+    scores = cosine_similarity(query_vec, doc_vecs).flatten()
 
-    ranked = sorted(zip(sections, scores), key=lambda x: x[1], reverse=True)
-    return [s for s, score in ranked[:top_k] if score > 0.01]
+    ranked = sorted(zip(docs, scores), key=lambda x: x[1], reverse=True)
+    return [d for d, score in ranked[:top_k] if score > 0.01]
 
 
-def build_context(sections):
+def build_context(docs):
     parts = []
-    for s in sections:
-        parts.append(f'<section title="{s.title}" slug="{s.slug}">\n{s.body_markdown}\n</section>')
+    for d in docs:
+        kind = "interview" if isinstance(d, Interview) else "section"
+        parts.append(f'<{kind} title="{d.title}" slug="{d.slug}">\n{d.body_markdown}\n</{kind}>')
     return "\n\n".join(parts)
 
 
 def ask_claude(query):
-    sections = get_relevant_sections(query)
+    docs = get_relevant_sections(query)
 
-    if not sections:
+    if not docs:
         return {
-            "answer": "No content has been loaded yet. Please run the load_content management command first.",
+            "answer": "No content has been loaded yet. Please run the load_content and load_interviews management commands first.",
             "sources": [],
         }
 
-    context = build_context(sections)
-    source_titles = [s.title for s in sections]
+    context = build_context(docs)
+    source_titles = [d.title for d in docs]
 
     client = Anthropic(api_key=settings.ANTHROPIC_API_KEY)
     message = client.messages.create(
