@@ -95,12 +95,16 @@ def _extract_teaser(slug: str, max_chars: int = 320) -> str:
 
 
 def _last_name_key(entry: dict) -> tuple:
-    """Sort key: last word of stakeholder name, lowercased. Empty names sort last."""
+    """Sort key: last name of the BASE stakeholder (before any " — " topic suffix),
+    then session number for multi-session interviews. Empty names sort last."""
     name = (entry.get("stakeholder") or "").strip()
     if not name:
-        return (1, "")
-    last = name.split()[-1].lower()
-    return (0, last, name.lower())
+        return (1, "", "", 0, "")
+    base = re.split(r"\s+—\s+", name, maxsplit=1)[0].strip() or name
+    last = base.split()[-1].lower()
+    session_match = re.search(r"\((\d+)\s+of\s+\d+\s+interviews?\)", name)
+    session = int(session_match.group(1)) if session_match else 0
+    return (0, last, base.lower(), session, name.lower())
 
 
 def load_index() -> list[dict]:
