@@ -2,9 +2,9 @@
 name: 2026-02-03-jorge-vargas-venture-do
 description: When the user asks about the Dominican Republic startup ecosystem, venture capital landscape, regulatory barriers to investment, sector opportunities (tourism, fintech, consumer goods, diaspora), market size constraints, why founders leave the DR, government continuity problems, or who the key ecosystem actors are — load this. Covers Jorge Vargas (and co-founders Michael and Carolle) from Venture.do on 2026-02-03, discussing the state of VC, startups, and innovation infrastructure in the Dominican Republic.
 date: 2026-02-03
-stakeholder: Multiple stakeholders
-role: Co-founders, early-stage venture fund
-organization: Venture.do
+stakeholder: Venture.do
+role: Jorge Vargas, Michael & Carolle, Co-founders
+organization: ""
 countries: ["DO"]
 topics: ["venture-capital", "startup-ecosystem", "regulatory-barriers", "fintech", "diaspora", "sector-opportunities", "government-policy"]
 anonymous: false

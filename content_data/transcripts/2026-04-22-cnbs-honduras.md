@@ -2,8 +2,8 @@
 name: 2026-04-22-cnbs-honduras
 description: When the user asks about Honduras pension fund investment regulations, venture capital legal framework in Honduras, CNBS investment rules for AFPs and public pension institutes, fintech regulatory environment in Honduras, or how pension funds could invest in alternative assets or venture capital funds — load this. Covers Betsabe Franco (Superintendent of Pensions and Securities) and Benjamín Santos (Superintendent of Securities Supervision) from CNBS on April 22, discussing the regulatory landscape for venture capital and pension fund investment in Honduras.
 date: 2026-04-22
-stakeholder: Multiple stakeholders
-role: Superintendent of Pensions and Securities; Superintendent of Securities Supervision
+stakeholder: CNBS Honduras
+role: Betsabe Franco, Superintendent of Pensions and Securities; Benjamín Santos, Securities Supervision
 organization: National Commission for Banking and Insurance (CNBS) — Superintendency of Pensions and Securities
 countries: ["HN"]
 topics: ["pension-funds", "venture-capital-regulation", "securities-law", "alternative-investments", "fintech-regulation", "investment-limits", "market-development"]

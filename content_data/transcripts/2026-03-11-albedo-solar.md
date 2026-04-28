@@ -2,9 +2,9 @@
 name: 2026-03-11-albedo-solar
 description: When the user asks about solar energy startups in Central America, SME financing gaps, lease-to-own renewable energy models, collateral requirements for green SMEs, on-lending facility bottlenecks, USAID Palladium accelerator programs, FLEA conference effectiveness, holding company structuring for regional expansion, or equity fundraising challenges for non-tech impact companies in Guatemala, Honduras, and El Salvador — load this. Covers Alex Macfarlan and Jacob Stern from Albedo Solar on 2026-03-11, discussing capital access, regulatory navigation, and MDB recommendations for the Central American solar SME market.
 date: 2026-03-11
-stakeholder: Multiple stakeholders
-role: Co-founders
-organization: Albedo Solar
+stakeholder: Albedo Solar
+role: Alex Macfarlan & Jacob Stern, Co-founders
+organization: ""
 countries: ["GT", "HN"]
 topics: ["solar-energy", "sme-financing", "impact-investing", "on-lending-facilities", "accelerators", "regulatory-environment", "equity-fundraising"]
 anonymous: false

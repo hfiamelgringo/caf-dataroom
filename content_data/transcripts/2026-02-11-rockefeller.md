@@ -2,9 +2,9 @@
 name: 2026-02-11-rockefeller
 description: When the user asks about Rockefeller Foundation's food systems strategy in Central America, the dry corridor, school meals programming, regenerative agriculture funding priorities, or planning a stakeholder convening in Guatemala — load this. Covers Andrea (Program Officer) and Natalia from Rockefeller Foundation's Bogota regional office on 2026-02-11, discussing scope, budget, and structure for a proposed Central America food systems convening.
 date: 2026-02-11
-stakeholder: Multiple stakeholders
-role: Program Officer / Regional Office Staff
-organization: Rockefeller Foundation
+stakeholder: Rockefeller Foundation
+role: Andrea (Program Officer) & Natalia, Bogotá regional office
+organization: ""
 countries: ["GT", "HN", "CR", "DO", "regional"]
 topics: ["food-systems", "convening-design", "school-meals", "regenerative-agriculture", "dry-corridor", "central-america-strategy", "philanthropic-funding"]
 anonymous: false

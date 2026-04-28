@@ -2,8 +2,8 @@
 name: 2026-03-17-central-american-vc-roundtable
 description: When the user asks about VC ecosystem challenges in Central America, liquidity and exit gaps, fund structures for missing-middle companies, family office behavior, government-backed LP programs (Chile's Corfo, Colombia's Bancoldex model), accelerator quality problems, USAID funding collapse, founder awareness gaps, or the case for a Startup Central America program — load this. Covers multiple VC/impact fund stakeholders (Gallot/Ara Costa Rica, Abigail and Charles/Ara Impact Capital, Guillermo/Amador Panama, Rodrigo/Intelligent Capital El Salvador) on 2026-03-17, discussing the structural gaps, capital stack problems, and ecosystem-building priorities for Central American venture.
 date: 2026-03-17
-stakeholder: Multiple stakeholders
-role: Venture investors and fund managers
+stakeholder: Central American VC roundtable (4 funds)
+role: Gallot · Abigail & Charles (Ara Impact Capital) · Guillermo (Amador)
 organization: Ara (Costa Rica VC), Ara Impact Capital, Amador, Intelligent Capital
 countries: ["CR", "HN", "GT", "DO", "regional"]
 topics: ["ecosystem-development", "liquidity-and-exits", "fund-structure", "impact-investing", "family-offices", "government-lp-programs", "founder-readiness"]

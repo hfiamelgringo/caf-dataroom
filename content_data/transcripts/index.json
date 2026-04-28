@@ -4,8 +4,8 @@
     "name": "2026-04-22-cnbs-honduras",
     "description": "When the user asks about Honduras pension fund investment regulations, venture capital legal framework in Honduras, CNBS investment rules for AFPs and public pension institutes, fintech regulatory environment in Honduras, or how pension funds could invest in alternative assets or venture capital funds — load this. Covers Betsabe Franco (Superintendent of Pensions and Securities) and Benjamín Santos (Superintendent of Securities Supervision) from CNBS on April 22, discussing the regulatory landscape for venture capital and pension fund investment in Honduras.",
     "date": "2026-04-22",
-    "stakeholder": "Multiple stakeholders",
-    "role": "Superintendent of Pensions and Securities; Superintendent of Securities Supervision",
+    "stakeholder": "CNBS Honduras",
+    "role": "Betsabe Franco, Superintendent of Pensions and Securities; Benjamín Santos, Securities Supervision",
     "organization": "National Commission for Banking and Insurance (CNBS) — Superintendency of Pensions and Securities",
     "countries": [
       "HN"
@@ -259,8 +259,8 @@
     "name": "2026-03-17-central-american-vc-roundtable",
     "description": "When the user asks about VC ecosystem challenges in Central America, liquidity and exit gaps, fund structures for missing-middle companies, family office behavior, government-backed LP programs (Chile's Corfo, Colombia's Bancoldex model), accelerator quality problems, USAID funding collapse, founder awareness gaps, or the case for a Startup Central America program — load this. Covers multiple VC/impact fund stakeholders (Gallot/Ara Costa Rica, Abigail and Charles/Ara Impact Capital, Guillermo/Amador Panama, Rodrigo/Intelligent Capital El Salvador) on 2026-03-17, discussing the structural gaps, capital stack problems, and ecosystem-building priorities for Central American venture.",
     "date": "2026-03-17",
-    "stakeholder": "Multiple stakeholders",
-    "role": "Venture investors and fund managers",
+    "stakeholder": "Central American VC roundtable (4 funds)",
+    "role": "Gallot · Abigail & Charles (Ara Impact Capital) · Guillermo (Amador)",
     "organization": "Ara (Costa Rica VC), Ara Impact Capital, Amador, Intelligent Capital",
     "countries": [
       "CR",
@@ -395,9 +395,9 @@
     "name": "2026-03-11-albedo-solar",
     "description": "When the user asks about solar energy startups in Central America, SME financing gaps, lease-to-own renewable energy models, collateral requirements for green SMEs, on-lending facility bottlenecks, USAID Palladium accelerator programs, FLEA conference effectiveness, holding company structuring for regional expansion, or equity fundraising challenges for non-tech impact companies in Guatemala, Honduras, and El Salvador — load this. Covers Alex Macfarlan and Jacob Stern from Albedo Solar on 2026-03-11, discussing capital access, regulatory navigation, and MDB recommendations for the Central American solar SME market.",
     "date": "2026-03-11",
-    "stakeholder": "Multiple stakeholders",
-    "role": "Co-founders",
-    "organization": "Albedo Solar",
+    "stakeholder": "Albedo Solar",
+    "role": "Alex Macfarlan & Jacob Stern, Co-founders",
+    "organization": "",
     "countries": [
       "GT",
       "HN"
@@ -923,9 +923,9 @@
     "name": "2026-02-12-louis-prouvost-level-up",
     "description": "When the user asks about tech talent training in Central America, nearshoring strategy, IT outsourcing models, student loan financing for workforce development, European donor funding for skills programs, employer-sponsored boot camps, or demand-side gaps in workforce pipelines in Guatemala and El Salvador — load this. Covers Louis Prouvost (Level Up) and Jose (Level Up co-founder) on Feb 12, 2026, discussing Level Up's talent-training-to-employment model, its Act Big scaling strategy, and the missing demand-side broker to close the hiring loop.",
     "date": "2026-02-12",
-    "stakeholder": "Multiple stakeholders",
-    "role": "Co-founders",
-    "organization": "Level Up",
+    "stakeholder": "Level Up",
+    "role": "Louis Prouvost & Jose, Co-founders",
+    "organization": "",
     "countries": [
       "GT",
       "HN",
@@ -950,9 +950,9 @@
     "name": "2026-02-11-rockefeller",
     "description": "When the user asks about Rockefeller Foundation's food systems strategy in Central America, the dry corridor, school meals programming, regenerative agriculture funding priorities, or planning a stakeholder convening in Guatemala — load this. Covers Andrea (Program Officer) and Natalia from Rockefeller Foundation's Bogota regional office on 2026-02-11, discussing scope, budget, and structure for a proposed Central America food systems convening.",
     "date": "2026-02-11",
-    "stakeholder": "Multiple stakeholders",
-    "role": "Program Officer / Regional Office Staff",
-    "organization": "Rockefeller Foundation",
+    "stakeholder": "Rockefeller Foundation",
+    "role": "Andrea (Program Officer) & Natalia, Bogotá regional office",
+    "organization": "",
     "countries": [
       "GT",
       "HN",
@@ -1006,9 +1006,9 @@
     "name": "2026-02-03-jorge-vargas-venture-do",
     "description": "When the user asks about the Dominican Republic startup ecosystem, venture capital landscape, regulatory barriers to investment, sector opportunities (tourism, fintech, consumer goods, diaspora), market size constraints, why founders leave the DR, government continuity problems, or who the key ecosystem actors are — load this. Covers Jorge Vargas (and co-founders Michael and Carolle) from Venture.do on 2026-02-03, discussing the state of VC, startups, and innovation infrastructure in the Dominican Republic.",
     "date": "2026-02-03",
-    "stakeholder": "Multiple stakeholders",
-    "role": "Co-founders, early-stage venture fund",
-    "organization": "Venture.do",
+    "stakeholder": "Venture.do",
+    "role": "Jorge Vargas, Michael & Carolle, Co-founders",
+    "organization": "",
     "countries": [
       "DO"
     ],
@@ -1057,9 +1057,9 @@
     "name": "2026-01-14-rockefeller-foundation-latam",
     "description": "When the user asks about Rockefeller Foundation's Latin America regional strategy, their thematic focus areas (energy access, heat-and-health, school meals, regenerative agriculture), their approach to climate migration in Central America's dry corridor, their preference for collaborative multi-partner convenings over single-NGO grants, their existing Honduras school-feeding grant with the World Food Programme, or potential partnership structures with private sector actors in Guatemala and Honduras — load this. Covers Liana (Regional Director) and Andrea Acevedo (Operations) from the Rockefeller Foundation on 2026-01-14, discussing the Foundation's newly established Latin America and Caribbean office strategy and its interest in co-designing a climate-migration convening in Central America.",
     "date": "2026-01-14",
-    "stakeholder": "Multiple stakeholders",
-    "role": "Regional Director (Liana) and Program Operations Lead (Andrea Acevedo)",
-    "organization": "Rockefeller Foundation",
+    "stakeholder": "Rockefeller Foundation",
+    "role": "Liana (Regional Director) & Andrea Acevedo (Program Operations)",
+    "organization": "",
     "countries": [
       "GT",
       "HN",

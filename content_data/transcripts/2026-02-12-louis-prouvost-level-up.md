@@ -2,9 +2,9 @@
 name: 2026-02-12-louis-prouvost-level-up
 description: When the user asks about tech talent training in Central America, nearshoring strategy, IT outsourcing models, student loan financing for workforce development, European donor funding for skills programs, employer-sponsored boot camps, or demand-side gaps in workforce pipelines in Guatemala and El Salvador — load this. Covers Louis Prouvost (Level Up) and Jose (Level Up co-founder) on Feb 12, 2026, discussing Level Up's talent-training-to-employment model, its Act Big scaling strategy, and the missing demand-side broker to close the hiring loop.
 date: 2026-02-12
-stakeholder: Multiple stakeholders
-role: Co-founders
-organization: Level Up
+stakeholder: Level Up
+role: Louis Prouvost & Jose, Co-founders
+organization: ""
 countries: ["GT", "HN", "CR", "DO"]
 topics: ["tech-talent", "nearshoring", "workforce-development", "it-outsourcing", "european-donor-funding", "employer-partnerships", "student-financing"]
 anonymous: false
