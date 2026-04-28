@@ -77,11 +77,39 @@ def _apply_anonymization(entry: dict) -> dict:
     return sanitized
 
 
+def _extract_teaser(slug: str, max_chars: int = 320) -> str:
+    """Pull the first paragraph after `## Executive Summary` from the .md body."""
+    path = transcripts_dir() / f"{slug}.md"
+    if not path.exists():
+        return ""
+    text = path.read_text(encoding="utf-8")
+    m = re.search(r"##\s*Executive Summary\s*\n+(.+?)(?=\n##|\Z)", text, flags=re.DOTALL | re.IGNORECASE)
+    if not m:
+        return ""
+    para = m.group(1).strip().split("\n\n", 1)[0].strip()
+    para = re.sub(r"\s+", " ", para)
+    if len(para) > max_chars:
+        cut = para[:max_chars].rsplit(" ", 1)[0]
+        return cut + "…"
+    return para
+
+
+def _last_name_key(entry: dict) -> tuple:
+    """Sort key: last word of stakeholder name, lowercased. Empty names sort last."""
+    name = (entry.get("stakeholder") or "").strip()
+    if not name:
+        return (1, "")
+    last = name.split()[-1].lower()
+    return (0, last, name.lower())
+
+
 def load_index() -> list[dict]:
-    """Return all index.json entries with anonymization applied. Sorted by date desc."""
+    """Return all index.json entries with anonymization applied. Sorted alphabetically by stakeholder last name."""
     entries = json.loads(index_path().read_text(encoding="utf-8"))
     entries = [_apply_anonymization(e) for e in entries]
-    entries.sort(key=lambda e: e.get("date", ""), reverse=True)
+    for e in entries:
+        e["teaser"] = _extract_teaser(e.get("name", ""))
+    entries.sort(key=_last_name_key)
     return entries
 
 

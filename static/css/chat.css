@@ -205,3 +205,13 @@
     padding-top: var(--space-md);
   }
 }
+
+.chat-msg__cite {
+  color: var(--orange);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.chat-msg__cite:hover {
+  color: var(--blue);
+}

@@ -14,18 +14,11 @@
     </nav>
 
     <header class="article__header">
-      <div style="margin-bottom: var(--space-md);">
-        {% for c in entry.countries %}<span class="iv-tag iv-tag--country">{{ c }}</span>{% endfor %}
-        {% for t in entry.topics %}<span class="iv-tag iv-tag--topic">{{ t }}</span>{% endfor %}
-      </div>
       <h2>{{ entry.stakeholder }}</h2>
       <p style="color: var(--gray); margin-top: var(--space-sm); font-size: 1.05rem;">
         {% if entry.role %}<strong>{{ entry.role }}</strong>{% endif %}
         {% if entry.role and entry.organization %} &mdash; {% endif %}
         {% if entry.organization %}{{ entry.organization }}{% endif %}
-        <br>
-        <span style="font-size: 13px; text-transform: uppercase; letter-spacing: 1px;">{{ entry.date }}</span>
-        {% if entry.source %} &middot; <span class="iv-source">{{ entry.source }}</span>{% endif %}
       </p>
     </header>
 

@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
     content.className = 'chat-msg__content';
 
     if (role === 'assistant') {
-      content.innerHTML = renderMarkdown(text);
+      content.innerHTML = renderMarkdown(text, sources);
     } else {
       content.textContent = text;
     }
@@ -93,19 +93,62 @@ document.addEventListener('DOMContentLoaded', function () {
     return el;
   }
 
-  function renderMarkdown(text) {
-    return text
-      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\*(.+?)\*/g, '<em>$1</em>')
-      .replace(/^[-*] (.+)$/gm, '<li>$1</li>')
-      .replace(/(<li>.*<\/li>)/s, '<ul>$1</ul>')
-      .replace(/\n{2,}/g, '</p><p>')
-      .replace(/^(.+)$/gm, function (line) {
-        if (line.startsWith('<')) return line;
-        return line;
-      })
-      .replace(/^(?!<)(.+)$/gm, '<p>$1</p>')
-      .replace(/<p><\/p>/g, '');
+  function escapeRegex(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  function citationReplacements(sources) {
+    // Each source contributes patterns that match the LLM's bracketed citation forms.
+    // Org strings can be paraphrased (e.g. "Practical VC" vs the canonical long form),
+    // so we match any non-bracket text between the stakeholder name and the closing bracket.
+    const replacements = [];
+    if (!sources) return replacements;
+    sources.forEach(s => {
+      if (typeof s === 'string' || !s.url) return;
+      const stake = (s.stakeholder || '').trim();
+      if (!stake) return;
+      replacements.push({
+        pattern: new RegExp('\\[' + escapeRegex(stake) + ',\\s*[^\\]]+\\]', 'g'),
+        url: s.url,
+      });
+      replacements.push({
+        pattern: new RegExp('\\[' + escapeRegex(stake) + '\\]', 'g'),
+        url: s.url,
+      });
+    });
+    return replacements;
+  }
+
+  function linkifyCitations(html, sources) {
+    // Runs AFTER marked has produced HTML. Replaces each known citation with an
+    // anchor; strips any remaining [Word Word] / [Section Title] brackets that
+    // didn't match a source so they render as plain text without brackets.
+    const replacements = citationReplacements(sources);
+    let out = html;
+    replacements.forEach(({ pattern, url }) => {
+      out = out.replace(pattern, function (match) {
+        const label = match.slice(1, -1);
+        return '<a href="' + escapeHtml(url) + '" class="chat-msg__cite">' + escapeHtml(label) + '</a>';
+      });
+    });
+    // Strip orphan brackets — only those that look like citation candidates
+    // (start with capital letter, contain words/spaces/commas/&/-/.).
+    out = out.replace(/\[([A-Z][^\[\]\n]{1,80})\]/g, '$1');
+    return out;
+  }
+
+  function renderMarkdown(text, sources) {
+    if (typeof window.marked === 'undefined') {
+      // Fallback: minimal escape so nothing renders as raw HTML.
+      const safe = escapeHtml(text);
+      return linkifyCitations(safe, sources);
+    }
+    const html = window.marked.parse(text, { breaks: true, gfm: true });
+    return linkifyCitations(html, sources);
   }
 });
