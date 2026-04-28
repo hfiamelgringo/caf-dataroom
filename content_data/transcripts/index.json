@@ -863,34 +863,6 @@
     "source": "drive-transcript"
   },
   {
-    "file": "2026-02-13-ady-beitler-nilus.md",
-    "name": "2026-02-13-ady-beitler-nilus",
-    "description": "When the user asks about impact investing fund design, equity vs. debt instruments for social enterprises, governance structures for mission-aligned companies, the blurring line between impact funds and commercial VCs, food-tech/food-access startups in Latin America, regulatory barriers for nonprofits operating commercial activities in LatAm, or examples of credible impact investors (Elea Foundation, Promotora Social México, TechnoServe) — load this. Covers Ady Beitler, CEO of Nilus, on 2026-02-13, discussing the practical realities of impact investing from a decade of experience scaling a food-access social enterprise across Argentina, Mexico, and Central America.",
-    "date": "2026-02-13",
-    "stakeholder": "Ady Beitler",
-    "role": "CEO & Co-founder",
-    "organization": "Nilus",
-    "countries": [
-      "regional",
-      "GT",
-      "HN",
-      "CR",
-      "DO"
-    ],
-    "topics": [
-      "impact-investing",
-      "equity-fund-design",
-      "governance",
-      "social-enterprise",
-      "food-access",
-      "venture-capital",
-      "blended-finance"
-    ],
-    "anonymous": false,
-    "anonymized_label": "",
-    "source": "drive-transcript"
-  },
-  {
     "file": "2026-02-13-santiago-zavala-500.md",
     "name": "2026-02-13-santiago-zavala-500",
     "description": "When the user asks about 500 Startups' Latin America portfolio strategy, venture fund math for small markets, Central American ecosystem investment challenges, LP fundraising from family offices, development bank (IFC/IDB) value-add to VC funds, Delaware vs. local entity structures, liquidity gaps in LatAm VC, Uruguay vs. Central America startup ecosystem comparisons, Startup Chile/Corfo critique, Guatemala ecosystem dynamics, Dominican Republic portfolio companies, or pre-IPO/secondary liquidity pathways — load this. Covers Santiago Zavala (500 Startups) on 2026-02-13 discussing LatAm venture strategy, Central America deployment challenges, and ecosystem development.",
@@ -913,61 +885,6 @@
       "development-bank-partnerships",
       "liquidity-exits",
       "small-market-investing"
-    ],
-    "anonymous": false,
-    "anonymized_label": "",
-    "source": "drive-transcript"
-  },
-  {
-    "file": "2026-02-12-louis-prouvost-level-up.md",
-    "name": "2026-02-12-louis-prouvost-level-up",
-    "description": "When the user asks about tech talent training in Central America, nearshoring strategy, IT outsourcing models, student loan financing for workforce development, European donor funding for skills programs, employer-sponsored boot camps, or demand-side gaps in workforce pipelines in Guatemala and El Salvador — load this. Covers Louis Prouvost (Level Up) and Jose (Level Up co-founder) on Feb 12, 2026, discussing Level Up's talent-training-to-employment model, its Act Big scaling strategy, and the missing demand-side broker to close the hiring loop.",
-    "date": "2026-02-12",
-    "stakeholder": "Level Up",
-    "role": "Louis Prouvost & Jose, Co-founders",
-    "organization": "",
-    "countries": [
-      "GT",
-      "HN",
-      "CR",
-      "DO"
-    ],
-    "topics": [
-      "tech-talent",
-      "nearshoring",
-      "workforce-development",
-      "it-outsourcing",
-      "european-donor-funding",
-      "employer-partnerships",
-      "student-financing"
-    ],
-    "anonymous": false,
-    "anonymized_label": "",
-    "source": "drive-transcript"
-  },
-  {
-    "file": "2026-02-11-rockefeller.md",
-    "name": "2026-02-11-rockefeller",
-    "description": "When the user asks about Rockefeller Foundation's food systems strategy in Central America, the dry corridor, school meals programming, regenerative agriculture funding priorities, or planning a stakeholder convening in Guatemala — load this. Covers Andrea (Program Officer) and Natalia from Rockefeller Foundation's Bogota regional office on 2026-02-11, discussing scope, budget, and structure for a proposed Central America food systems convening.",
-    "date": "2026-02-11",
-    "stakeholder": "Rockefeller Foundation — Food systems in Central America (2 of 2 interviews)",
-    "role": "Andrea (Program Officer) & Natalia, Bogotá regional office",
-    "organization": "",
-    "countries": [
-      "GT",
-      "HN",
-      "CR",
-      "DO",
-      "regional"
-    ],
-    "topics": [
-      "food-systems",
-      "convening-design",
-      "school-meals",
-      "regenerative-agriculture",
-      "dry-corridor",
-      "central-america-strategy",
-      "philanthropic-funding"
     ],
     "anonymous": false,
     "anonymized_label": "",
@@ -1020,61 +937,6 @@
       "diaspora",
       "sector-opportunities",
       "government-policy"
-    ],
-    "anonymous": false,
-    "anonymized_label": "",
-    "source": "drive-transcript"
-  },
-  {
-    "file": "2026-01-14-lyana-latorre-rockfound.md",
-    "name": "2026-01-14-lyana-latorre-rockfound",
-    "description": "When the user asks about Rockefeller Foundation's Latin America and Caribbean regional office strategy, its thematic focus on energy, health, and food systems, the School Meals \"big bet\" ($100M commitment), climate migration in Central America's dry corridor, private-sector partnership models, or plans for a Central America convening on climate migration and regenerative agriculture — load this. Covers Andrea Acevedo from the Rockefeller Foundation on 2026-01-14, discussing regional programming priorities, collaboration models, and a proposed convening in Guatemala.",
-    "date": "2026-01-14",
-    "stakeholder": "Andrea Acevedo",
-    "role": "Regional Director, Latin America and Caribbean Office",
-    "organization": "Rockefeller Foundation",
-    "countries": [
-      "GT",
-      "HN",
-      "CR",
-      "regional"
-    ],
-    "topics": [
-      "food-systems",
-      "climate-migration",
-      "school-meals",
-      "regenerative-agriculture",
-      "private-sector-engagement",
-      "energy-access",
-      "climate-health"
-    ],
-    "anonymous": false,
-    "anonymized_label": "",
-    "source": "drive-transcript"
-  },
-  {
-    "file": "2026-01-14-rockefeller-foundation-latam.md",
-    "name": "2026-01-14-rockefeller-foundation-latam",
-    "description": "When the user asks about Rockefeller Foundation's Latin America regional strategy, their thematic focus areas (energy access, heat-and-health, school meals, regenerative agriculture), their approach to climate migration in Central America's dry corridor, their preference for collaborative multi-partner convenings over single-NGO grants, their existing Honduras school-feeding grant with the World Food Programme, or potential partnership structures with private sector actors in Guatemala and Honduras — load this. Covers Liana (Regional Director) and Andrea Acevedo (Operations) from the Rockefeller Foundation on 2026-01-14, discussing the Foundation's newly established Latin America and Caribbean office strategy and its interest in co-designing a climate-migration convening in Central America.",
-    "date": "2026-01-14",
-    "stakeholder": "Rockefeller Foundation — LatAm regional strategy (1 of 2 interviews)",
-    "role": "Liana (Regional Director) & Andrea Acevedo (Program Operations)",
-    "organization": "",
-    "countries": [
-      "GT",
-      "HN",
-      "CR",
-      "DO",
-      "regional"
-    ],
-    "topics": [
-      "school-meals",
-      "climate-migration",
-      "regenerative-agriculture",
-      "energy-access",
-      "heat-and-health",
-      "private-sector-partnership",
-      "convening-strategy"
     ],
     "anonymous": false,
     "anonymized_label": "",
