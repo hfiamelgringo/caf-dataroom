@@ -1,0 +1,33 @@
+<h3 style="margin-top:0">Edit the write-up</h3>
+
+<div class="md-help">
+  <p class="md-help__title">A quick note on formatting (Markdown)</p>
+  <p style="margin:0 0 6px">This text uses <strong>Markdown</strong> — a plain-text way to add headings and emphasis. The basics are all you need:</p>
+  <ul style="margin:0;padding-left:18px">
+    <li><code>## Heading</code> — section heading. <code>### Subheading</code> for one level smaller.</li>
+    <li><code>**bold**</code> for <strong>bold</strong>, <code>*italic*</code> for <em>italic</em>.</li>
+    <li>Blank line between paragraphs. Lines starting with <code>-</code> become bullet points.</li>
+  </ul>
+  <p style="margin:8px 0 0">Don't worry about getting the formatting perfect — we'll clean it up. Focus on the words.</p>
+</div>
+
+<form
+  hx-post="{% url 'content:consent_step_summary_save' token=token row_id=target.id %}"
+  hx-target="#step"
+  hx-swap="innerHTML show:window:top"
+>
+  {% csrf_token %}
+  <input type="hidden" name="decision" value="edit">
+  <label class="field">
+    <span class="field__label">Your version</span>
+    <textarea name="edited_markdown">{{ target.edited_summary_markdown|default:target.copy_snapshot_markdown }}</textarea>
+  </label>
+  <div class="btn-row">
+    <button type="submit" class="btn btn-primary">Submit edits</button>
+    <button type="button" class="btn btn-quiet"
+      hx-get="{% url 'content:consent_step_summary_show' token=token row_id=target.id %}"
+      hx-target="#summary-panel"
+      hx-swap="innerHTML"
+    >Cancel</button>
+  </div>
+</form>

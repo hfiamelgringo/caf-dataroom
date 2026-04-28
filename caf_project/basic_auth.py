@@ -16,6 +16,9 @@ def _unauthorized():
     return response
 
 
+EXEMPT_PATH_PREFIXES = ("/review/",)
+
+
 class BasicAuthMiddleware:
     def __init__(self, get_response):
         self.get_response = get_response
@@ -24,6 +27,9 @@ class BasicAuthMiddleware:
 
     def __call__(self, request):
         if not self.enabled:
+            return self.get_response(request)
+
+        if any(request.path.startswith(p) for p in EXEMPT_PATH_PREFIXES):
             return self.get_response(request)
 
         header = request.META.get("HTTP_AUTHORIZATION", "")

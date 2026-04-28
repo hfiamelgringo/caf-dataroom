@@ -1,0 +1,302 @@
+/* CAF dataroom — consent flow page (separate from main site CSS) */
+
+:root {
+  --c-navy: #001F3F;
+  --c-navy-2: #003366;
+  --c-emerald: #9EF3D6;
+  --c-surface: #F9F9FF;
+  --c-surface-2: #EFEFFA;
+  --c-ink: #1a1a2e;
+  --c-ink-soft: #4a4a5e;
+  --c-ink-mute: #6a6a7e;
+  --c-warn: #fde7e7;
+  --c-warn-ink: #8a1f1f;
+  --c-success: #c8f5e3;
+}
+
+body {
+  background: #fff;
+  color: var(--c-ink);
+  font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+.consent-page {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 56px 32px 96px;
+}
+
+.consent-page__header {
+  margin: 0 0 40px;
+}
+.consent-page__brand {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  color: var(--c-ink-mute);
+  margin: 0 0 8px;
+  font-weight: 600;
+}
+.consent-page h1 {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  font-size: 2.25rem;
+  line-height: 1.1;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+/* Step container — common card */
+.consent-step {
+  background: var(--c-surface);
+  border-radius: 12px;
+  padding: 40px 44px;
+}
+
+.consent-step__lede {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--c-ink-soft);
+  margin: 0 0 24px;
+}
+.consent-step__lede strong { color: var(--c-ink); }
+
+.consent-step h2 {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  font-size: 1.4rem;
+  margin: 0 0 16px;
+  letter-spacing: -0.01em;
+}
+
+.consent-step h3 {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  font-size: 1.1rem;
+  margin: 24px 0 8px;
+}
+
+/* Buttons */
+.btn {
+  font: inherit;
+  font-weight: 600;
+  border: none;
+  border-radius: 6px;
+  padding: 12px 22px;
+  cursor: pointer;
+  transition: background 0.12s ease, transform 0.06s ease;
+}
+.btn:active { transform: translateY(1px); }
+.btn-primary {
+  background: var(--c-navy);
+  color: #fff;
+}
+.btn-primary:hover { background: var(--c-navy-2); }
+.btn-secondary {
+  background: transparent;
+  color: var(--c-navy);
+  box-shadow: inset 0 0 0 1.5px var(--c-navy);
+}
+.btn-secondary:hover { background: rgba(0, 31, 63, 0.06); }
+.btn-quiet {
+  background: transparent;
+  color: var(--c-ink-soft);
+  padding: 12px 14px;
+}
+.btn-quiet:hover { color: var(--c-ink); }
+
+.btn-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+/* Highlighted name display */
+.consent-attribution {
+  display: inline-block;
+  background: #fff;
+  padding: 8px 14px;
+  border-radius: 4px;
+  font-weight: 600;
+  color: var(--c-navy);
+}
+
+/* Field controls */
+.field { display: block; margin: 0 0 16px; }
+.field__label { display: block; font-weight: 600; font-size: 0.9rem; margin: 0 0 6px; }
+.field__hint  { display: block; font-size: 0.85rem; color: var(--c-ink-mute); margin: 0 0 6px; line-height: 1.5; }
+.field input[type="text"],
+.field textarea {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 4px;
+  border: none;
+  background: #fff;
+  font: inherit;
+  box-shadow: inset 0 0 0 1px var(--c-surface-2);
+}
+.field input[type="text"]:focus,
+.field textarea:focus {
+  outline: none;
+  box-shadow: inset 0 0 0 2px var(--c-navy);
+}
+.field textarea {
+  min-height: 360px;
+  resize: vertical;
+  font-family: 'Menlo', 'Consolas', 'Courier New', monospace;
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+/* Markdown explainer block */
+.md-help {
+  background: #fff;
+  border-radius: 6px;
+  padding: 14px 18px;
+  margin: 0 0 14px;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: var(--c-ink-soft);
+}
+.md-help__title { font-weight: 600; color: var(--c-ink); margin: 0 0 6px; }
+.md-help code { background: var(--c-surface-2); padding: 1px 6px; border-radius: 3px; font-size: 0.85em; }
+
+/* Rendered summary body */
+.summary-body :is(h2, h3, h4) { margin: 1.4em 0 0.4em; line-height: 1.25; }
+.summary-body h2 { font-size: 1.15rem; }
+.summary-body h3 { font-size: 1rem; }
+.summary-body h4 { font-size: 0.95rem; color: var(--c-navy); }
+.summary-body p { margin: 0 0 1em; line-height: 1.65; }
+.summary-body ul, .summary-body ol { padding-left: 1.4em; line-height: 1.65; }
+.summary-body li { margin-bottom: 0.4em; }
+.summary-body blockquote {
+  margin: 1em 0;
+  padding: 8px 16px;
+  border-left: 3px solid var(--c-emerald);
+  color: var(--c-ink-soft);
+  font-style: italic;
+}
+
+/* Tabs */
+.tabs {
+  display: flex;
+  gap: 4px;
+  border-bottom: 1px solid var(--c-surface-2);
+  margin: 0 0 28px;
+  flex-wrap: wrap;
+}
+.tab {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 12px 10px;
+  background: transparent;
+  border: none;
+  font: inherit;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--c-ink-mute);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  text-align: center;
+}
+.tab:hover { color: var(--c-ink); }
+.tab[aria-selected="true"] {
+  color: var(--c-navy);
+  border-bottom-color: var(--c-navy);
+}
+.tab__check {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  line-height: 12px;
+  font-size: 0.85rem;
+  text-align: center;
+  color: var(--c-navy);
+}
+.tab__check--placeholder { visibility: hidden; }
+
+.tab-panel {
+  background: #fff;
+  border-radius: 8px;
+  padding: 28px 32px;
+}
+
+/* Just-saved confirmation banner */
+.just-saved-banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--c-success);
+  color: var(--c-navy);
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 0.92rem;
+  font-weight: 600;
+  margin: 0 0 16px;
+  animation: just-saved-fade 0.4s ease-out;
+}
+.just-saved-banner__check {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  background: var(--c-navy);
+  color: #fff;
+  font-size: 0.8rem;
+  flex: 0 0 auto;
+}
+@keyframes just-saved-fade {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Status pills */
+.pill {
+  display: inline-block;
+  background: var(--c-success);
+  color: var(--c-navy);
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+}
+.pill--edited { background: #ffe9c2; color: #6e4500; }
+.pill--declined { background: var(--c-warn); color: var(--c-warn-ink); }
+
+.consent-page__footer {
+  margin-top: 48px;
+  padding: 24px 28px;
+  background: var(--c-surface-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.consent-page__footer-line {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--c-ink);
+}
+.consent-page__footer-sig {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--c-ink-mute);
+  letter-spacing: 0.01em;
+}
+
+@media (max-width: 600px) {
+  .consent-page { padding: 32px 18px 64px; }
+  .consent-page h1 { font-size: 1.75rem; }
+  .consent-step { padding: 28px 22px; }
+  .tab-panel { padding: 22px 18px; }
+}

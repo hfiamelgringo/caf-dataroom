@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Review your contribution | CAF Dataroom</title>
+  <link rel="stylesheet" href="{% static 'css/design-system.css' %}?v={% now 'U' %}">
+  <link rel="stylesheet" href="{% static 'css/consent.css' %}?v={% now 'U' %}">
+  <script src="https://unpkg.com/htmx.org@2.0.4" integrity="sha384-HGfztofotfshcF7+8n44JQL2oJmowVChPTg48S+jvZoztPfvwD79OC/LTtG6dMp+" crossorigin="anonymous"></script>
+</head>
+<body>
+  <main class="consent-page">
+    <header class="consent-page__header">
+      <p class="consent-page__brand">Partnership for the Americas · for CAF</p>
+      <h1>Your contribution</h1>
+    </header>
+
+    <div id="step" class="consent-step">
+      {% include step_template %}
+    </div>
+
+    <footer class="consent-page__footer">
+      <p class="consent-page__footer-line">Questions? Reply to the email this came from.</p>
+      <p class="consent-page__footer-sig">— Jonathan, on behalf of Partnership for the Americas</p>
+    </footer>
+  </main>
+</body>
+</html>

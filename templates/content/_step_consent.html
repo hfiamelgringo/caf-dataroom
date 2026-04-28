@@ -1,0 +1,24 @@
+<h2>Thank you for being part of this.</h2>
+<p class="consent-step__lede">
+  Hi {{ primary.name }} — your conversation has been extremely helpful and enlightening. If this project goes well, the work could transform the lives of millions across Latin America.
+</p>
+<p class="consent-step__lede">
+  We're ready to submit the first part of our report to CAF executives. With your permission, we'd like to <strong>showcase your participation as one of our experts</strong> and include a summary of our interview{% if is_multi %}s{% endif %} with you.
+</p>
+
+<h3>Are you okay with that?</h3>
+
+<form
+  hx-post="{% url 'content:consent_step_consent' token=token %}"
+  hx-target="#step"
+  hx-swap="innerHTML"
+  class="btn-row"
+>
+  {% csrf_token %}
+  <button type="submit" name="decision" value="yes" class="btn btn-primary">
+    Yes — let me review it
+  </button>
+  <button type="submit" name="decision" value="no" class="btn btn-secondary">
+    No — keep me private
+  </button>
+</form>

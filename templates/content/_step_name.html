@@ -1,0 +1,31 @@
+<p style="margin:0 0 8px">
+  <button class="btn btn-quiet" style="padding:6px 0;font-size:0.88rem"
+    hx-get="{% url 'content:consent_step_back' token=token step='consent' %}"
+    hx-target="#step" hx-swap="innerHTML">← Change my answer to the first question</button>
+</p>
+<h2>Great. Let's check how to credit you.</h2>
+<p class="consent-step__lede">
+  We're planning to credit you as:
+</p>
+<p>
+  <span class="consent-attribution">{{ primary.display_attribution|default:primary.default_attribution }}</span>
+</p>
+
+<div class="btn-row">
+  <form
+    hx-post="{% url 'content:consent_step_name_save' token=token %}"
+    hx-target="#step"
+    hx-swap="innerHTML"
+    style="display:inline"
+  >
+    {% csrf_token %}
+    <input type="hidden" name="accept_default" value="1">
+    <button type="submit" class="btn btn-primary">Yes, looks good</button>
+  </form>
+  <button
+    class="btn btn-secondary"
+    hx-get="{% url 'content:consent_step_name_edit' token=token %}"
+    hx-target="#step"
+    hx-swap="innerHTML"
+  >Change it</button>
+</div>

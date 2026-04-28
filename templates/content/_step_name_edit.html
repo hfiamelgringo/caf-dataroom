@@ -1,0 +1,25 @@
+<h2>How should we credit you?</h2>
+<p class="consent-step__lede">
+  Edit the line below — include whatever title and organization you'd like next to your name.
+</p>
+
+<form
+  hx-post="{% url 'content:consent_step_name_save' token=token %}"
+  hx-target="#step"
+  hx-swap="innerHTML"
+>
+  {% csrf_token %}
+  <label class="field">
+    <span class="field__label">Credit line</span>
+    <input type="text" name="attribution"
+           value="{{ primary.display_attribution|default:primary.default_attribution }}"
+           autofocus>
+  </label>
+  <div class="btn-row">
+    <button type="submit" class="btn btn-primary">Save and continue</button>
+    <button type="button" class="btn btn-quiet"
+      hx-get="{% url 'content:consent_step_name_show' token=token %}"
+      hx-target="#step"
+      hx-swap="innerHTML">Cancel</button>
+  </div>
+</form>

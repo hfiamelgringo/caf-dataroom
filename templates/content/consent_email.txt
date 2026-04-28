@@ -1,0 +1,19 @@
+Hi {{ name }},
+
+Thank you again for the conversation{% if interview_count > 1 %}s{% endif %}. We're wrapping up the work for CAF — the Latin American development bank — and your perspective is part of what we're publishing.
+
+Before we ship, we'd like your sign-off. {% if interview_count > 1 %}You'll see all {{ interview_count }} of our interviews together on one page.{% else %}It takes about a minute.{% endif %}
+
+  {{ review_url }}
+
+You'll be able to:
+  - approve the write-up{% if interview_count > 1 %}s{% endif %} as-is, with attribution to you
+  - edit anything you'd like changed
+  - or ask us to keep your participation private
+
+If we don't hear back by {{ deadline }}, we'll publish without your name to be safe.
+
+Reply to this email with any questions.
+
+Thank you,
+Jonathan — on behalf of Partnership for the Americas

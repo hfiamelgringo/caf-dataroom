@@ -1,0 +1,36 @@
+<div>
+  {% load content_filters %}
+  {% if target.summary_decision == "accepted" %}
+    <p style="margin:0 0 12px"><span class="pill">Approved as-is</span></p>
+  {% elif target.summary_decision == "edited" %}
+    <p style="margin:0 0 12px"><span class="pill pill--edited">Edits submitted</span></p>
+  {% endif %}
+
+  <h3 style="margin-top:0;color:var(--c-ink-mute);font-size:0.95rem;letter-spacing:0.02em;text-transform:uppercase;font-weight:600">
+    Interview · {{ target.interview_slug|slice:":10" }}
+  </h3>
+  <div class="summary-body">
+    {% if target.summary_decision == "edited" and target.edited_summary_markdown %}
+      {{ target.edited_summary_markdown|render_markdown }}
+    {% else %}
+      {{ target.copy_snapshot_html|safe }}
+    {% endif %}
+  </div>
+
+  <form
+    hx-post="{% url 'content:consent_step_summary_save' token=token row_id=target.id %}"
+    hx-target="#step"
+    hx-swap="innerHTML show:window:top"
+    class="btn-row"
+  >
+    {% csrf_token %}
+    <button type="submit" name="decision" value="accept" class="btn btn-primary">
+      {% if target.summary_decision == "accepted" %}Re-confirm{% else %}Use as-is{% endif %}
+    </button>
+    <button type="button" class="btn btn-secondary"
+      hx-get="{% url 'content:consent_step_summary_edit' token=token row_id=target.id %}"
+      hx-target="#summary-panel"
+      hx-swap="innerHTML"
+    >{% if target.summary_decision == "edited" %}Edit again{% else %}Change something{% endif %}</button>
+  </form>
+</div>

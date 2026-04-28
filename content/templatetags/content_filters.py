@@ -1,4 +1,5 @@
 import re
+import markdown as _markdown
 from django import template
 from django.utils.html import strip_tags
 from django.utils.safestring import mark_safe
@@ -26,6 +27,14 @@ def excerpt(html, word_count=25):
     if len(words) > word_count:
         return ' '.join(words[:word_count]) + ' ...'
     return body
+
+
+@register.filter
+def render_markdown(md_text):
+    """Render a markdown string to HTML."""
+    if not md_text:
+        return ""
+    return mark_safe(_markdown.markdown(md_text, extensions=["tables", "fenced_code"]))
 
 
 @register.filter

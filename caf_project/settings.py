@@ -104,3 +104,20 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
 BASIC_AUTH_PASSWORD = os.environ.get("BASIC_AUTH_PASSWORD", "CAFPFA")
+
+# Email — defaults to console backend (prints to stdout) unless SMTP_HOST is set.
+EMAIL_HOST = os.environ.get("SMTP_HOST", "")
+if EMAIL_HOST:
+    EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+    EMAIL_PORT = int(os.environ.get("SMTP_PORT", "587"))
+    EMAIL_HOST_USER = os.environ.get("SMTP_USER", "")
+    EMAIL_HOST_PASSWORD = os.environ.get("SMTP_PASSWORD", "")
+    EMAIL_USE_TLS = os.environ.get("SMTP_USE_TLS", "true").lower() == "true"
+else:
+    EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
+
+DEFAULT_FROM_EMAIL = os.environ.get("DEFAULT_FROM_EMAIL", "Jonathan @ HF Capital <j@hf.cx>")
+SITE_URL = os.environ.get(
+    "SITE_URL",
+    "https://discerning-mindfulness-production-a5fa.up.railway.app",
+)

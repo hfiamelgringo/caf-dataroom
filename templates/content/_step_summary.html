@@ -1,0 +1,43 @@
+<p style="margin:0 0 8px">
+  <button class="btn btn-quiet" style="padding:6px 0;font-size:0.88rem"
+    hx-get="{% url 'content:consent_step_back' token=token step='name' %}"
+    hx-target="#step" hx-swap="innerHTML">← Change how you're credited</button>
+</p>
+
+{% if just_saved %}
+  <div class="just-saved-banner" role="status">
+    <span class="just-saved-banner__check">✓</span>
+    Interview {{ just_saved_index|add:1 }} {% if just_saved.summary_decision == "edited" %}saved with your edits{% else %}approved as-is{% endif %}.
+    {% if not is_multi or active_index != just_saved_index %}Now reviewing the next interview.{% endif %}
+  </div>
+{% endif %}
+
+<h2>Now the summaries.</h2>
+<p class="consent-step__lede">
+  Here's the write-up{% if is_multi %}s{% endif %} we plan to publish from your interview{% if is_multi %}s{% endif %} — executive summary, key findings, recommendations, and takeaways. Approve as-is or edit anything you'd like changed.
+</p>
+
+{% if is_multi %}
+<div class="tabs" role="tablist">
+  {% for r in rows %}
+    <button
+      class="tab"
+      role="tab"
+      aria-selected="{% if forloop.counter0 == active_index|default:0 %}true{% else %}false{% endif %}"
+      hx-get="{% url 'content:consent_step_summary_show' token=token row_id=r.id %}"
+      hx-target="#summary-panel"
+      hx-swap="innerHTML"
+      onclick="document.querySelectorAll('.tab').forEach(t => t.setAttribute('aria-selected','false')); this.setAttribute('aria-selected','true');"
+    >
+      <span class="tab__check{% if not r.summary_decision %} tab__check--placeholder{% endif %}">✓</span>
+      <span>Interview {{ forloop.counter }}</span>
+    </button>
+  {% endfor %}
+</div>
+{% endif %}
+
+<div id="summary-panel" class="tab-panel">
+  {% with target=target_row %}
+    {% include "content/_summary_panel.html" %}
+  {% endwith %}
+</div>

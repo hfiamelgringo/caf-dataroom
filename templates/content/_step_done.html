@@ -1,0 +1,36 @@
+<h2>Thank you, {{ primary.name }}.</h2>
+
+{% if is_multi %}
+  <dl style="margin:16px 0 0;display:grid;grid-template-columns:max-content 1fr;gap:8px 18px;font-size:0.95rem;align-items:center">
+    {% for r in rows %}
+      <dt style="color:var(--c-ink-mute);font-weight:600">Interview {{ forloop.counter }}</dt>
+      <dd style="margin:0">
+        {% if r.summary_decision == "accepted" %}<span class="pill">Approved as-is</span>
+        {% elif r.summary_decision == "edited" %}<span class="pill pill--edited">Approved with edits</span>{% endif %}
+      </dd>
+    {% endfor %}
+  </dl>
+{% else %}
+  <p style="margin:16px 0 0">
+    {% with r=rows|first %}
+      {% if r.summary_decision == "accepted" %}<span class="pill">Approved as-is</span>
+      {% elif r.summary_decision == "edited" %}<span class="pill pill--edited">Approved with edits</span>{% endif %}
+    {% endwith %}
+  </p>
+{% endif %}
+
+<div style="margin-top:28px">
+  <p style="margin:0 0 12px;font-weight:600;color:var(--c-ink)">Need to change anything?</p>
+  <div class="btn-row" style="margin-top:0">
+    <button class="btn btn-secondary"
+      hx-get="{% url 'content:consent_step_back' token=token step='name' %}"
+      hx-target="#step" hx-swap="innerHTML">Edit how you're credited</button>
+    <button class="btn btn-secondary"
+      hx-get="{% url 'content:consent_step_back' token=token step='summary' %}"
+      hx-target="#step" hx-swap="innerHTML">Edit {% if is_multi %}a summary{% else %}the summary{% endif %}</button>
+  </div>
+</div>
+
+<p class="consent-step__lede" style="margin-top:32px;padding-top:24px;border-top:1px solid var(--c-surface-2)">
+  We've recorded your decisions and we'll publish exactly as confirmed above. We'll follow up if any of your edits need a quick clarification.
+</p>
