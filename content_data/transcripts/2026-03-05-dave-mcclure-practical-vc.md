@@ -2,7 +2,7 @@
 name: 2026-03-05-dave-mcclure-practical-vc
 description: When the user asks about fund-of-funds strategy for Latin America, secondary market liquidity solutions for venture capital, tax incentives for angel investors and early-stage funds, development bank LP behavior, SoftBank's distortion of the LatAm market, Startup Chile's impact, Chilean fund-of-funds repayment pressures, or asset-swap models for partial liquidity — load this. Covers Dave McClure (Practical VC) on 2026-03-05, discussing venture ecosystem architecture, secondary liquidity mechanisms, and recommendations for CAF as an LP in small-fund strategies.
 date: 2026-03-05
-stakeholder: Dave McClure
+stakeholder: "Dave McClure — Fund-of-funds & angel incentives (1 of 2 interviews)"
 role: Founder / General Partner
 organization: Practical VC
 countries: ["regional"]

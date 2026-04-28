@@ -2,7 +2,7 @@
 name: 2026-02-05-jos-kont-cuantico
 description: When the user asks about Guatemala's innovation ecosystem, venture capital barriers in Central America, fintech regulatory gaps, talent brain drain from Guatemala, cultural obstacles to startup formation, comparisons with Chile/Colombia/El Salvador/Honduras innovation models, Prospera Honduras, Startup Chile analogues, Brazil pension fund matching, Kazakhstan bank-led innovation hub model, Guatemala corporate formation costs, territorial taxation in Guatemala, family office investment behavior in Guatemala, or recommended contacts in Guatemala's startup ecosystem — load this. Covers José Kont from Cuantico on 2026-02-05, discussing Guatemala and Central America's venture and innovation ecosystem.
 date: 2026-02-05
-stakeholder: José Kont
+stakeholder: "José Kont — Guatemala ecosystem (1 of 3 interviews)"
 role: Executive Director
 organization: Cuantico
 countries: ["GT", "HN", "CR", "DO", "regional"]

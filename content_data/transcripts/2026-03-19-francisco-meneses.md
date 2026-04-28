@@ -2,7 +2,7 @@
 name: 2026-03-19-francisco-meneses
 description: When the user asks about regional fund-of-funds architecture for Latin America, junior stock exchanges (Scalex model), Corfo leverage/co-investment program design, pension fund mobilization into venture capital, venture debt structures in Chile, dual-listing strategies for LatAm tech companies on London AIM or Canadian exchanges, or introductions to Juan Pablo Córdoba (Nuam CEO), Víctor Aguilera (mining-tech VC), or Banco Estado startup lending — load this. Covers Francisco Meneses, private-sector capital markets and venture finance advisor (former Corfo, Banco Estado), on 2026-03-19, discussing a regional fund-of-funds proposal using junior stock exchanges as the regulatory gateway to mobilize LatAm pension capital into venture.
 date: 2026-03-19
-stakeholder: Francisco Meneses
+stakeholder: "Francisco Meneses — Regional fund design (2 of 2 interviews)"
 role: Private-sector capital markets and venture finance advisor (formerly Corfo / Banco Estado)
 organization: Independent (formerly Corfo, Banco Estado)
 countries: ["regional", "CR", "HN", "GT", "DO"]

@@ -2,7 +2,7 @@
 name: 2026-02-19-jos-kont-cuantico
 description: When the user asks about venture capital ecosystem gaps in Central America and Peru, family office education barriers, pension fund regulatory constraints on VC investment, the shortage of startup founders in Guatemala, spillover effects from attracting foreign founders, Startup Chile-style programs for the region, the role of public sector vs. private sector in ecosystem building, or CAF/multilateral roles in closing information and talent gaps — load this. Covers José Kont from Cuantico on 2026-02-19, discussing research findings from a Peru VC acceleration study and broader Central American ecosystem diagnostics.
 date: 2026-02-19
-stakeholder: José Kont
+stakeholder: "José Kont — Central America VC gaps (2 of 3 interviews)"
 role: Director
 organization: Cuantico
 countries: ["GT", "HN", "CR", "regional"]

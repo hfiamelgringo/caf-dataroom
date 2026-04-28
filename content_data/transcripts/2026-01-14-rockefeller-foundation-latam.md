@@ -2,7 +2,7 @@
 name: 2026-01-14-rockefeller-foundation-latam
 description: When the user asks about Rockefeller Foundation's Latin America regional strategy, their thematic focus areas (energy access, heat-and-health, school meals, regenerative agriculture), their approach to climate migration in Central America's dry corridor, their preference for collaborative multi-partner convenings over single-NGO grants, their existing Honduras school-feeding grant with the World Food Programme, or potential partnership structures with private sector actors in Guatemala and Honduras — load this. Covers Liana (Regional Director) and Andrea Acevedo (Operations) from the Rockefeller Foundation on 2026-01-14, discussing the Foundation's newly established Latin America and Caribbean office strategy and its interest in co-designing a climate-migration convening in Central America.
 date: 2026-01-14
-stakeholder: Rockefeller Foundation
+stakeholder: "Rockefeller Foundation — LatAm regional strategy (1 of 2 interviews)"
 role: Liana (Regional Director) & Andrea Acevedo (Program Operations)
 organization: ""
 countries: ["GT", "HN", "CR", "DO", "regional"]

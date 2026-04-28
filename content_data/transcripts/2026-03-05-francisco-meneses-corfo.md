@@ -2,7 +2,7 @@
 name: 2026-03-05-francisco-meneses-corfo
 description: When the user asks about Chile's venture capital gap, CORFO's fund-of-funds model, Scalex junior stock exchange, Startup Chile ROI, pension fund channeling strategies, or how a regional Central America / Caribbean fund-of-funds could be structured for CAF — load this. Covers Francisco Meneses from CORFO on 2026-03-05, discussing Chile's public-sector-led innovation finance architecture and recommendations for replicating it across Latin America via CAF.
 date: 2026-03-05
-stakeholder: Francisco Meneses
+stakeholder: "Francisco Meneses — Corfo fund-of-funds (1 of 2 interviews)"
 role: Former Chief Investment Officer
 organization: CORFO (Chilean Economic Development Agency)
 countries: ["CR", "HN", "GT", "DO", "regional"]

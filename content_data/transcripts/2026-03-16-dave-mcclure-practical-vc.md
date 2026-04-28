@@ -2,7 +2,7 @@
 name: 2026-03-16-dave-mcclure-practical-vc
 description: When the user asks about engineering a venture ecosystem from scratch, government-backed secondary market mechanisms, fund-of-funds models for emerging markets, employee equity and angel investing flywheels, regulatory frameworks for preferred vs. common stock, or how multilateral development banks like CAF can provide long-term institutional stability for VC ecosystems across Latin America — load this. Covers Dave McClure (Practical VC / 500 Global founder) on 2026-03-16, discussing a multi-pillar framework for catalyzing venture ecosystems in small countries via fund-of-funds, tax incentives, and government-backed secondary market liquidity mechanisms.
 date: 2026-03-16
-stakeholder: Dave McClure
+stakeholder: "Dave McClure — Engineering a VC ecosystem (2 of 2 interviews)"
 role: Founder / General Partner
 organization: Practical VC (formerly 500 Global / 500 Startups)
 countries: ["regional", "CR", "HN", "GT", "DO"]
