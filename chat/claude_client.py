@@ -13,8 +13,6 @@ import re
 
 from anthropic import Anthropic
 from django.conf import settings
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
 
 from content import transcripts as tx
 from content.models import Section
@@ -102,18 +100,42 @@ def _route_to_interviews(client: Anthropic, query: str) -> list[dict]:
     return interviews
 
 
+_STOPWORDS = {
+    "the", "a", "an", "and", "or", "but", "of", "to", "in", "on", "at", "for",
+    "with", "by", "from", "is", "are", "was", "were", "be", "been", "being",
+    "this", "that", "these", "those", "it", "its", "as", "if", "then", "than",
+    "do", "does", "did", "what", "which", "who", "whom", "whose", "how", "why",
+    "when", "where", "i", "you", "he", "she", "they", "we", "us", "our", "your",
+    "their", "his", "her", "have", "has", "had", "not", "no", "so", "up", "out",
+    "about", "into", "over", "under", "can", "could", "should", "would", "will",
+}
+
+
+def _tokenize(text: str) -> set[str]:
+    tokens = re.findall(r"[A-Za-z][A-Za-z0-9-]+", text.lower())
+    return {t for t in tokens if t not in _STOPWORDS and len(t) > 2}
+
+
 def _section_corpus_match(query: str, top_k: int = 4) -> list:
-    """TF-IDF fallback over the broader report sections (executive summary, recommendations, etc.)."""
+    """Keyword-overlap fallback over broader report sections (exec summary, recommendations, etc.)."""
     sections = list(Section.objects.all())
     if not sections:
         return []
-    corpus = [f"{s.title} {s.body_markdown}" for s in sections]
-    corpus.append(query)
-    vectorizer = TfidfVectorizer(stop_words="english", max_features=5000)
-    matrix = vectorizer.fit_transform(corpus)
-    scores = cosine_similarity(matrix[-1], matrix[:-1]).flatten()
-    ranked = sorted(zip(sections, scores), key=lambda x: x[1], reverse=True)
-    return [s for s, score in ranked[:top_k] if score > 0.05]
+    q_tokens = _tokenize(query)
+    if not q_tokens:
+        return []
+    scored = []
+    for s in sections:
+        s_tokens = _tokenize(f"{s.title} {s.body_markdown}")
+        if not s_tokens:
+            continue
+        overlap = len(q_tokens & s_tokens)
+        if overlap == 0:
+            continue
+        score = overlap / len(q_tokens)  # fraction of query terms matched
+        scored.append((s, score))
+    scored.sort(key=lambda x: x[1], reverse=True)
+    return [s for s, score in scored[:top_k] if score >= 0.15]
 
 
 def _build_context(interviews: list[dict], sections: list) -> tuple[str, list[dict]]:
