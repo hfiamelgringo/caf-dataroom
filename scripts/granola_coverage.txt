@@ -1,0 +1,69 @@
+Total Meeting Notes records: 132
+With Granola URL:           64 (48%)
+With Meeting Notes/Notes:   62 (47%)
+
+All Granola URLs (sorted by date desc):
+  2026-04-20  04.20. Internal weekly                                   https://notes.granola.ai/t/e3031c39-400f-4f0e-83ef-c7d925469c96-008umkv4
+  2026-04-09  04.09.2027. Ruta Medellin                                https://docs.google.com/document/d/1o-Xx0lWXVBE0n4oWdYWLAf_HIi-3MxNJn3scbDJe81g/edit?tab=t.0
+  2026-04-06  04.06. Rigo <> Nati                                      https://notes.granola.ai/t/acdf286c-d4a2-4da0-9513-fafa338d4877-008umkv4
+  2026-04-06  04.06.2026. Daniel Granada - Pomona Impact               https://notes.granola.ai/t/f0434c5d-cd59-4985-a470-2a88d5ad6ad5-008umkv4
+  2026-03-26  03.26.2026. Nanowave                                     https://notes.granola.ai/t/c49ec5cf-ef4d-438d-b7bd-cfda18817ee3
+  2026-03-25  03.25.2026. Lizanka Guevara - Amcham Honduras            https://notes.granola.ai/t/fab9e110-5db7-4187-961f-eb432ecd9b84
+  2026-03-25  03.25.2026. AMCHAM Honduras                              https://notes.granola.ai/t/fab9e110-5db7-4187-961f-eb432ecd9b84
+  2026-03-25  03.25.2026. Alvaro Peralta - Urek                        https://notes.granola.ai/t/1cabcb91-c39f-426c-b043-886eef5e8282-008umkv4
+  2026-03-25  03.25.2026. ITC AC CR                                    https://docs.google.com/document/d/1uID4CZ-UprerYgFWZbloNGw1E9hIxgtYuF_OlMFygWw/edit?tab=t.ks3aa484so6v
+  2026-03-25  03.25.2026. ClearLeaf                                    https://docs.google.com/document/d/1cUY15EMf8UaVCXP2sH-y3u3lnmPqeJvPXnZntPizQ2A/edit?tab=t.gg9oklyepm96
+  2026-03-24  03.24.2026. Speratum Biopharma                           https://docs.google.com/document/d/1Jh824cdFEWXZjjr0ZZpXaWVG-j-H2uAX-AVbIbnzgG4/edit?usp=sharing
+  2026-03-23  03.23.2026. Allen Taylor - Endeavor                      https://notes.granola.ai/t/af234efd-1403-4aaa-8ff0-10958c490b57
+  2026-03-23  03.23.2026.  Internal                                    https://notes.granola.ai/t/75314f73-05c6-4ee9-a5c4-89f159137923-008umkv4
+  2026-03-23  03.26.2026.  Internal                                    https://notes.granola.ai/t/4a7551d7-a223-41c9-8f44-3c2a8c02bd41-008umkv4
+  2026-03-16  03.16.2026. Daniel Gallo Gunderson                       https://notes.granola.ai/t/9411bcb1-2c42-4965-802d-39c21b17186b-008umkv4
+  2026-03-16  03.16.2026. Dave McCLure  Practical VC                   https://notes.granola.ai/t/33771159-3d13-4337-a8cb-c6ba975b6263-008umkv4
+  2026-03-16  03.16.2026. SVB - Andy Tsao                              https://notes.granola.ai/t/8a75084f-86ac-407e-8b3a-f2a4978f22e5-008umkv4
+  2026-03-12  03.12.2026. Lisalud                                      https://notes.granola.ai/t/f93d288e-0d45-4055-a3f1-bbb9aad15e1a-005eakxy
+  2026-03-11  03.11.2026. Albedo Solar                                 https://notes.granola.ai/t/4b0ce80f-adda-483e-81e8-664dcacba906-008umkv4
+  2026-03-11  03.11.2026. Dan Gray - Odin                              https://notes.granola.ai/t/0ddcdf11-9af9-4030-a5a9-b31535c747dd-008umkv4
+  2026-03-11  03.11.2026. Internal after CAF (Alejandra)               https://notes.granola.ai/t/c5383952-19eb-4eb9-ad12-5aaabd80c3be-008umkv4
+  2026-03-11  03.11.2026. CABEI                                        https://notes.granola.ai/t/b0b050cf-34b7-48b5-b663-07be94d2533c
+  2026-03-11  03.11.2026. CAF - Gabriela                               https://notes.granola.ai/t/d09f9f52-8e8e-46b0-a542-bde275b317f2-008umkv4
+  2026-03-11  03.11.2026. CAF - Alejandra                              https://notes.granola.ai/t/1e1d751a-9d1b-46c9-9fa5-dc204379c37a-008umkv4
+  2026-03-11  03.11.2026. Startuplinks - Israel Garcia                 https://notes.granola.ai/t/87ab1508-d4ca-4e99-b013-1412f6ce72ff-008umkv4
+  2026-03-10  03.10.2026. Internal                                     https://notes.granola.ai/t/f1796314-b96f-4144-886c-273e4e57f94c-008umkv4
+  2026-03-09  03.09.2026. Peter Walker - Carta                         https://notes.granola.ai/t/1fa644d4-dc08-4903-bf9e-4e8fc95db6e6-008umkv4
+  2026-03-06   03.06.2026. Patrick Menendez- FEMSA                     https://notes.granola.ai/d/18094c66-4898-40c5-8535-d6faed857f33?utm_source=granola-app&utm_medium=copy-link&utm_campaign=document-share&utm_content=link-icon-button
+  2026-03-05  03.05.2026. Dave McClure - Practical VC                  https://notes.granola.ai/t/3cc6adb5-e6d3-407d-92a5-9a0cbbe869ce
+  2026-03-04  03.04.2026. Internal                                     https://notes.granola.ai/t/bea88c41-d428-461c-80a6-5504ebac47b0-008umkv4
+  2026-03-04  03.04.2026. Rockefeller                                  https://docs.google.com/document/d/1Yrs_dWDjfT7j8rYUKT_4OoeOskgqQZVIRBbZN90ihNw/edit?tab=t.rw1jp7i1dmfk
+  2026-03-03  03.03.2026. Magma Partners                               https://notes.granola.ai/t/85dc4773-a9a7-451e-864c-388dfb94e4e9-005eakxy
+  2026-02-27  02.27.2026. Nelson Irías Núñez - Costa Rica Tech Week    https://notes.granola.ai/t/8281ea19-a4be-4dcb-9362-7f5acc5d872e-008umkv4
+  2026-02-27  02.27.2026. Maria Vélez Crack the Code                   https://notes.granola.ai/t/78ea48fc-0365-4e80-958b-2f90b011b376-008umkv4
+  2026-02-27  02.27.2026. Samuel Hernandez Colmex                      https://notes.granola.ai/t/7306a917-76df-4db9-855c-fdd93e81f66b-005eakxy
+  2026-02-23  02.23.2026. Climatech. Technology with Purpose           https://notes.granola.ai/t/3fae5e44-1984-405e-946a-cd398e15ae1b-008umkv4
+  2026-02-23  02.23.26. Vanessa Gibson CINDE                           https://notes.granola.ai/t/16718622-f25e-4198-ad77-d8a86646a4ad
+  2026-02-23  02.23.2026. Internal                                     https://notes.granola.ai/t/cbc1dab0-64b0-436b-9390-ad677c6526c3-008umkv4
+  2026-02-23  02.26.2026. Internal                                     https://notes.granola.ai/t/7047890b-6972-4a4e-b15f-5bf6f84f2b0f-008umkv4
+  2026-02-23  02.23.2026. CAF (Kick Off)                               https://notes.granola.ai/t/5f7856d8-f3ff-428c-848a-c8e334f5fbdf-008umkv4
+  2026-02-19  02.19.2026. José Kont - Cuantico                         https://notes.granola.ai/t/11d04ed1-e599-490f-bc44-b8d0e2f68471-008umkv4
+  2026-02-17  02.16.2026. Rigo <> Nati (Internal)                      https://notes.granola.ai/t/98890aa2-41fa-4088-9391-8f1f89bb583f-008umkv4
+  2026-02-16  02.16.2026. Rigo <> Nati (Internal)                      https://notes.granola.ai/t/1a41e821-caec-4ebc-a35a-32323e2342ec-008umkv4
+  2026-02-16  02.16.2026. Internal                                     https://notes.granola.ai/t/1cb50435-6659-4687-a34e-7a57a1c83999-008umkv4
+  2026-02-13  02.13.2026. Santiago Zavala - 500                        https://notes.granola.ai/t/361e26ed-88c5-49aa-85af-40a44ce5a220-008umkv4
+  2026-02-13  02.13.2026. Ady Beitler - Nilus                          https://notes.granola.ai/t/5b6cfc02-4764-4c74-9182-29df88f59d4d-009c2hma
+  2026-02-12  02.12.2026. Louis Prouvost - Level Up                    https://notes.granola.ai/t/b4f3b11a-9448-4968-b1e7-1cf57fd85f7a-008umkv4
+  2026-02-11  02.11.2026. Rockefeller                                  https://notes.granola.ai/t/000d070a-c144-46d4-a0a0-8b84d525ef2a-008umkv4
+  2026-02-10  02.10.2026. Internal                                     https://notes.granola.ai/t/80a74bf5-4ba7-43dc-b470-f8cf6497b0fb-008umkv4
+  2026-02-09  02.09.2026 Internal                                      https://notes.granola.ai/t/a0ed9f11-d2dc-4af5-9539-c53cd6a4ff13-008umkv4
+  2026-02-05  02.05.2026. José Kont - Cuantico                         https://notes.granola.ai/t/e7a1d0a6-09bb-49b6-9f01-af8e5794cff5-008umkv4
+  2026-02-03  02.03.2026. Jorge Vargas Venture do                      https://notes.granola.ai/t/f8444723-a649-4d26-b234-852bdcad8f5b-009c2hma
+  2026-02-02  02.02.2026. Internal                                     https://notes.granola.ai/t/596f1f5c-f71e-4cb9-90e5-290a646b4edd-008umkv4
+  2026-01-26  01.26.2026. Internal                                     https://notes.granola.ai/t/bf1216e7-6f13-40d8-a71f-412121da1da7-008umkv4
+  2026-01-20  01.20.2026. Internal                                     https://notes.granola.ai/t/113e1ba1-52b5-4689-9e30-4ae8999a961d-008umkv4
+  2026-01-19  01.19.2026. CAF Internal                                 https://notes.granola.ai/t/b6068634-ffd7-484f-8ec0-b093febaf03c-008umkv4
+  2026-01-16  01.16.2026. Internal Catch Up                            https://notes.granola.ai/t/572f99b0-9673-4d22-8f56-cae88e1a3ce6-008umkv4
+  2026-01-14  01.14.2026. Rockefeller Foundation LATAM                 https://notes.granola.ai/t/b63453ef-2946-41a3-938b-df9493eacc79-008umkv4
+  2026-01-14  01.14.2026. CAF Kick Off- HoldCAF                        https://notes.granola.ai/t/a1480afc-5738-432d-a6b3-42794afa8734-008umkv4
+  2026-01-14  01.14.2026.  Lyana Latorre - Rockfound                   https://docs.google.com/document/d/1Sjl6vr6APIXFu6XrZGNJWBlj-3q9b4ALLnAwNpmOGjQ/edit?tab=t.f7y0ewvy58u6
+  2025-12-17  12.17.2025. Marcos Paya                                  https://notes.granola.ai/t/aa21bfaf-a195-4327-a71d-e4f15d4470c6-008umkv4
+  2025-12-03  12.03.2025. Barnaby Dorfman                              https://notes.granola.ai/t/b8722658-1bae-4a24-916e-e91aae8662c5
+  2025-11-12  Internal Cacth Up                                        https://notes.granola.ai/t/898d160a-7733-4fb8-a8d6-c838b52854b9-008umkv4
+  2025-11-06  11.06.2025. Internal Catch Up                            https://notes.granola.ai/t/78479c4a-4282-4d9d-8904-2b7fe1ebf9e9-008umkv4

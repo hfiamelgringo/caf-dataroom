@@ -1,0 +1,53 @@
+TITLE: Mark, Geoffrey, Nat, Jonathan, Rigo
+DATE:  Fri, February 27, 2026
+AUTHOR: Notes written with Granola by Natasha,
+SUMMARY PREVIEW: Introductions &amp; Background Mark López: 20 years in Washington DC (Congress, Senate, USAID), former US representative to Inter-American Development Ban...
+BODY CHUNKS: 46
+
+=== RECONSTRUCTED BODY ===
+- Mark López: 20 years in Washington DC (Congress, Senate, USAID), former US representative to Inter-American Development Bank, currently at IDB + PFA
+- Rigoberto Romero: Honduras-based, former Ministry of Finance (public debt, bond placement), worked with Korea Trust Fund at Central American Bank for Economic Integration, now Regional Program Manager at PFA
+- Nelson Week: 16 years in ecosystems, launched company in Honduras 13 years ago, worked across Latin America (Brazil, Colombia, Mexico), former TechSource program with IDB on investment readiness, founded Costa Rica Tech Week as first innovation hub, represents Latin American Startup Alliance for Central America
+- Central America Ecosystem Assessment
+- Region is “in diapers” - very early stage compared to rest of Latin America
+- Major knowledge gaps exist for both entrepreneurs and investors
+- Entrepreneurs don’t understand investment fundamentals
+- “VCs” are actually family offices making poor investment decisions
+- Costa Rica leads slightly, followed by Guatemala and El Salvador
+- El Salvador advancing due to government policy support
+- Still 15-20 years behind Ecuador/Peru
+- Investment Market Problems
+- Destructive valuation practices damaging cap tables
+- Example: Parque Tech (acquired by Marcus Dantus) offering $20K for 20% equity
+- Creates unsalvageable cap tables for future rounds
+- Inappropriate investment stages
+- VCs investing in companies with only $1K monthly revenue
+- Should be grant stage, not equity investment
+- Non-standard practices
+- Some funds requiring house guarantees for $120K investments
+- Ego-driven competition preventing co-investment
+- Goal: Launch 500 new startups annually in Central America by 2030
+- Build first Central American innovation hub through Costa Rica Tech Week
+- Current focus on founder development (not startups yet)
+- Hackathons, startup weekends, bootcamps, competitions
+- Three-stage development model:
+- Grants for prototyping/MVP ($10-20K)
+- Angel investor network for early revenue companies
+- Institutional VCs for companies with $12K+ monthly revenue
+- Ecosystem Infrastructure Needs
+- Physical spaces for collaboration
+- Regular events (bi-weekly) for networking and knowledge transfer
+- Founder visa program for regional talent attraction
+- Government innovation agencies (Costa Rica created theirs 3 years ago - Promotora de Innovación)
+- Angel investor network development
+- Connection to broader Latin American ecosystem
+- Next Steps
+- Nelson to provide:
+- Summary of 220-page IDB ecosystem report
+- Introduction to Promotora de Innovación (Costa Rica government)
+- Personal contact for ongoing collaboration
+- WhatsApp group creation for Costa Rica coordination
+- Potential introductions to El Salvador’s Incubatech program and Ministry of Economy
+- PFA team to explore regulatory framework mapping with Rigoberto
+- Chat with meeting transcript:
+- https://notes.granola.ai/t/e7af27bb-4d62-4baa-99c8-6a3e4859b2a3

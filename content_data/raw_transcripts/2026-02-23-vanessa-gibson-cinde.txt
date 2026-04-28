@@ -1,0 +1,45 @@
+﻿https://notes.granola.ai/d/0161ef02-417f-4b1d-8233-7deecb1351ee?utm_source=granola-app&utm_medium=embedded&utm_campaign=document-share&utm_content=chat-transcript-panel 
+Mark, Geoffrey, Nat, Jonathan, Rigo
+PIX-like Payment Systems Discussion
+* Countries implementing PIX-like systems: Mexico, Colombia
+* Mastercard policy contact (Colombian, DC-based) interested in learning about remittances
+   * Handles 12 different complex policy areas
+   * Opportunity for PFA to provide useful insights
+* IDB Pay initiative
+   * IDB attempting to be central integration point for regional payment systems
+   * Led by Elon Goldfind (former Central Bank of Brazil director during PIX launch)
+   * Partnership with Ajay Bange (Mastercard)
+   * Unclear if actual implementation exists beyond announcements
+* Potential crypto/stablecoin framework opportunities
+   * Crypto companies have funding (hundreds of millions)
+   * Seeking legitimacy with governments
+   * Current market down 25% but generally well-funded
+CAF Project Validation Requirements
+* Ecuador regulatory framework example: Law 688 (entrepreneurship plus)
+   * Creates legal foundation for entrepreneurship
+   * Establishes public counterpart financing mechanism
+* Need to validate AI research with real stakeholders
+   * Talk to entrepreneurs, regulators, investors
+   * Confirm operational relevance vs theoretical correctness
+* Target: 5 regulatory “must-haves” for startup ecosystems
+   * Compare against successful countries (Israel, Singapore, Chile, Mexico, Brazil)
+   * Create clear yes/no assessment framework
+* Timeline flexibility - deliverables not contractually set
+* Next steps: identify interview targets and focused questions
+Costa Rica Ecosystem Insights (Vanessa Gibson, CINDE)
+* ProComer Silicon Valley office recently opened
+   1. Led by Carolina Sánchez (former CINDE, medical device investment background)
+   2. Located in Santa Clara, 15 minutes from Jonathan’s location
+   3. Part of 20+ global ProComer offices promoting exports and FDI
+* Current Costa Rica challenges:
+   1. Shared services under AI/talent pressure globally
+   2. Medical devices facing US tariff issues (Section 232)
+   3. Advanced manufacturing/semiconductors still strategic
+* Political transition: new president takes office in May
+* Policy gap: strong at attracting FDI, weak at developing entrepreneurs
+* 420 multinational companies currently in Costa Rica, all concerned about future
+Next Steps
+* Jonathan: Connect with Carolina Sánchez for Silicon Valley office discussion
+* Geoffrey: Schedule follow-up with Vanessa for Costa Rica deep dive (next week)
+* Team: Focus interview questions for deliverable one validation
+* Mark: Send PIX research document to team

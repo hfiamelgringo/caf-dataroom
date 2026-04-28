@@ -1,0 +1,87 @@
+﻿Meeting with MS Teams, AMCHAM Honduras. Regulatory framework.
+
+
+https://notes.granola.ai/d/f103013d-4d13-4ccf-b585-51e22fad9b44?
+
+
+Marco Regulatorio de Honduras para Inversión
+* Costos de constitución empresarial: $3,000-5,000 USD
+   * Subsidiaria hondureña: patrimonio propio, limita responsabilidad de casa matriz
+   * Sucursal extranjera: parte del patrimonio de entidad extranjera
+* Proceso de constitución (1.5-2.5 meses):
+   * Escritura de constitución
+   * RTM (número fiscal)
+   * Permiso de operación (mayor demora por requisitos municipales)
+   * Apertura cuentas bancarias
+* Ley de Recuperación y Reactivación Económica (2022)
+   * Beneficios fiscales 2-3 años para empresas hasta 10-20 empleados
+   * Trámites más rápidos ante instituciones gubernamentales
+   * Vigencia actual por confirmar con COEP
+Ambiente de Inversión y Protecciones
+* Sin restricciones para propiedad 100% extranjera
+* Protecciones internacionales:
+   * CAFTA-DR (2006-2007)
+   * Tratado bilateral con Estados Unidos (1994)
+   * 12 tratados de libre comercio vigentes
+* Ley de Promoción y Protección de Inversiones (2011)
+* Comisión Nacional de Inversiones como facilitador
+   * Promoción exterior y apoyo local
+   * Facilitación permisos operación y ambientales
+   * Atención casos en rezago por orden presidencial
+* Diálogo constante sector privado-gobierno
+Venture Capital y Financiamiento
+* Sin barreras para financiamiento extranjero
+* Flexibilidad estructural:
+   * Código de Comercio (1950) permite acciones preferentes/convertibles
+   * Contratos atípicos válidos bajo principio Pacta San Fernando
+   * Acuerdos entre accionistas permitidos
+* Instrumentos disponibles:
+   * Withholding tax: 10% intereses, 25% comisiones
+   * No registro obligatorio Banco Central para préstamos esporádicos
+   * Pagarés para acción ejecutiva local
+   * Ley de garantías mobiliarias
+   * Fideicomisos como garantía
+Próximos Pasos
+* AMCHAM enviará documentación:
+   * One-pager marco jurídico
+   * Enlaces leyes mencionadas
+   * Confirmación vigencia Ley 2022
+* Contactos recomendados:
+   * COEP (representante sector privado)
+   * Gabriel Molina, Gerente Empresas Sostenibles COEP
+* Bufetes corporativos como José Ramón Paz para asesoría específica
+
+
+
+
+Business Formation Costs and Process: The cost for establishing a business in Honduras ranges from $3,000 to $5,000 USD. A Honduran subsidiary has its own assets, limiting the liability of the parent company, while a foreign branch is part of the foreign entity's assets. The formation process takes about 1.5 to 2.5 months and includes drafting the incorporation deed, obtaining a fiscal number (RTM), securing an operating permit (which may be delayed due to municipal requirements), and opening bank accounts.
+
+Economic Recovery and Reactivation Law (2022): This law offers fiscal benefits for 2-3 years to companies with up to 10-20 employees and facilitates faster processing with government institutions. The current validity of this law needs confirmation with COEP.
+
+Investment Environment and Protections: There are no restrictions on 100% foreign ownership. International protections include CAFTA-DR (2006-2007), a bilateral treaty with the United States (1994), and 12 active free trade agreements. The Law for the Promotion and Protection of Investments (2011) is also in place.
+
+Role of the National Investment Commission: This commission acts as a facilitator, promoting Honduras internationally and supporting local operations. It assists with operational and environmental permits and addresses backlog cases by presidential order.
+
+
+Foreign Ownership: Honduras allows for 100% foreign ownership of businesses, meaning that foreign investors can fully own and control their enterprises without restrictions.
+
+International Agreements: Honduras is a signatory to several international agreements that provide legal protections for investors. The CAFTA-DR agreement, effective between 2006 and 2007, and a bilateral treaty with the United States from 1994, are key agreements that offer protections to investors from member countries. Additionally, Honduras has 12 active free trade agreements with various countries, enhancing trade and investment opportunities.
+
+Investment Promotion and Protection Law (2011): This law establishes a framework to encourage and safeguard investments in Honduras. It aims to create a favorable environment for investors by providing legal assurances and promoting investment opportunities.
+
+National Investment Commission: The commission plays a pivotal role in facilitating investments. It is tasked with promoting Honduras as an attractive investment destination on the international stage and providing support to local businesses. The commission assists in obtaining necessary operational and environmental permits and addresses any backlog issues under presidential directive.
+
+Private Sector-Government Dialogue: There is a continuous dialogue between the private sector and the government, which is essential for fostering a conducive investment climate. This collaboration helps in addressing investor concerns and ensuring that the regulatory environment remains favorable for business operations.
+
+
+* Foreign Financing: Honduras does not impose barriers on foreign financing, allowing international investors to provide capital to local businesses without significant restrictions. This openness facilitates the inflow of venture capital and other forms of investment.
+
+* Structural Flexibility: The Honduran Commercial Code, established in 1950, provides a flexible legal framework for financial arrangements. It permits the issuance of preferred and convertible shares, allowing companies to structure their capital in ways that can attract venture capital. The principle of Pacta Sunt Servanda, which means "agreements must be kept," supports the validity of atypical contracts, making it possible for shareholders to enter into various agreements.
+
+* Available Financial Instruments:
+
+   * Withholding Tax: Interest payments to foreign entities are subject to a 10% withholding tax, while commissions are taxed at 25%.
+   * Central Bank Registration: There is no requirement for loans to be registered with the Central Bank unless they are made systematically or habitually. This allows for more flexibility in obtaining sporadic loans.
+   * Promissory Notes: These are used as a legal instrument for securing loans, allowing creditors to initiate executive actions in local courts if necessary.
+   * Movable Guarantees Law: This law enables the creation of liens on movable property, providing additional security options for lenders.
+   * Trusts: Trusts can be established as a form of guarantee, where assets are transferred to a fiduciary (often a bank) to manage on behalf of the creditor, ensuring that the assets can be used to satisfy debts in case of default.

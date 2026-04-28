@@ -1,0 +1,463 @@
+﻿Meeting Title: Central American VC Roundtable with Partnership for the Americas (PfA) Date: Mar 17 Meeting participants: Jonathan Nelson, Mark Lopes, Gallot (Ara/Costa Rica VC), Abigail/Abi (Ara Impact Capital), Guillermo (Amador, Panama), Charles, Israel/Ezra (facilitator), others
+
+
+Transcript: Me: People like, the surgery doesn't work, but at the same time, like, you're there, and I'm thinking about that. Thank you. The thing I read,
+Them: Well, basically oh, there it is. Welcome, my friend.
+Me: Thank you so much. Sorry about the delay.
+Them: Don't you worry. I we were just getting started. Would you like to, you know, introduce everyone, like, really quick and
+Me: Yeah. No. I thank you, guys. My name is Jonathan Nelson. I run HFK Capital. We're building an AI first boutique, I bank, to help promote liquidity across Latin America and the rest of the country. Working with the London Stock Exchange on that. And, I'm also advising the partnership for The Americas, This is version two point o. Mark and a small group of advisers did partnership for Central America which, reported directly to Kamala Harris and their mission was to grow the economy of Central America. And within a couple of years, we got, I think, 5 or $6,000,000,000 of new business commitments to the region. CAF has asked partnership for The Americas which is now trying to do the same thing for all of The Americas. But Cath has asked for how do we grow the innovation in Central America? So who better to talk about this and to about your problems than you guys? So Ezra was very helpful in in helping set this up. But I'll let Mark introduce himself and then I'd love to do kind of a a quick round round robin of introductions. I don't have a hard list of questions. I'd like to more have a conversation The goal is for the partnership for the Americas team to learn from you guys on the ground what are the challenges that you guys are seeing? If you had a magic wand, poof, what would you see in Central America, and how can be helpful in catalyzing more of what you guys are doing? Mark, do you wanna kick us off with intros, and then we can go around the table?
+Them: Perfect. Thank you. So, Mark Lopez, I have a great job at the IDV in in DC, but I'm doing this part time. I spent twenty years in Washington type jobs in, the congress and then in USAID and I represented The US in the IDB. And then six years of startups in New York, and then I'm kinda going back and forth. So thank you for connecting us, Israel and Jonathan, and and look forward to discussion.
+Me: Then, Ghulit, do you wanna kick us off? And we can kinda go around the table and and learn from you guys and you guys are doing?
+Them: Sure. It's nice meeting you. A serial entrepreneur turned VC. This is my first fund. I'm still fundraising, but at the same time, I'm deploying. We're backing Latin American startups in and it's anything Actech Could It Could Be Hardware. It Could Be Software. And We're Taking Them To The US for growth and eventually, exit. So we're our mission is to give not only checks, but also really, you know, help our startups thrive to their best availabilities and and and make the impact they're supposed to make.
+Me: And where are you based, Gallot?
+Them: And based in Based in Costa Rica, San José Costa Rica.
+Me: Pura vida, yo crecí en San Francisco, Ríos.
+Them: Ok, pues, en Escazú.
+Me: Sí. Abigail.
+Them: Yeah. Thank you, Jonathan, and thank you, Mark, and all course, thank you, Israel, for setting up the meeting. So really nice to meet you all. My name is Abiga You can call me Avi, Abigail. I I just think that it's just too too long, and for for whatever someone is mad at me or something. So, Abi, it's okay. I'm originally from Mexico, but currently living in Costa Rica too. I'm one of the funders of Ara Impact Capital. We are an impact first fund focused exclusively in Central America and Southern Mexico. So our thesis is more, regional rather than a specific sector. Also, we do have preference for companies working around food security by economy, circular economy, and climate can be, let's say, on the techy side or like, on more traditional type of businesses that are addressing those type of challenges. We do equity quasi equity in one particular new wrinkle, let's say, that we're using in the ecosystem because of folding. Liquidity, issue that we have seen everywhere, essentially. It's using ready mobile equity as structure exits. Essentially, I don't know if you're familiar with that, vehicle, but, essentially, it's so we do our equity or quasi equity investment. And then after a period of of it can be up to, like, from one to up to five years. The company starts to buy back our shares, and then we even have, like, this early exit that can be partial or or total. So because of those, let's say, two types of models that we use, we can invest and have kind of, like, the flexibility of investing on the different types of companies that you find really, like, in the ecosystem. The ones that are extremely like, scalable tech that are, like, asset like so on and so forth, but also, like, more traditional businesses that maybe we don't see, like, the pathway to exit or even, like, the founder the they don't want to kind of or they're a little bit kind of, like, yes, it tends to accept, like, you know, more people in their cap table. And, yeah, essentially, like, some some of some of the topics that we always find in those those companies. So that has helped us to kind of build also, like, that trust relationship with them, but also being able to have you know, like, a exit in in the future. Apart from that, we do we provide technical assistance completely customized to the company one on one on investment and, impact measurement and management. And we also have a catalytic program where we connect companies with other investors can be either for co investment with us or maybe it's not much for us, but it can be a much for someone else, and we kind of facilitate that that process. So that's kind of the overview.
+Me: Awesome. Guillermo and then maybe Charles?
+Them: Sure. Thank you so much for organizing. My name is I am partner at Amador. We're we're an early stage venture capital firm on broadly technology and technology enabled companies, both b to b and b to c. Across Latin America. However, were founded in Panama. I am Panamanian and live here. So, obviously, Central America is dear and ear to our hearts, and we are proud investors also of Central America's first exit, which was Hugo. I'm trying to find more exciting opportunities. Thank you so much.
+Me: Awesome, Guillermo. Charles.
+Them: Hey. So Charles Igg Mason, originally from Alabama in The States. But have been living in in South Central America for the last ten years. Cofounder about the impact with with Abby. Who gave a very, I think, complete description of what we're doing. The only thing I might add is that we're we're doing it on under a bit of a different model in that we are actually housed under a nonprofit US five zero one c three. In which we manage kind of a a a pool of recoverable grants that we use as investment capital and some blend finance stuff. So we're we're bit of an on duck, but you know, trying to find models that works with a 3% level. Anyway, lovely to meet all of you. Thank you for I think I was originally through Michael, who
+Me: Also,
+Them: who we were connected to PFA. So pretty simple.
+Me: Awesome. And then Rodrigo and Jimel.
+Them: Yes. Thank you, Jonathan, and, hi to all, sorry for being late. Glad to be here. Thanks for the invitation. So I'm part of Intelligent Capital. We're I'm a general partner there. We're a fund VC fund with three funds on under our administration already. Our latest fund is focused purely in a northern triangle of Central America. El Salvador, Guatemala, and Honduras. We have already been backed by, IDV lab and DFC and various other corporate investors of the region. Currently, already have six investments in our portfolio. We talked with Amador by regularly in in co investments and and opportunities. So very excited to be with this group and and talk about other opportunities that we can find here in Central America.
+Me: Awesome. And, Rodrigo, where are you based? Sorry.
+Them: Oh, yeah. Sorry. El Salvador.
+Me: Salvador.
+Them: Mhmm.
+Me: And Jimin, I think.
+Them: Yeah. Yeah. Hello, everyone. I am Jimena. I invest in Mexico. I work with the one and only, Israel García. At our startup links, and I'm the operations and partnership at StartupLinx. So as Ezra mentioned it, I'll be mostly releasing today. But happy to be here.
+Me: Awesome. I kinda wanna have a little, like, an informal kinda conversation. I'm based in San Jose Silicon Valley, and so I tend to be pretty chill and just wanna have an open conversation. What's your biggest pain in the ass in investing in SensorAmerica? What keeps you up at night? And Charles and Abby, my guess is you guys have actually been looking at this liquidity thing, and they're doing structured finance a little bit differently. Like, why did you guys why do that as opposed to, like, a normal VC fund?
+Them: Abby, shall I take it, or would you like to give it a shot? Or Go ahead, and I can I can jump in? But I I also saw that Galide Racer
+Me: Yeah.
+Them: hand first. I don't know. Well, please please go ahead, Gali. Okay. I will. In my case, our fund is a specialized fund, ACDC, like I said. And what we see in Central America is that there's not in my case, it's only start ups. So I think the difference between what we do and what, at the impact does, which is also SMBs, right, if I'm not mistaken. Right? Right. So, you know, it's it's different for us. A science based work technology based with a high growth, etcetera. The biggest challenge is, especially for the science based, to jump from being scientists the founders jumping from being scientists, to being founders. And for that to have they need proper guidance, which we don't have. Incubators, you know, preaccelerators, accelerators after that. And also grants because especially when you're doing science based, you need a lot of grants, which our government in Costa Rica, at least, I don't know about the rest of Central America. I'm assuming it's even worse in some of the Central American companies. You know, gives very little to these startups. I'm talking about $15,000 to run a prototype which is nothing. Right? So they're almost dead at the beginning. And for them to keep growing, they need not only a very big of of injection of of money, but in very, very especially entrepreneurship minds mindset. Someone that will teach them that, and and that's the core of the problem of why my fund, for instance, is finding a lot of startups to back in Argentina but not in Costa Rica or the rest of the Central American countries. Because in South America, be it Argentina, Uruguay, Brazil, and Chile mainly, they've been doing been working on their preparation of entrepreneurs way longer than us. So we're very behind in that, and that's that's that's our main problem. It's right at the core.
+Me: So it's mindset in entrepreneurial culture and just knowledge of how do I build a company. Like, I've done this study. It works great, great results. But how do I translate that? And how do I sell and that sort of stuff? Charles Abbey, I saw you guys
+Them: And can I jump in, Jonathan? So so it's a little bit of a of a theme
+Me: Yeah. Yeah. Yeah. Yeah. Porfa.
+Them: but jumping on Galeb's question, but I'd love to hear from Rodrigo and others. So then why are you investing there? If you're a fund and you wanna make money, why don't you just invest where there are good entrepreneurs? Why don't you just go to Argentina? Oh, no, I invest in Latin America, not only Central America. So but what I am doing very actively along with Atta Impact, for instance, is trying to help the ecosystem develop. And so and on my behalf you know, like, on my part, I work very clue closely with a foundation that's Fundacion Cruza, which is private money, also IDB, lab, also with the IICA, which is the, you know, cooperation for agriculture of the Americas. So we can build, you know, an ecosystem for these startups to to to become startups. So, yeah, so far, I have not been able to invest in one startup in Central America, so only in South America. But, hopefully, within the next three to five years, and that's a long time, but that's how much it's gonna take, how long it's going to take, we will be able to do those investments. But with the help of us investors as well, thinking, okay. If we want to put the money where we live, then we have to make the effort to you know, to to to help them, succeed.
+Me: So it's kind of a chicken and egg problem. How do you invest in Central America if you don't have entrepreneurs? And if you don't have entrepreneurs, how do you attract investment? Rodrigo.
+Them: I I can add to to that question that Mark asked. For for us, Inogen a little different than than than Gallat because because of the thesis. Right? We invest mainly tech, investors, exponential that can grow, not only El Salvador, but Central America, Mexico, and eventually Colombia and rest of of the world. We're in the last couple years, we have been seeing, various founders doing this, already doing this. Right? After Hugo came out, which which Guillermo talked about, there's been an exponential amount of people coming in back to El Salvador, Guatemala, Honduras, Costa Rica, to start new ideas and and and businesses. And we believe the six that we have invested are those ideas. Right? And we hope that we can find 15 more to invest. And so I think it's it's growing. People are are are getting, to implement these their own ideas. But that's another pain point I'm I'm finding. Sometimes by, you know, just pure luck maybe, we find an excellent founder that didn't know about VC, that's I there's missing this matchmaking issue that they don't aren't aware that BC is available in Central And they're great, great, great founders, but they just don't know about us or anyone in in in the region. So so that's another issue that that I'm looking at.
+Me: Just an education piece.
+Them: Yeah. Awareness. Awareness.
+Me: Interest Interesting. If you guys had a magic wand, poof, how would you change that problem? Like, the awareness, the education, the founder quality, like, give me your I want a pony. Like, I want a pink purple pony. I want it to be, you know, poop gold. What would that look like? Got it.
+Them: Can I go? Please go. To me, the only way to do this is international international cooperation. I'll give you an example. I'm I'm I I spoke with an a venture builder, a very good venture builder in Argentina. And I told them, would you be willing to come to Costa Rica? And do your program in Costa Rica? And, basically, what they do is scouting first. You know, like, they go to the universities. They do, like, hackathons, whatever. And then they do matchmaking between the scientists who most likely are not gonna be entrepreneurs and the entrepreneurs who most thought of science as a, you know, as a company, you know, potential for a company. And so we're in the mid of doing that, and probably by by, you know, this year, they will might start working with, the different entities that I'm connecting them with. And so that information can be exchanged. But not only that, they also come with the idea of Costa Rica cannot say, enclosed in Costa Rica. And so the entity that would be financing this, they told them, you know, this venture builder told them, you have to think that this program will need to cooperate with other countries, at least in Central America. So we can build mass. And through that mass, we can find better talent and are able to really, you know, like, have, you know, startups coming out because these are small countries. With, different levels of education. But but we're still small. And so yeah, international cooperation to me
+Me: Cross pollination. Charles.
+Them: Yeah. Yeah. A few a few different things. I would say from the level of the fund and the kind of the level of of entrepreneurs or or founders. I think if I could wave a magic wand, it would be and I I think relevant to the efforts of of CAF and and PFA. A bit more coordination between your local high network families and family offices. I think many of them are often focused outside of Central America. And and so some type of I know. Know, know, you guys in in in in in in very curious kind of your experience. We found that most most most families tend to focus outside or have very different at least in hours we have to focus only on, like, pure philanthropy versus only return maximum maximizing it not as much in the chain. So if I had a wish list, it would be a bit more of a coordination between the the high number families and and families of of power will say within within the region to focus in the region, as well as a as a a bit more use and implementation of kind of the full spectrum of capital. Not just pure pure high high return BC all the way to but you know, all the stuff in between is where which is where we try to play. And one of the reasons that we redesigned our our mechanisms or the, like, the way we do. The other the other thing I would say is that a lot of we we like, Abby mentioned, we have this we have this investor referral program or in the referral program, we do try to connect investors both locally and outside. To companies within our power pipeline, whether they're fit or not, as long as it makes sense. And I would say we've come across multiple cases where investors are very to enter the region. Based on reputation alone. You know, I guess, whether that be from gang violence or or in in a of that nature, even if it's un... Unmerited? Just a a general nervousness to to ensure. And I think there's lots of systemic reasons why I think Central America, you know, because of the the kind of the as a as a market general, it's it's actually relatively large. Like, 8% of the population is what I'm But because the market is fragmented and there's different legal context for each country, kind of most capitalist falling to larger markets that are, you know, easier to to to scale through, like, Brazil or Argentina or Mexico, for example. So you know, having folks that are willing to to deal with that barrier, I think, that is but I don't know, Abby, is there anything to do any other thing that not that I didn't mention it's on your wish list? Does that make anyone disagree? No. No. No. I was going to ask, actually, the perception of risk especially like, even for for I mean, not for local investment, but for for international investments. When you say Central America, it's like, oh, no. Like, that's like a no go place. And they think mainly because we have had, for example, the case of Nicaragua. I mean, Nicaragua definitely is, in a special case within Central America. But apart from Nicaragua, like, there is a lot of I mean, we have had the cases of investors saying no. For from The US for from companies, from Central America. Just because they were in Central America and they didn't know, like, anything about the ecosystem. Even though we were providing, like, the like, you know, like, the local, let's say, perspective on on that end. And the other thing that I will add there is essentially also, like, the the the, let's say, the investment rate in this level of the companies that we found. Because, for example, as I think was it was Rodrigo who mentioned this, but we have found in one year and a half about 400 companies. From those 400 companies, as as of now, we have made nine investments Seven, it was, the first investment and two follow ons. From those investments from our current portfolio to all of them, we need to provide technical assistance before the investment because they they didn't know about what was the for example, ACOD investment. They didn't know the different instruments that they will have. They didn't know about I don't know, like, what type of capital leads kind of, like, the best match to to the needs that I have right now as a company. And, also, a lot of companies that we have seen are they they have a lot of in their balance sheet. Because you have here in Central America also a lot of players on on the debt side, where the equity side is a little less, let's say, crowded. So so, yeah, I I I will take Andrew the best comments on that in in terms of there is not, like, a lot of awareness on on that end. So you can have like, you need to have, like, a lot of of yeah. Like like, companion essentially with companies in order to for them, like, to kind of understand the different types of capital or or essentially, like, what are the other, let's say, player in the ecosystem so they can reach out in order to kind of have access to that to that capital. So so, yeah, just we'll let that part.
+Me: Guillermo Rodrigo.
+Them: Thank you. I I do not disagree with that absolutely anything that has been said. My answer might be a little bit more superficial, but I think most of those problems on how to make the intravenural value creation flywheel work. Are solved with economic value creation. And in most instances, that means what happens after we invest. Right? So who is the next one to to create value after me? Right? I think once you see multiple rounds happen and exits happen, entrepreneurs are gonna get educated. They're gonna get knowledgeable. They're gonna find the right resources. They're gonna go to the right places. Family offices will be invested because they see that they will be able to generate returns locally, not other not only outside where they think risk, is more controlled, which is contrarian when you think, like, they actually could probably control more risk where they operate than a true Goldman Sachs. Right? But but right. I I think if there's a lack of I guess, prove that they can generate those returns locally. And so so my magic one for Central America and it's pretty crazy because as a VC, right, like, we are not fans of working with governments or having our start ups work with government. What I think about how economies kick starts the value creation flywheel, and it usually comes from government. Right? So in markets smaller than Brazil and Mexico, because, obviously, Brazil and Mexico are probably big enough for them to be sustaining. When I think about Colombia, when I think about Chile, how they have come to solve the problem is Chile has caused. Corfo basically matches LP investments across all funds. Right? So every investor on the fund gets in, facto 1.5 x on their MOIC. And all GBs de facto double their investment size being able to sustain less investments from LPs via actually being, you know, recouping management fees and being able to create a sustainable portfolio construction model. And then also with with the sole and I I think mandate is that they need to invest in companies with an office in Chile they're also bringing you know, value creation into the country because it generates employee employee sorry. Employment. It generates legal fees. It generates bank fees, generates money movement. And then Colombia, so, what Colombia, those, is true there, bank Coldex y Colombian Foreign, Commerce Bank, They invest as LPs in funds We demanded that the fund needs to two eggs their investment in Colombia. So if they give you $2,000,000, you need to invest $4,000,000 in Colombia. Right? So, like, those are smaller countries that have sort of sold how money flows back into the economy by giving it to people that are financially incentivized to live up making money. Right? And what I'm what I'm gonna add on this, I I mean, I I can't speak for everybody in the call. I know some of you. But I can imagine we see enough deal flow to make deals in Central America our biggest concern is what happens after that. Right? Like, okay. We invested. Now who does the series a? Who does the series b? How do they exit? Right? So if I think if there were some sort of my what magic one would be some sort of program that gets these larger funds to have to be mandated to invest in Central America. Because once they do, early stage investors, family office, entrepreneurs, early employees, they're gonna get economic benefits and they're gonna cash out they're gonna reinvest. Because once some once something works, you're gonna do it again. Right? Sorry about the monologue, but all yours.
+Me: Non non. And so if I can summarize, Guillermo, it sounds like your magic wand would be, like, to have a Central American not only do, like, preseason seed invest thing, but also be able to, like, have some sort of facility for, like, series a funds even if they're LATAM funds. But that Central American Porfo would have to be deployed in the Central American companies.
+Them: Yeah.
+Me: Is that would that be your
+Them: Yeah.
+Me: Rodrigo? Oh, you're on mute.
+Them: Yeah. Sorry. That was a great comment by by Guillermo, and I had that on my wish list, you know, which I would summarize as liquidity. Obviously, that's an easy obvious one. But then I guess the second one would be in in my experience, at least, as as a fund, when we looked at LPs, more more institutional LPs, it's difficult to get a ticket from them, just because we're a smaller fund. You know, we're a $15,000,000 fund. And usually these fund of funds or impact funds invest $2,020,000,000 and above. So it's very difficult to get
+Me: Hi.
+Them: institutional investors in Central America because of this limitation, which we which IDV lab and DFC had a program that we found, and we were able to get smaller tickets but but in general, that that's what's happening, I think, in in all the world. So
+Me: And so magic wand Lenmarc.
+Them: no. I was gonna ask, are you guys in this for the money? Or for something else? And what's the something else and how do you balance those two things? Well, no. For us, I mean, we're a VC fund. You know? We our our main client is the LP, which we have to provide returns. Bar none. But, however, I'm a Salvadoran. Right? I live in El Salvador. And I know with this fund, we can provide a great ecosystem with more employment, more growth. So it's, you know, unintentionally or intentionally, we're creating a better life for Salvadorans, but not Central Americans. So, you know, it's both.
+Me: What radicalized you? To get into VC?
+Them: It's it's it's been a process, really. You know? Initially, we started outside of Central America. We we started in Guatemala sorry, Colombia, Mexico, Argentina. And little by little, we went, you know, learning how how to invest in in in DC. Until we were able to start this fund, we're we're calling Delta, we invest just El Salvador and Guatemala and Durst. So and and what what happened was, you know, we saw a change, like, a like a real change in in in how people how funders thought about growth. And Hugo was obviously the catalyst but then it's been, you know, just a lot of founders coming back, smart, with a lot of experience, just just wanted to to make their own business.
+Me: Double click on coming back. Are these expat Salvador to build something?
+Them: Yes. Yes.
+Me: Did they come back? Is it just, like, I'm gonna build something here. I'm gonna have the impact that I want here. No worries, Charles.
+Them: Well, exactly. You know, They they see what's happening in El Salvador. They see, you know, oh, if Hugo can do that, then I can do that. Right? They have gonna say an example. There's a founder from Abaco Capital, He used to work in in 09/26, I think it's called, the the new bank in in Berlin. He worked You know, he had a great position. He he's Salvadoran. And then he decided, I I wanna do that in my country. So he came back, and now he's, you know, expanding across the region. Very, very viable. In mid market and, business model. So so I think definitely happening, and I'm seeing more and more of this. So I think yeah.
+Me: Guillermo, what radicalized you, man?
+Them: It's great.
+Me: Why'd you get into VC?
+Them: Yeah. It was a mix of opportunity with right place, right time. So me and my the partners who we started with, we didn't set out to build a PC. We want to so Panama is a very small country. We wanted to build regional investment firm but it happened to be 2020 and during COVID sort of tech you know, took off. And we had dry powder at a point where VC was the commodity to be traded. We got really good on that, developed the network, and now we are a VC. So I I I don't know if I got radicalized into being a tech obsessive, but you know, we we all come from final background. We saw there was an opportunity that's been unattended because in the less developed markets of the emerging of Latin America. And we want to build a regional firm to to serve that. And and then tech sort of skyrocketed while we were at it.
+Me: So asset managers seeing a market opportunity and exploiting it.
+Them: Yeah.
+Me: Abigail Gallett, what radicalizes you guys?
+Them: I mean, in in my case, like, to be completely transparent, I was mad at the cases because okay. So just to provide, like, a little bit more context on that, before going full into the busy world, let's say, I was I mean, I was an entrepreneur. And that, I actually saw I mean, I am a technical I am a biotech engineer, specialized in plant biotechnology, cofounding several nonprofit and for profit businesses. One of my profit businesses one of my companies was actually in Central America. At the end, we had to close to close that company. Because of of customs. Like, it was completely unviable to do what we wanted to do during that moment, and we were operating in Panama and Guatemala. And just because of regulation stuff on biological input and bioregulation and customs and so on and so forth, needed to close the company because it didn't make any sense because it was like, the prices, the time, that all the biological inputs were lost essentially because of of the time of the customs' take in order to kind of process all those. Anyway, like, all all that's come up, let's say, and then I start to work on impact investment, particularly in Mexico. And then we broke those programs of impact investment training programs to Central America. And that's when we start to see, like, okay. So, for example, the realities that we see in Thailand and the kind of, like, things that that I live as an in Guatemala and in Panama and and in some part in Costa Rica. Are kind of similar in everyone is having essentially kind of the same problem. Outside outside the biotech, let's say, sector, So and then we sort of have a lot of kind of technical assistant programs with more, like, on the broader spectrum, not, in one on one sessions, let's say. We keep, like, hearing from the trip the entrepreneurs the same things that one, you know, like, the typical argument that all entrepreneurs have that there is not enough capital or that there are not enough busy funds or and then you hear from the VC funds sometimes that there are not entrepreneurs. But the reality is that you have both sides, really. And then also from the entrepreneurs, that they didn't understand the VCs, they didn't like, what were the expectations in terms of the returns. A lot of, essentially, like, misconception on their end because we also kind of found that lot of entrepreneurs were afraid from investors. Like, they they saw it as you know, like this billion in this story that was going to take over over my company, and then I will lose my company. And, anyway, you have, like, different cases there. So in essence, because of all these things and all these problems that we were seeing, like, over and over and over again. Because we talk, like, with more than 300, like, entrepreneurs from the ecosystem. It was, like, okay. Let's design a fund that actually address the needs of these type of companies, not only, like, the super asset like kind of business style company, but also these other companies that also need capital, but they are unable to access because of the type of profile that they have. So so, yeah, that's kind of the the resume on that end. And, also, like, I mean, yes, as Mark said, like, one one one important thing definitely is the money because again, as as Rodrigo has mentioned, like, you need to show results. In order to prove that the the model actually works. For example, in our model, this is the first fund that is designed this way. We have like, we are fortunate that IDV let back us, and we are the first type of of of this type of fund that that actually they are backing. And it was a a like, to be completely honest, for example, the due diligence process with with them, it was a huge pain in the eyes. We completely transferred. Agree.
+Me: Yeah. Yeah. Yeah. Please.
+Them: Yeah. Yeah. Because, like, all the reporting and all the provisions process in in in taking that, you know, like, as as Rodrigo mentioned, like, for example, in our case, we are at 2,000,000 fund. So it's even smaller than, for example, Delta fund. And they were asking us for information that it's, like, dude, I cannot give you that information because my organization, like, first is a nonprofit. So, for example, in our case of fund managers, we are not taking care of user management fees. So it's it's kind of, like, a little bit more more complicated. Let's say, on that end. But but, yeah, I don't know if that answers your your question.
+Me: No. Yeah.
+Them: So so curious if we can jump why the nonprofit? Why would you be in that structure and also for for the Higgin Bottom that was also non profit. Yeah. Yeah. Yeah. So because so when we were seeing the companies so our target are missing middle companies in particular. So kind of the the ticket size let's say it was around 100 k. Like, we can go lower 50 k up to 150. So when we were seeing kind of like, you know, okay. Let's use see let's use the BC model to 20 compensation model that everyone uses. But the problem is that with that model, for example, when we run the numbers, we need to have at least a fund of 12 around 12,000,000 in order to be able to kind of use this two twenty model compensation. So the problem with that is that, okay, if I'm a fund allocating ticket sizes of around 100 k, and the fund is 200, like, 200, sorry, 12,000,000, around 12,000,000. Like, it will it will take me I don't know, ten years to allocate that capital. Because, again, like, my region, like, my thesis to invest is only Central America and Southern Mexico. So that didn't make any sense to us. Like like, I'm not going to raise go and raise a bigger font size. Just to be able to use that model that actually, like, that model, like, the the kind of first argument around that is that doesn't feel fits to the type of companies that I actually want to invest. I mean, yes, one part to the tech companies and all those things, but to this other type of companies that I'm looking to finance, there a fit there because they are not looking for an XE, like for a traditional XE. And stuff like that. So that's why we decided to, like, go around that and say, okay. Like, let's let's look for some other models and structures. Maybe someone out there in the world has already figured out. Like, we don't have to reinvent the wheel here. And that's when we start to kind of like, okay. We found some models from The US We found some models from India. We found some models from Africa. And we kind of did a merge, let's say, on that end in order to kind of, okay, these things make sense to what we want to do. Now let's tropicalize that. To the realities that we see here in Central America. That's kind of the reasoning of why we decided to go to that. So can I summarize that? So because the two twenty model and at small investments won't get you paid because you gotta put in a 100 investments. And so you need to pay yourself, so you need a different like a non profit model to fund smaller investments. Like, I
+Me: So a $2,000,000 fund, you'd get, what, 40 k a year?
+Them: Exactly. To cover operations and compensation.
+Me: And management fees?
+Them: Legal, you know, everything, not just yeah. It's actually Yeah. That's there is no way that there is manageable. Mhmm. Okay. So is it would you describe it as a is a is a VC fund, or is it more of, like, a an impact blended grant fund? Or how how do you think about that? And I'm also curious on your take on impact investing. Like do you consider yourselves impact invested? Rodrigo made it clear that he's there to make money. And are the rest of you happy if you don't make money and you just make Impact? I I it's freaking me happy if I may jump in here. No. No. No. No. I I would I would describe us as an impact first venture fund. Know, give me if you know, this is old old hat to everyone, but, you know, there's a range You can you can be an impact investor and still, you know, look for market rate returns. In in our case, we've chosen to be what we call impact first or you prioritize impact over returns, so we're able to to set concessionary returns, but we still use BCE mechanism. Still invest in the form of equity and quasi equity like SAFES, convertible notes, that sort of thing, or or or direct price rounds. Also, with this new new instrument of of redeemable equity. But willing to accept we're willing to be a bit more patient. We can be a bit more flexible in terms, but if we balance that because we're also trying to crowd other investors in the rounds, we it can't be it can't be philanthropy. Terms have to make have to make sense for other investors as well. For example, believe, you know, we co co invested with almost everyone here. So so we wanted to be able to build that flexibility in, but we still operate as VCs just under you know, we're using different different structure. So something to have you for or Mark if that if that makes sense. Yeah. No. And and just to to clarify one part, Mark, like, the the grants, for example, that we receive, So we have, let's say, like, two different holes. One, the one that goes to the operational capital that goes for the the admins stuff, the technical assistance board, that that's completely, like, pure philanthropy. Then we have the other cool we have, like, our venture philanthropists that are essentially kind of, like, our LPs, let's call it, that they do recoverable brands. So then we use those recoverable grants to do our equity, plus the equity, and redeemable equity investments.
+Me: Interesting.
+Them: Got it. Thank you. Helpful.
+Me: Zero to 10 if you were to have, like, a start up sends Ramadica program, much like you had start up Chile, Like, my good idea, Ferry, I I have good idea fairy. So the good idea fairy goes, poof, What if we have start up Central America and we give $50,000 grants reimbursements or $100,000 or whatever to people coming to Sensor America to start companies. It's zero to 10. Zero is a complete waste of time and 10 is, oh my god, best thing ever.
+Them: If I well, I'll sorry. Mean, monopolize
+Me: Yeah. No, please.
+Them: conversation. I did I didn't understand your question. Could you please repeat that?
+Me: So zero to 10, how valuable would a program like Startup Centroamérica, Startup Chile, tropicalized to Centroamérica, b, how valuable would that be? Zero is waste of time, effort, and money. 10 is best thing ever.
+Them: If if I may, I think it would if it could be x well, I think it would be great. The problem is the coordination between the different countries You know, where are these in in founders coming from in Central America? What what is your, quote, unquote, capital city? You know, where where are you building this hub?
+Me: Yep. Yep.
+Them: Every you know, the countries in Central America don't necessarily play nice together.
+Me: Yep.
+Them: And so you you get a lot of competition and know, I don't know, maybe without using, like, ugly words, know, just may not be the coordination effort would be would be difficult. I would see it. However, assuming you could get around those problems, then I it would obviously be wonderful. That I think it's just the coordination between the different
+Me: Yep.
+Them: legal and political ecosystems will be extremely difficult. But
+Me: Yep.
+Them: please, if anyone disagrees or has other other comments, we'll diverge.
+Me: No, es guierno.
+Them: I think if, one is not very helpful and then is super helpful, it will be closer
+Me: Okay.
+Them: to one. Because I don't think 50 k is about, like, I don't think anybody is not investing or not founding a company because they don't get access to I I don't wanna
+Me: Não.
+Them: misjudge 50 k, which I do not hand out really. But but
+Me: Mhmm.
+Them: not that's not the bottleneck for the region. Right? Like, I think most people are able to secure their first friends and family or angel or advisor or be even small BC round. Again, I think the question would be what happens what happens what happens next. Yeah.
+Me: Rodrigo.
+Them: Yeah. I think it depends, you know, if it's one or 10 really, on the quality of the program more. You as you're saying it's sort of chilly. From my experience, I've heard really good things, great things about start up Chile. How do you implement that here is, think, what what the how it differentiates from other programs here in Central America that haven't worked with 50,000, a $100,000 checks. I mean, for for up up to now, I I haven't seen it, but if it's possible to make a really quality program, then it might be really worth
+Me: Okay. Got it, Abigail?
+Them: Yeah. Like like, it this takes me to what I said at the beginning. And I agree with Guillermo and Rodrigo in that yes, the money is important. It is. But before the money comes in, we needed a program that will level the entrepreneurs not only within Central American countries, but also between Central America and other countries, even in Latin America. And and you know, I'll I'll give you, there like I said, also, you know, there's a difference in level of education in the Central American countries. You'll see more startups in Costa Rica. With people who graduated from local universities than start ups and other Central American countries that have at least one founder that graduated from a university in The US or, you know, Europe where they're bringing that knowledge to their country. Why? Because in reality, Costa Rica is still offers better level of preparation than other Central American countries. And so right from the get go, you see a difference in education, in preparedness, But regardless of that better education, we're still lacking in the, you know, the academic education, we're still lacking in the entrepreneurial education, which actually some founders coming from The US, you know, say they graduated from MIT or schemes, they're coming with the entrepreneurship mentality of, you know, this is what a startup look So you have to level, the field for the Central American countries between themselves and also between them the them and the rest of Latin America before you even think
+Me: Abigail?
+Them: giving them money. I think. Yeah. So so in my case, like, to be honest, I'm always skeptical of like, new acceleration programs mainly because you have, like, a bunch of acceleration programs already in the ecosystem that the execution part of it has been bad. Yeah. They're really bad. Like like, in for example, in Costa Rica, it's supposed that you have, like, seven or eight as a, like, national acceleration programs. And none of them have, like, a really good level on one hand. And really, they are more incubators than us. That's another thing. Like, there there is also, like, a miss understanding or or misapplication. I know what words to use there. Like, in terms of the different levels of of, like, involvement, let's say, for each program. So so, yeah, like, from one to 10, I will be more inclined towards one.
+Me: Okay.
+Them: Because of the the execution. Like, historically, execution of the programs that have been in in I don't know. I will be extremely on that end. That's on one hand, but also on the other hand because we have seen that, for example, like, the acceleration programs are already out there, they are really not connected, one, with the market, and two, for And with the market, I mean, like, the market for the companies that they work with. But also, like, for the like, for for example, for the investors. In particular. So there is no, like, connection on on that end. Which is supposed one one of the main you know, jobs that they have as an accelerator program. So so, yeah, those are my my two
+Me: Got it? What?
+Them: Sorry. Why are you accelerating this
+Me: Mark?
+Them: bad? There's Abigail, you said there were accelerators very don't know how to run them. They're run by the
+Me: I can't
+Them: state. We're removing you, Mark. Why?
+Me: I I can't hear you, Mark.
+Them: We're losing you apartments. Ah, okay. Okay. Yeah. Is is better. Yeah. So why the no? It's very slow. It's like, you're in slow motion.
+Me: Still can't hear you.
+Them: Don't know what. Okay. Turn it on. Go ahead. Go ahead. Go ahead.
+Me: You wanna check your question mark? Type your question, and Gallett can answer.
+Them: Yeah. Hold. I'll hold. Okay. I I I I actually wanted to continue what on what Abigail was, saying when this is my first fund. And, like I said, I'm still fundraising. And one of the potential LPs would be okay. So what's his exit plan? You know, how are you gonna exit? Because we you you know, we already invested in other VCs and we don't see any exits. So you know, Guillermo talked about it. But they got a talked about this and that. Okay. We we do it's not enough to first, we have to to work the core. Right? The core is preparation for these entrepreneurs and, you know, very early stage money. But then you definitely need to think about how to connect these startups to the next you know, to next stage. In my case, what I did was okay. An agtic. It's very difficult to exit. Where is less difficult? In The US. Where is a good market? To bring these startups? The US. So one of my strategies is to connect these startups to The US so they can grow there and eventually have their exit. How do I do this? I surrounded myself by venture partners from key market key markets in The US. I'm signing MOUs with key universities that carry out validation programs, like in the field for these start up to, like, have, like, a stamp of approval to to to start selling in The US, etcetera. And this is all to prepare them, you know, to even raise their series a, etcetera. So if I were to rewind, one of the things that we could and should be small countries in Central America is looking for validation programs. Like, once they're they've finished their incubator programs, they need to validate their product or service. So how do they do this? This is, you know, ideally would be government cooperation where you have the different chambers. Operating. And, you know, like, if in the case of agriculture, oh, you know, there's a field of banana there where you can, you know, try your product. But, that that would be like they would definitely have to be steps to follow. Otherwise, we would be stuck. In early stages and not be be able to progress. And progress outside the Central American you know, market because definitely exit in Central America happening by by Central American companies is more difficult than, you know, if we go to Brazil or we go to The US.
+Me: So one of the other good idea fairies that we've had is having, like, a soft landing or having an office in Silicon Valley to actually help build those bridges It's very hard. So, like, the consulate in Mexico had a a head of economic development, and his job was to help entrepreneurs from Mexico land and help drive foreign investment into the region and kind of being that bridge It'd be very hard for El Salvador, Honduras, Guatemala, Costa Rica, Panamá, all those countries, Dominican Republic, lo que sea. All have offices in Silicon Valley. Would it be helpful if Kath helped establish kind of a permanent presence for all of the small countries in LatAm to specifically be that bridge. Like, Guillermo, you mentioned what comes after Would something like that be helpful?
+Them: I think it would be extremely helpful, but extremely tough. Like, don't know if that would be my top five fixes or priorities. Like, I think we there's stuff that we would need to do beforehand, But if this is something that just throwing out there, that's happening right, then it's how do we make sure we get the right people applying to it. Right? And how the people that just wanna move to SF to I mean, have this gonna sell them, but just, like, actually, to get an offer from Google. Right? How how do you actually filter the right quality of people
+Me: Yeah.
+Them: that will take the most out of the opportunity?
+Me: No.
+Them: And it will need to be probably know, only for a couple of months. Right? Like, I think it would need to be I know if batch base is the right approach. Something similar to that.
+Me: Yeah. It it would so, like, IDB did something like that Fernando Franco, he did the podcast for a number of years. He actually ran a program to help companies from LatAm kind of do land, but it was they tended to be, like, post seed kind of looking for series a, series b kind of stuff. And it was a relatively successful a relatively selective program, and I think it was also relatively successful. Like, that's kind of what it is that we're thinking. Wanna be respectful of everybody's time. We were scheduled for an hour But how can we help you guys? Follow on funding, education for the entrepreneurs, as well as for the family offices, institutional investors, and it sounds like regional connectivity. And overall, anything that we're gonna do it not half facet, it's gotta be really high quality. Is that kind of a decent take home? Anything else, Gallot, like that idea?
+Them: Maybe LP introductions could be another.
+Me: LP intro, cap intro.
+Them: Mhmm. There's there's a huge void the USAID left.
+Me: Okay. Yeah.
+Them: In in, you know, DFC. And so I think you know, it not also on LP side, but also on the philanthropic and and that side as well. There's there's been a complete collapse of of that funding.
+Me: So USAID two point o. Yeah.
+Them: I don't know. Well, that's a that's a complicated topic, but, you know, but but but some but, yes, there's a funder gap. That they're void that that leaves, whether it's a, you a two point o, you you said, yeah, I don't I don't know. But definitely that gap needs to be filled with but maybe not the same style.
+Me: So
+Them: If that makes sense.
+Me: Abigail and I think we're we're done. Mark needs Mark needs to bounce.
+Them: Sí, por favor, Yeah. Yeah. Sorry. Super quick. So maybe, like, in in, let's say, in combo with those, like, potential introductions for fundraising for our funds. It will be really cool to have, like, some type of centralized due and reporting process so you don't have to report the same things to different stakeholders with different formats. That honestly doesn't make any sense. As you can see, I am kind of, like, a little bit traumatized with all the reporting but,
+Me: Yep.
+Them: essentially, like, just to to to be more, let's say, efficient on that. Like, for example, if GAP is doing a due diligence process, if Bidlap is doing a due diligence process, Like, that can be, like, a shared due process as for us as funds, for example, when we are investing in the same company and we share due diligence materials, literally the same thing but apply for the funds.
+Me: Yep. No, that's fantastic. Guys, thank you so much. I wanna be a resource. I know Mark does too. Ewja, if you want can you start a WhatsApp group with us? And if you guys have any questions, comments, concerns, or complaints, please su servidor acá, and we're very interested in growing the ecosystem. And give us your good idea, fairies. And we're gonna send you our good idea fairies, and we'd love your feedback. So gracias. Un abrazo.
+Them: Thank you very Thank you, guys. Thank you so much. Thank you. Thank you for your interest. Something else. Appreciate it. Thank you. Bye bye.
+Me: Chao, chao. Hello, sir. Hey. Got us again? Yep.
+Them: Hey. Carlos again?
+Me: So I I and I hope they understood my questions. Like, I was trying to I
+Them: So I I mean, I hope they understood my questions. Like, I was trying to I
+Me: but, like,
+Them: but, like, that's a interesting group. Fascinating, like, meaning. I
+Me: that's a interesting group. Fascinating, like, meaning. I
+Them: I I feel like that's why Adi was writing the book impact from impact.
+Me: I I feel like that's why Adi was writing the book impact from impact. If you're in that meeting. Right? Like, there was a mix of a bunch of like, those are all
+Them: If you were in that meeting. Right? Like, there was a mix of a bunch of like, those are all true believers. Like, those are I mean, I guess my take was, like,
+Me: true believers. Like, those are mean, I guess my take was, like,
+Them: this is sort of the nonmarket side of the house.
+Me: this is sort of the nonmarket side of the house.
+Them: Where they're really passionate about the
+Me: Where they're really passionate about the
+Them: the cause and the country and the geography. I mean, like, if you're an investor and take a step back and say, oh,
+Me: the cause and the country and the geography. I mean, like, if you're an investor to take a step back and say, I
+Them: my investment thesis is Southern Mexico and and Guatemala.
+Me: my investment thesis is Southern Mexico and and Guatemala. Yep. Well,
+Them: Well, what kind of investment thesis is that? Right?
+Me: what kind of investment thesis is that? Yes. How about investment thesis about making money? What about geography play into this?
+Them: How about investment thesis about making money? What what does geography play into this?
+Me: Yes. So am I right? Like like, those are kind of
+Them: Am I right? Like like, those are kind of you know, those are the lovers, not the
+Me: you know, those are the lovers, not the
+Them: moneymakers or per se.
+Me: moneymakers or per se. Honestly, it's completely irrational to actually invest in those markets.
+Them: Right. Right. That was
+Me: Like Right. Unless of my point, like, what do do it? Yeah.
+Them: kinda my point. Like, what are you doing? Yeah.
+Me: Yeah. No. And they're doing it, like, I do think that there's a gap in the market. I do think you know, I do think that there are ways to do I think a lot of them are doing good while also wanting to do well. And I think there's a lot of kind of that mix. Like, why am I spending my time focusing on Latam and liquidity as opposed to just kind of focusing my time in Silicon Valley. Mhmm. Honestly, I think that there's a market failure. And I think that we can actually help build a bridge as well as you know, the crunchy granola kinda hippie part of me. Mhmm. Yeah. I mean, obviously, if we were if we were in a
+Them: Yeah. I mean, obviously, if we were if we were in it for the money, we wouldn't even be talking to
+Me: for the money, we wouldn't even talking to Exactly. You know, this for our countries. Right? So I I we we are
+Them: you know, the smaller countries. Right? Like, so I I we we are we are committed to that too.
+Me: we are committed to that too.
+Them: But I almost feel like they're, like, kind of bleeding heart,
+Me: But I almost feel like they're like, kind of bleeding heart, Grant types that have reformulated their
+Them: Grant types that have reformulated their pitch into an investment thesis because they think that's what people wanna hear.
+Me: pitch into an investment thesis because they think that's okay. People wanna hear. Yes. And see if we somebody gave them a grant, they'd be just happy.
+Them: And if if somebody gave them a grant, they'd be just happy. Like, running a grant. I mean, the two of them are nonprofits.
+Me: Like, running a grant. I mean, the two of are nonprofits. Yep.
+Them: Right? Rodrigo at least said he's money first. And then, like,
+Me: Right? Rodrigo at least said he's money first. And then, like, also, I mean, I'm just sort of
+Them: also, I mean, I'm just sort of thinking about this out loud and kind of, like,
+Me: thinking about this out and kind of like Yeah. You know, when you say impact first,
+Them: when you say impact first, and then we wanna make some returns. Like,
+Me: and then we wanna make some returns, like, to me, I'm like, okay. Bullshit. Like, if I'm another if I'm a money making investor,
+Them: me, I'm like, okay. Bullshit. Like, if I'm another if I'm a money making and I'm sitting next to you in the table, I want you at the table.
+Me: and I'm sitting next to you in the table, I want you at the table. Because you're a lazy investor. You're gonna lose my shit. Yep.
+Them: Because you're a lazy investor. You're gonna lose my shit.
+Me: You know? You guys are not aggressive. I wanna pound them, and I want all of us
+Them: Know? You guys are not aggressive. I wanna pound them, and I want all of us to pound them so that they can get rid
+Me: to pound them so that they can get where my 20% returns, and you guys are, like,
+Them: my 20% returns. And you guys are, like, basically gonna be happy if they lose money.
+Me: basically gonna be happy if they lose money. Yep. I think Yeah. No. In in
+Them: Right? Okay.
+Me: that's
+Them: Attention. A natural tension. Yeah.
+Me: you know My tension. That's that's the that's the tension. I I think if you can bring to the table the local companies and have them be willing to surface their problems, and say, these are like hair on fire problems. You know, like, what Abby said in terms of the customs process, and it was a giant nightmare and all the compliance and all that sort of stuff in my mind. There's your start up. Yeah. Like,
+Them: Yeah.
+Me: fix that. Fix the paperwork. Fix the compliance, the reporting, fix the cross border logistics, Like, that's a dirty boring problem, but my guess is you could probably do a make a lot of money fixing those problems for people. I don't know. Like,
+Them: Well, also, they they ask to, like, help us
+Me: Well, also, they they ask to, like, help us report back to the donors, which is also, like,
+Them: report back to the donors, which is also, like, not the problem we wanna fix. Like, that's a donor problem. If you guys got, like,
+Me: not the problem we wanna fix. Like, that's a donor problem. If you're gonna go, like,
+Them: if if IDB lab has onerous reporting there, we can we can certainly recommend the calf. Like,
+Me: if IBD Lab has onerous reporting that well, we can we can certainly recommend the calf. Like,
+Them: don't do this. Like, create an onerous reporting cycle. Like,
+Me: don't do this. Don't, like, create an onerous reporting cycle, like, obviously. But, you know, like,
+Them: obviously. But, you know, like, if we so let's just say we subsidize. We, like, help streamline across the MDBs. We're just, like,
+Me: if we so let's just say we subsidize. We, like, help streamline across the MVPs. We're just, like, accepting the problem and and trying to, like, work around it, essentially.
+Them: accepting the problem and and trying to, like, work around it essentially as opposed to telling CAP and IDB to, like, you know, speed up their shit and get it get their shit in order. But I don't know. Fascinating, like, side of the conversation, I guess. But if I'm, like, one of these hungry VC guys, those guys annoy the shit at
+Me: As opposed to telling CAF and IDB to, like, you know, speed up their shit and get it get their shit in order. But I know. It fascinating, like, side of the conversation, I guess. One of these hungry VC guys. Those guys annoy the shit out
+Them: me. Right? Like, no wonder they're not gonna go to the region. They don't wanna sit next to those types. They're they're not in a
+Me: me. Right? Like, no wonder not gonna go to the region. They don't wanna sit next to those types. They're they're not in it for the real they're not in for
+Them: for the real they're not in for the money. And
+Me: the money. Correct. And
+Them: Alright.
+Me: this is the best the market has. And that's interesting.
+Them: And that's interesting. I mean, because also, like, in in Galip, obviously, yeah, like,
+Me: And that's interesting. I mean, because also, like, at least, obviously yeah. Like,
+Them: she she really wanted to
+Me: she she really wanted to you know, she wanted donor money to build up the ecosystem okay.
+Them: you know, she wanted donor money to build up the ecosystem. Okay.
+Me: And then, like, you know, then they all trashed on the ecos the the
+Them: And then, like you know? And then they all trashed on the ecos the the you know, accelerators and incubators are already there because the guys, like,
+Me: accelerators and incubators are already there because the guys, like,
+Them: serious and whatnot, which I guess makes sense. Right? Like, I mean, if you're, like, a real
+Me: serious and whatnot, which I guess makes sense. Right? Like, I mean, if you're, like, a real
+Them: swinging, you know what, like, you're not gonna go teach
+Me: swing in, you know what, like, you're not gonna go teach that there. Like, they're you're you are
+Them: that there. Like, they're you're you aren't gonna go. Jonathan Nelson's not gonna go down there. So
+Me: gonna go Jonathan Nelson's not gonna go down there. So, obviously, whoever they have, like,
+Them: obviously, whoever they have, like, doesn't have any contact.
+Me: doesn't have any contacts, so it's not very useful.
+Them: And so it's not very useful. And so, I mean, a part of me thinks like, well,
+Me: So, I mean, a part of me thinks, like, well, again, back to, like,
+Them: again, back to, like I mean I mean, identity should we be
+Me: mean I mean, identically, should we be working with universities? Like,
+Them: with universities? Like, because, like, this stuff is so expensive and it takes a long time to learn,
+Me: because, like, this stuff is so expensive and it takes a long time to learn,
+Them: like, why not, like, slow it down and, like,
+Me: like, why not, like, slow it down and, like,
+Them: have, like, a four year entrepreneurship, like,
+Me: have, like, a four year entrepreneurship, like,
+Them: minor in in all the universities or something. Because they keep going on in this
+Me: minor in in all the universities or some because they keep going on to this fuzzy stuff around culture and mindset and
+Them: fuzzy stuff around culture and mindset and entrepreneurship. And I always find that
+Me: And I always find that, frankly, a little bit offensive. Like, my my two mates and
+Them: frankly, a little bit offensive. Like, my my two and in Mexico, and and and
+Me: in Mexico and and and and and most of the poor Latins that I know
+Them: and most of the poor Latins that I know are the most
+Me: are the most freaking hustler people I know. They don't have one job. They have four.
+Them: freaking hustler people I know. They don't have one job. They have four.
+Me: They're more they're they're looking for money in every corner, and they're, like, hustling in every damn
+Them: They're the most on they're they're looking for money in every corner, and they're like, hustling in every damn thing, things that never occurred to me. Like, so entrepreneurial? Like, come on.
+Me: thing, things that never occurred to me. Like, so entrepreneurial? Yep. Come on.
+Them: But, like, start up world, that's a whole different thing. You wanna talk about, okay. Is it a cat
+Me: But, like, start up world, that's a whole different thing. You wanna talk about, okay. Is it a a cap table? Is it, like, you know, a tech stack and all that kind of talk? But that's a very
+Them: table? Is it, like, you know, a tech stack and all that kind of talk? And that's a very, you know,
+Me: you know, kind of specific thing. I'm just not sure.
+Them: kinda specific thing. I'm just not sure.
+Me: You know? Wait. Wait. What what what's your take on that? It it it's
+Them: You know? What what what's your take on that?
+Me: mean, I I think what they're referring to, and I see this a lot of times, when people come to Silicon Valley, their minds are kind of blown with the scale at which the hustlers try to hustle. Like, my goal is I like, I wanna fucking move GDP in Latin America. I I think my small little help to Chile and telling them to kind of you know, focus on building the community and the instead of trying to go and and schmooze Google and Facebook and NVIDIA and the big you know, the fan companies. Like, no, dude, that's not where you wanna be if you're gonna grow an ecosystem. Like, I think that helped move GDP in Chile a tiny little bit, and I'm happy with that. But like, why I'm doing this is I just want fucking economic growth. And I think that we can do it, and
+Them: Yeah.
+Me: the lever at which I'm trying to point it in terms of this liquidity problem, I think this is the biggest problem I can solve that will actually move GDP. But that sounds very arrogant when I talk about this in Toledo. And it it comes across as delusional in a large part of the world, but you're crazy until you're not, then you're a visionary. So I think you know, the hustlers in all across Latin America, they are hungry as hell. They will work their way. Every in Latin America, I'd much rather work with them than some sorry, Stanford asshole, you know, who's born of the silver spoonuppas, but just because those people are working hard they're working probably not the people in Silicon Valley don't work hard They do. But to do a similar thing in, like, freaking Brazil or Mexico or god forbid, Central America, Like, that's just heroic levels of effort that you actually have to put into growing a company like that. So that's where I wanna spend my time But I think that's kind of the ambition, the mindset. That they're talking about. Something also tells me is that the ecosystem is not operating at scale. Like, they saw 400 entrepreneurs. And they made seven investments. They probably need to have four to 8,000 entrepreneurial deals to be able to have kind of that that entrepreneurs learning from each other, to having kind of those breakout hits. And so that's number they gave? They saw four hundred and they gave seven and that's
+Them: That was the number they gave? They saw 400, and they gave seven investments?
+Me: And they made seven investments, and three of those were repeat investments.
+Them: Well, who the hell who who who the hell are the 393? Who are these people? It's not like
+Me: So they invested in, like, one Who the hell are the 393 Who are these people? It's not like
+Them: Popsicles at the soccer game. These are people with, like, tech ideas or
+Me: popsicles at the soccer game. These are people with, like, tech ideas? Or My guess is that they're probably, like, pulperillas and and
+Them: you know,
+Me: small businesses, and maybe they have something you know, But those are also vanity metrics.
+Them: Yeah. Oh, yeah. Exactly. Like, all
+Me: Like Yeah. Oh, yeah. Exactly. Like, all all this
+Them: all this is, like, it seems, like, kinda dubious. And, also, like,
+Me: is, like, it seems, like, kinda dubious. And, also, like, you know, that's, like, a shitload of time. Like, what do we I mean, obviously,
+Them: you know, that's, like, a shitload of time. Like, what a way I mean, obviously, I know what the Anderson are, but, like, they hopefully, they're a little more selective on their
+Me: I don't know what the Anderson numbers are, but, like, they hopefully, they're a little more selective on their
+Them: you know, funnel so that they don't waste time and, you know,
+Me: you know, funnel so that they don't waste time and, you know, most
+Them: most most of their meetings. Yeah.
+Me: most of their meetings. So Silicon Valley VCs will say that they look at three two to 3,000 pitches a year.
+Them: Yeah. It's a lot.
+Me: And by that means they look at a AngelList portfolio or they flip through a deck or they see an email with an executive summary and they
+Them: Yeah. Right. Right. Right.
+Me: And, I mean, I get I get five of those a day.
+Them: Right.
+Me: Right. But yeah. No. I mean, it's But I think we're still saying the same thing. We
+Them: Well, but I I think we're still saying the same thing. We we are try I mean, it it
+Me: we are try I mean, it it also strikes me that that is still a very elite group all those
+Them: strikes me that that is still a very elite group. All those people, for different reasons. Right? It's like the Latin local version. Like, there's some
+Me: people, for different reasons. Right? It's like the Latin local version. Like, there's some some some the guy from Alabama. Yep. You know, these are, like,
+Them: some some the guy from Alabama. You know, these are, elite because they can afford through their own constitution or through their pocketbook
+Me: in need because they can afford to their own constitution or through their pocketbooks
+Them: to, like, be there on a hobby, or they're,
+Me: like, be there on a hobby. Yep. Or they're, like, in a third country, a couple of Mexicans in Central America, Like,
+Them: in a third country, a couple of Mexicans in Central America, like, but I I guess what we're saying also is
+Me: but I I guess what we're saying also is yeah, okay. This is we're not gonna have, like, the maids. Like,
+Them: yeah, okay. This is we're not gonna have, like, the maids. Like, I'm trying to think of an
+Me: trying to think of an app startup because they're just too far of an edge
+Them: startup because they're just too far of an educational gap
+Me: educational gap Correct. In the various skill sets of, like, operating
+Them: in the various skill sets of, like, operating remotely on a laptop. Like, when we're talking about tech
+Me: remotely on a laptop. Like, when we're talking about tech startups and, like, creative businesses that, like, get
+Them: startups and, like, creative businesses that, like, get foreign investors,
+Me: foreign investors. Yep. That's like a you know, by definition, an elite group. Fine.
+Them: That's like a you know, by definition, an elite group. Fine.
+Me: Yep. But we're trying to build a more capable elite group
+Them: But we're trying to build a more capable elite group
+Me: because of, essentially, the paper that we wrote last
+Them: because of essentially the paper that we wrote, like, last night, like, because
+Me: night, like, because, you know, the the world has moved into this, like,
+Them: the the world has moved into this, like,
+Me: you know, high value concentrated in in leaked these, you know, unicorn type
+Them: you know, high value concentrated in in, like, these, you know, unicorn type you know, opportunities, equity investments, pops. And those
+Me: you know, opportunities, equity investments, pops. And those
+Them: those have disproportionate
+Me: those have disproportionate ecosystemic reinvestment traditions
+Them: ecosystemic reinvestment traditions based
+Me: based on the data around the world. Yep. And
+Them: on the data around the world. And so instead of just saying,
+Me: so instead of just saying, screw the small countries and small environments,
+Them: screw the small countries and small environments, just focus
+Me: just focus on the big ones where the normal capital goes. That's
+Them: on the big ones where the normal capital goes. That's more rational.
+Me: more rational. Yep. We're saying there should be a concerted effort to
+Them: We're saying there should be a concerted effort to
+Me: to develop those ecosystems. But in the most
+Them: to develop those ecosystems. But in the most
+Me: efficient and, like, best way possible, not just, like,
+Them: efficient and, like, best way possible, not just like, you know, vanity signaling or whatever, but, like, I'm really, like,
+Me: you know, vanity signaling or whatever. Like, I'm really, like, you know, impactful programs because because we think it's worth it over time. I mean, it
+Them: you know, impactful program. So because because we think it's worth it over time. I mean, guess that's all very obvious. But without having gone through this whole process,
+Me: guess that's all very obvious. But without having gone through this whole process, Yeah. I didn't feel like I could say that with confidence like I can now.
+Them: I didn't feel like I could say that with confidence like I can now.
+Me: No. Yeah. And, honestly, like, if I were to look at Lithuanian Estonia fifteen years ago, right after the you know, our twenty years ago, right after the wall came down. I would say it's completely irrational for you to do similar stuff there. And
+Them: Right.
+Me: I'm willing to bet that you know, people thought that those countries were crazy. But now they actually have a very solid viable like, you have Skype, and out of Skype, you had you know, how many companies spin out.
+Them: Did I ever tell you about my my scenes
+Me: Of that and how many investors and that sort stuff. Things theory.
+Them: scenes theory? Like, like, in music, you know, like,
+Me: Like, like, in music, you know, like, the jazz scene in New Orleans and the
+Them: the jazz scene in New Orleans in the forties,
+Me: Yes. Forties. Yep. You know? Or or this, you know, salsa music Yep. Was born in New York. Yep. Right? From, like, Puerto Ricans and Cubans. Everyone thinks salsa wasn't fed
+Them: you know, or or this, you know, salsa music was born in New York. Right, from, like, Puerto Ricans and Cubans. Everyone right, Puerto Ricans and Cubans. Everyone thinks salsa was invented in, like, somewhere in Latin America. Wrong. It was invented in New York with, like, a
+Me: in, like, somewhere in Latin America. Wrong. It was invented in New York with, like, a certain set of five people
+Them: certain set of five people. And you have this in Silicon Valley, like, the PayPal, like,
+Me: And you have this in Silicon Valley, like, the PayPal, like,
+Them: you know, but that's what we're trying to do. We're trying to build a scene.
+Me: you know, but that's what we're trying to do. We're trying to build a city. Yes. And it's a scene could be one company. It could be the Skype.
+Them: And it's a scene could be one company. It could be the Skype scene. And, like, how did that happen? Like, couple
+Me: Scene. Yep. And, like, how did that happen? Like, couple guys in the garage, the Microsoft scene,
+Them: in the garage, the Microsoft scene and, like, that's that actually resonates really
+Me: that's that actually resonates really strongly. And we're sort of saying, like,
+Them: strongly. And we're sort of saying, like, you know, scenes can be organic and natural and,
+Me: you know, scenes can be organic and natural and, like, you know, skate
+Them: you know, skate scenes, surf scenes, all those different thing of music scenes,
+Me: scenes, surf scenes. Yep. All those different thing of music scenes Yep. You know, grunge and
+Them: you know, grunge in Seattle.
+Me: Seattle. That's what we're trying to do, and we're you know, like, yeah, there's a little bit of social engineering that's
+Them: That's what we're trying to do, and we're you know, like, yeah, there's a little bit of social engineering that's
+Me: Yeah. Fast awkward by us trying to go proactive with it. But we're saying these scenes are
+Them: kind of bass awkwards by us trying to go proactive in it, but we're saying these scenes are so
+Me: so beneficial to the macroeconomics of these communities and the reinvestment
+Them: to the macroeconomics of these communities and the reinvestment
+Me: effects that it it's worth
+Them: that it it's worth trying to, like,
+Me: trying to, like, you know, be fake about it. Like, it's worth trying to be proactive about it and, like,
+Them: know, be fake about it. Like, it's worth trying to be proactive about it and, like,
+Me: facilitate the scenes. But at the end of the day, yeah, you don't if you have shitty musicians and bad
+Them: facilitate the scenes. But at the end of the day, yeah, you don't if you have shitty musicians and bad dancers, like, you're not gonna get anything good out of it.
+Me: dancers, like, you're not gonna get anything good out of it. You know? Yeah. See, they need to
+Them: So you need both. You know? You need the scene. You need the you need the ball
+Me: you need the bar or the cafe or the club that, like,
+Them: or the cafe or the club that, like, you know, creates the dynamic. You know? And that's gonna be the eco yeah.
+Me: you know, creates the dynamic. You know? And that's could be the equal yeah. Think it
+Them: I think that all resonates. But I it's just fascinating to
+Me: all resonates. But I yeah. It's just fascinating to
+Them: yeah. That that was a very helpful meeting because that, like, brought a lot of things home.
+Me: yeah. That that was a very helpful meeting because that, like, brought a lot of things home. I'm and so Ezra Ezra set that up. I didn't know any of these people
+Them: Okay. Yeah.
+Me: before. I would like Efra to try to set up meetings with entrepreneurs and central see if we can do kind of a similar roundtable with them And then I'm also trying to set up a meeting with ruta n in Colombia, because I think they ended up creating a scene bit there And start up Puerto Rico did kind of a similar program as well and let me let me see if I can get talking to some of them and kinda set up a meeting with them because yeah. No. Creating a scene I think, is exactly the right I think is exactly the right you know, metaphor You know, startup Gina created a scene. Whole slide on that. Right? Like, we
+Them: Yeah. I mean, it's a cool one. There's a cool slide on that. Right? Like, we can see the grunge slide and the salsa slide. I can
+Me: see the grunge slide and the culture slide. Yeah. Good for a presentation. It
+Them: it's good for a presentation. It it makes it makes sense because
+Me: it makes it makes sense because I I bet you some of these bankers, the same way that I was. They're like a little
+Them: I I bet you some of these bankers, the same way that I was, they're a little cynical about
+Me: cynical about
+Them: some of this stuff, and we need to kind of present it in a little bit of a fresh
+Me: some of this stuff, and we need to kind of present it in a little bit of a fresh Yep. Way and explain why. And I think the data on exits
+Them: way and explain why. And I think the data on exits is the why.
+Me: is the why. Yes. Like, it's not because we're bleeding hard, like,
+Them: Like, it's not because we're bleeding hard like Central Americanists or whatever.
+Me: Central Americanists or whatever Yep. Or we just care about the small, like, underdogs.
+Them: Or we just care about the small, like, underdogs.
+Me: Yep. There there's, like, a a a rational strategic and tactical
+Them: There's, like, a a a rational strategic and tactical
+Me: purpose behind this.
+Them: purpose behind this. And and and the
+Me: And and and the CAF has an obligation to, like, advance that purpose.
+Them: calf has an obligation to, like, advance that purpose.
+Me: Yes. And they have, like, the run into the fire kind of
+Them: Can they have, like, the run into the fire kind of, you know, remit
+Me: you know, remit, essentially impact remit. Yep. But you have to be, like, less obvious
+Them: essentially impact remit? But you have to be, like, less obvious about it.
+Me: about it. You can't or, yeah, you have to be, like, a little more clever than
+Them: You can't or, yeah, you have to be, like, a little more clever than
+Me: than, I guess, some of those
+Them: than, I guess, some of those kind of
+Me: kind of
+Them: the people funding those folks were were about it. Right? Can't just say, like, oh, we need more, like,
+Me: the people funding those folks were were about it. Right? Can you say, like, oh, we need more, like,
+Them: yeah, I don't know, really, really helpful.
+Me: I don't know. Really, really helpful. Yeah. The the East oh, and then a slide you sent around this morning. I mean, the the
+Them: Yeah. The the East oh, and then the slide you sent around this morning, I mean, the the per cap
+Me: per capita kind of stuff was essentially saying, lack is
+Them: kind of stuff was essentially saying lack is
+Me: doing pretty well, like, from the talent pool. That's kinda your fundamental argument. Cool.
+Them: doing pretty well, like, from the talent pool. That's kinda your fundamental argument. Right?
+Me: That was shocking to me. Like, I'm just kind of researching
+Them: Like,
+Me: the the paper that you sent around on Exit I've been like, okay. So how do we how do we kind of quantify this and communicate it to policy makers? And so that's one of the reasons why I asked Dan and Peter if they could kinda weigh in. Like, how many millionaires does the average unicorn end up creating? And Dan just sent to me a a direct reply. I'll I think I I'll CC you on the response. But he had some great data on that. I did some research last night on, Newbank, and I think Newbank was probably one of the greatest wealth generation events in Latin America, our I mean, it created probably two to 400 millionaires and two billionaires. And brought a 130,000,000 people from being underbanked
+Them: I mean, that's an incredible story.
+Me: having a decent bank to work with. I mean, that's an incredible story. That's in And, frankly, I think
+Them: Frankly, I think that pitch to governments like, say you have a center left government,
+Me: that pitch to governments, like, say you have a center left government liking
+Them: in Guatemala, and they're like, ah, these fucking tech bros, like, fuck all these
+Me: Guatemala. Yep. And they're like, oh, these fucking tech bros, like, fuck all these sons. I know you wanna give money to all the sons of all the that that didn't vote for me.
+Them: sons. I mean, you want me to give money to all the sons of all the assholes that are that didn't vote for me.
+Me: Like, I could see, like, some resistance there. We're saying, no. No. Like, look.
+Them: Like, I can see, like, some resistance there. We're saying, no. No. No. Like, look.
+Me: This is, like,
+Them: This is, like, this is why. Right? Like,
+Me: this is why. Yes. Right? Like yeah. Interesting. Oh, cool.
+Them: yeah, interesting. Oh, cool. That's great.
+Me: Great. And then I I think you can also make the argument that countries like Israel, Chile is starting to do this. Uruguay actually has a pretty good track record. Singapore has a good track record. So you know, the Baltics have a good track record at this. I I think one of the things that prevents people is they say, well, this will never happen here, and we don't need asshole tech bro oligarchs. And I get that. But you know, the economic flywheel that putting up with a couple of ASPR, you know, ASPR is is that you get a massive amount of wealth generation. Once you get that flywheel going. It takes fifteen to twenty years, which I really think is why the development bank your statement on why the development banks are the ones to do this is set up the flywheel, you set it and forget it, and then the other countries you know, doesn't matter what
+Them: You.
+Me: what administration comes in. Like, you're still
+Them: Right.
+Me: you're you're you know, one administration to the other, you still have kind of the through line to the development bank that kind of continues this you know, the inertia the institutional inertia of the development bank actually does good. Yeah. That that's another key thing. Like, why them
+Them: Yeah. That that's another key thing. Like, why them?
+Me: And and because it's it's it provides an opportunity for this stuff to stay
+Them: And because it's it's it provides an opportunity for this stuff to stay out of the political cycle.
+Me: out of the political cycle. Yep. That they go in ones with
+Them: That they go in once with Corfo. And who the hell was president when Corfo started? I have no idea. And probably neither does the current president of Chile. Right?
+Me: Corfo, look how president when Corfo started. I have no idea. Yep. And probably neither does the current president of Chile. Right? Yep. Like, they don't care. Yeah. And that's
+Them: Like, they don't care. And that's that's that's good. That's a good thing. That's, like,
+Me: that's that's a good that's a good thing. That's Yep. Like, like, institutionalize it all. Yep.
+Them: like, institutionalize it all.
+Me: Yep. Loaded. Okay. Awesome. Thank you, man. Yep. Always super interesting. Awesome.
+Them: Yep. Load it. Okay. Awesome. Thank you, man. As always, super interesting. Yep. Talk soon.
+Me: Cheers. Bye.
+Them: Bye. Bye.

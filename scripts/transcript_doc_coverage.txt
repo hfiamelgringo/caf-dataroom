@@ -1,0 +1,32 @@
+Total Meeting Notes: 132
+With Granola URL:           64 (48%)
+With Transcript (.doc):     60 (45%)
+With both:                  52
+With only Transcript (.doc) (no Granola): 8
+
+Sample Transcript (.doc) URLs (first 25, sorted by date desc):
+  2026-04-22  04.22.2026.                                              https://docs.google.com/document/d/1gJIPXVh0S-l0AwYNXox54CnlUnsOLUjdkwl66cOmVJY/edit?usp=sharing
+  2026-04-21  04.21.2026. José Kont                                    https://docs.google.com/document/d/11vOGmXP2BZ6BZHMIxIFZGKBCX0Dy0bPZa73CKSn0_xM/edit?usp=sharing
+  2026-04-09  04.09.2027. Ruta Medellin                                https://drive.google.com/file/d/1hwMLN9IYNKPEZp9Sq6Mg-mmF6q7ROwEa/view?usp=drive_link
+  2026-04-06  04.06.2026. Daniel Granada - Pomona Impact               https://docs.google.com/document/d/1Nqosif3gFzdX9LmYXkknc7obsNG9_z5VPJkAfrjynyI/edit?usp=sharing
+  2026-03-26  03.26.2026. Nanowave                                     https://docs.google.com/document/d/1UYfD1-Uo3akyn4CjZMYhP7dFs9xgLzKaLmbWtK4a7sI/edit?usp=sharing
+  2026-03-25  03.25.2026. Lizanka Guevara - Amcham Honduras            https://docs.google.com/document/d/1uKM4Ge85zeFjAPbZeoa1MBcgWtjf2FhINtef_6ivRks/edit?usp=sharing
+  2026-03-25  03.25.2026. Alvaro Peralta - Urek                        https://docs.google.com/document/d/1_O4UwIankeQP-84YD_t6QVdkdFqmjL2t3653rWA5kf8/edit?usp=sharing
+  2026-03-25  03.25.2026. ITC AC CR                                    https://docs.google.com/document/d/1uID4CZ-UprerYgFWZbloNGw1E9hIxgtYuF_OlMFygWw/edit?tab=t.b0ot5egynpi
+  2026-03-25  03.25.2026. ClearLeaf                                    https://docs.google.com/document/d/1cUY15EMf8UaVCXP2sH-y3u3lnmPqeJvPXnZntPizQ2A/edit?tab=t.nxok6wgvdnr0
+  2026-03-24  03.24.2026. Speratum Biopharma                           https://docs.google.com/document/d/1Jh824cdFEWXZjjr0ZZpXaWVG-j-H2uAX-AVbIbnzgG4/edit?usp=sharing
+  2026-03-23  03.23.2026. Allen Taylor - Endeavor                      https://docs.google.com/document/d/1qZqSbrUd7i3Hhw5i3MouhTb56iNByITJ2IcgnjwLDoA/edit?usp=sharing
+  2026-03-19  03.19.2026. Francisco Meneses                            https://docs.google.com/document/d/15hBzoN0qphW1aoum9r-YKSIVDgac2mKw/edit?usp=sharing&ouid=112907595073697604892&rtpof=true&sd=true
+  2026-03-17  03.17.2026. Central American VC Roundtable with Partner  https://docs.google.com/document/d/12g18JtPBw_LCwaAKwy8MggZWqcd9HqAOQpIQ9RkPAWI/edit?usp=sharing
+  2026-03-16  03.16.2026. Daniel Gallo Gunderson                       https://docs.google.com/document/d/1v6v0zCrI2u4iU0gCPDPMEeO9hcuP2QVHcrJc6XWIqGw/edit?usp=sharing
+  2026-03-16  03.16.2026. Dave McCLure  Practical VC                   https://docs.google.com/document/d/1aQMOWbhHCt3M5fvE05KhPghoGTW6skDCs5Ho80x2Xd4/edit?usp=sharing
+  2026-03-16  03.16.2026. SVB - Andy Tsao                              https://docs.google.com/document/d/1I6gPImZPyHy3zdZnz64KnxZl1icy2qnKAfvLvrZha9w/edit?usp=sharing
+  2026-03-12  03.12.2026. Lisalud                                      https://docs.google.com/document/d/1VOeon5BJt8yZ3idiF2Iw4nfSlqK6H7D-CYaJvG2B1PQ/edit?usp=sharing
+  2026-03-11  03.11.2026. Albedo Solar                                 https://docs.google.com/document/d/17OYG1u_TUKIAzA8qkqXpLnUXFOLPLtMVWMqcvY9fva4/edit?usp=sharing
+  2026-03-11  03.11.2026. Dan Gray - Odin                              https://docs.google.com/document/d/1KV9RlCN5c5mNy9hrCcoe1nSXcXTmKu7RA_4qnM6131k/edit?usp=sharing
+  2026-03-11  03.11.2026. Internal after CAF (Alejandra)               https://docs.google.com/document/d/1eX9ldPtHfIOz1m_-P10nrQtPfK78ypR6sOQ7zENWxyc/edit?usp=sharing
+  2026-03-11  03.11.2026. CABEI                                        https://docs.google.com/document/d/1VmExLrZPWpvA0HBEXtLGb9a-YbPgwBl8cORcUGKFiSQ/edit?usp=sharing
+  2026-03-11  03.11.2026. CAF - Gabriela                               https://docs.google.com/document/d/1bJ1qrGmLikknSaVzj8TR6ow5O0MMSIWyvzI9WZaipHk/edit?usp=sharing
+  2026-03-11  03.11.2026. CAF - Alejandra                              https://docs.google.com/document/d/1Mxkjsan0hOcrdj4WBdyRhkti8QGiU_Aprry4pBgQKGg/edit?usp=sharing
+  2026-03-11  03.11.2026. Startuplinks - Israel Garcia                 https://docs.google.com/document/d/11AA8xNzxUgxNaKuEp8f7DIuscoyZwE_uX2QdfScOZmk/edit?usp=sharing
+  2026-03-10  03.10.2026. Internal                                     https://docs.google.com/document/d/1EpLPwVHIqPvcdC-5yUcthZtwDyfHGWZUStwmHjCNNfU/edit?usp=sharing

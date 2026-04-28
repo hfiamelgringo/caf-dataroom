@@ -1,0 +1,69 @@
+Total Meeting Notes: 132
+With Transcript (.doc): 60
+  Excluded by name filter: 15
+  Kept (stakeholder interviews): 45
+  Of those, also have Granola: 37
+
+Excluded titles:
+  - 02.02.2026. Internal
+  - 02.09.2026 Internal
+  - Internal Cacth Up
+  - 01.14.2026. CAF Kick Off- HoldCAF
+  - 03.10.2026. Internal
+  - 03.11.2026. Internal after CAF (Alejandra)
+  - 01.19.2026. CAF Internal
+  - 03.11.2026. CAF - Gabriela
+  - 01.26.2026. Internal
+  - 02.16.2026. Internal
+  - 11.06.2025. Internal Catch Up
+  - 03.11.2026. CAF - Alejandra
+  - 02.10.2026. Internal
+  - 02.23.2026. CAF (Kick Off)
+  - 01.20.2026. Internal
+
+Kept titles (sorted by date desc):
+  2026-04-22  [✓]  04.22.2026.
+  2026-04-21  [✓]  04.21.2026. José Kont
+  2026-04-09  [✓]  04.09.2027. Ruta Medellin
+  2026-04-06  [✓]  04.06.2026. Daniel Granada - Pomona Impact
+  2026-03-26  [✓]  03.26.2026. Nanowave
+  2026-03-25  [✓]  03.25.2026. Lizanka Guevara - Amcham Honduras
+  2026-03-25  [✓]  03.25.2026. Alvaro Peralta - Urek
+  2026-03-25  [✓]  03.25.2026. ITC AC CR
+  2026-03-25  [✓]  03.25.2026. ClearLeaf
+  2026-03-24  [✓]  03.24.2026. Speratum Biopharma
+  2026-03-23  [✓]  03.23.2026. Allen Taylor - Endeavor
+  2026-03-19  [✓]  03.19.2026. Francisco Meneses
+  2026-03-17  [✓]  03.17.2026. Central American VC Roundtable with Partnership for the Americas (PfA) 
+  2026-03-16  [✓]  03.16.2026. Daniel Gallo Gunderson
+  2026-03-16  [✓]  03.16.2026. Dave McCLure  Practical VC
+  2026-03-16  [✓]  03.16.2026. SVB - Andy Tsao
+  2026-03-12  [✓]  03.12.2026. Lisalud
+  2026-03-11  [✓]  03.11.2026. Albedo Solar
+  2026-03-11  [✓]  03.11.2026. Dan Gray - Odin
+  2026-03-11  [✓]  03.11.2026. CABEI 
+  2026-03-11  [✓]  03.11.2026. Startuplinks - Israel Garcia
+  2026-03-09  [✓]  03.09.2026. Peter Walker - Carta
+  2026-03-09  [✓]  03.09.2026. StartSe - Aline Murlik
+  2026-03-06  [✓]  03.06.2026. Iyinoluwa Aboyeji - Future Africa 
+  2026-03-06  [✓]   03.06.2026. Patrick Menendez- FEMSA
+  2026-03-05  [✓]  03.05.2026. Maya Capital - Bruno Kuntz 
+  2026-03-05  [✓]  03.05.2026. Dave McClure - Practical VC
+  2026-03-05  [✓]  03.05.2026. Francisco Meneses - CORFO
+  2026-03-04  [✓]  03.04.2026. Rockefeller
+  2026-03-03  [✓]  03.03.2026. Magma Partners
+  2026-02-27  [✓]  02.27.2026. Nelson Irías Núñez - Costa Rica Tech Week
+  2026-02-27  [✓]  02.27.2026. Maria Vélez Crack the Code
+  2026-02-27  [✓]  02.27.2026. Samuel Hernandez Colmex
+  2026-02-23  [✓]  02.23.2026. Climatech. Technology with Purpose
+  2026-02-23  [✓]  02.23.26. Vanessa Gibson CINDE
+  2026-02-19  [✓]  02.19.2026. José Kont - Cuantico
+  2026-02-13  [✓]  02.13.2026. Santiago Zavala - 500
+  2026-02-13  [✓]  02.13.2026. Ady Beitler - Nilus
+  2026-02-12  [✓]  02.12.2026. Louis Prouvost - Level Up
+  2026-02-11  [✓]  02.11.2026. Rockefeller
+  2026-02-05  [✓]  02.05.2026. José Kont - Cuantico
+  2026-02-03  [✓]  02.03.2026. Jorge Vargas Venture do
+  2026-01-14  [✓]  01.14.2026. Rockefeller Foundation LATAM
+  2026-01-14  [✓]  01.14.2026.  Lyana Latorre - Rockfound
+  2025-12-03  [✓]  12.03.2025. Barnaby Dorfman

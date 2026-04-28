@@ -1,0 +1,47 @@
+﻿Costa Rica VC Ecosystem Meetings for CAF Project
+Nanoweave - Empresa y Tecnología
+* CEO: Javier Berrocal D, ingeniero agrónomo con MBA en finanzas
+   1. Experiencia previa: agricultura, agroindustria, cofundador Bolsa de Comercio Costa Rica
+   2. Think tank SIMS para mercados sostenibles en Centroamérica
+* Empresa constituida en Delaware (decisión ahora considera equivocada)
+   1. Subsidiaria 100%: Nanoweave CR en Costa Rica
+   2. Cofundador: Andrés del Alcázar (ingeniero biotecnología)
+   3. Laboratorio/planta piloto en Colombia por razones logísticas/económicas
+* Tecnología propietaria en segunda fase de patente en Estados Unidos
+   1. Proceso físico (no químico) para separar celulosa de biomasa agrícola
+   2. Sistema de plasma usando energía eléctrica
+   3. Sin químicos vs plantas tradicionales que usan sulfitos contaminantes
+   4. Produce celulosa calidad commodity + fertilizante líquido
+* Fuentes de biomasa objetivo:
+   1. Palma africana - mercado más grande, desechos “empty fruit bunch”
+   2. Caña de azúcar - transversal norte-sur desde EEUU hasta Brasil
+   3. Piña - Costa Rica principal productor mundial piña fresca
+      * Reto logístico: extraer mata de recambio del campo
+Ecosistema de Inversión y Fundraising
+* Origen: Deep Science Venture (venture studio inglés) + CRUSA Costa Rica
+   * CRUSA: fondo $60M de fideicomiso cuando USAID salió de Costa Rica
+   * Alianza para proyectos biomasa/clima/tecnología
+* Ronda inicial: $582K levantados 100% de costarricenses
+   * $100K de Deep Science Venture
+   * Resto de “fool’s friends and family”
+   * Socio principal reinvirtiendo en pr��xima ronda
+* Preparando seed round para 1-2 plantas modelo ($2.5M necesarios)
+   * Plantas modulares 50 toneladas diarias
+   * Business model: franquiciador ubicado junto a plantas existentes
+* Proceso actual con Subnational Climate Fund (derivación Pegasus, Suiza)
+   * 9+ meses en proceso, ticket $5-75M
+   * Assessment ambiental por Futuris (Costa Rica)
+   * Due diligence financiera por consultora latinoamericana
+   * Propuesta ampliada $8M para demo plant más grande
+* Mercado celulosa: $130B anuales, crecimiento 9% anual compuesto
+* Retos fundraising:
+   * Fondos europeos enfocan África/Asia, no Latinoamérica
+   * Empresa requiere CapEx vs típica startup tecnol��gica
+   * Resistencia a palma africana por temas sostenibilidad
+Contexto del Proyecto CAF
+* Partnership for the Americas (PFA) absorbió PCA (iniciativa Kamala Harris)
+   * Movilizó $5B inversiones en administración anterior
+* Estudio para CAF sobre ecosistemas Centroamérica
+   * Enfoque: Costa Rica, Honduras, Guatemala, República Dominicana
+   * Objetivo: entender ecosistemas para nuevo fondo inversión sector privado
+   * Grandes flujos van a México, Brasil, Chile, Colombia - Centroamérica más difícil

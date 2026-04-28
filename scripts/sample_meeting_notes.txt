@@ -1,0 +1,50 @@
+Fetched 5 sample records.
+
+--- Record rec0fkFCDhaD80Djo ---
+  Name                                     [str, 21 chars]  02.10.2026. Altana.ai
+  Fecha                                    [str, 10 chars]  2026-02-10
+  Countries                                [list, 1 items]  ['recHh9e2eyTU7hEpP']
+  Stakeholders                             [list, 1 items]  ['recQ2Qpd6mR09fQPi']
+  Startups                                 [list, 1 items]  ['rechlTsrx4fz63CXO']
+  ID                                       int  47
+  Project.                                 [list, 1 items]  ['recQS7tvdjf9Bdin3']
+  Mail (from Stakeholders)                 [list, 1 items]  ['claire.cook@altana.ai']
+  Recuento (Quotes)                        int  0
+
+--- Record rec0waxzOyq1gVRVc ---
+  Name                                     [str, 24 chars]  12.03.2025.  Mike Putnam
+  Fecha                                    [str, 10 chars]  2025-12-03
+  Stakeholders                             [list, 1 items]  ['recbHQqhpagwpaZBS']
+  ID                                       int  5
+  Project.                                 [list, 1 items]  ['recQS7tvdjf9Bdin3']
+  Recuento (Quotes)                        int  0
+
+--- Record rec1NY7zfKMOlSqek ---
+  Name                                     [str, 29 chars]  01.28.2026. PAtria Pablo Cano
+  Fecha                                    [str, 10 chars]  2026-01-28
+  Countries                                [list, 1 items]  ['rec91H9tcCTtuzUte']
+  Stakeholders                             [list, 1 items]  ['recqkFM4j0k9SyYEB']
+  ID                                       int  35
+  Project.                                 [list, 1 items]  ['recQS7tvdjf9Bdin3']
+  Recuento (Quotes)                        int  0
+
+--- Record rec2AuDBmWBIwkHNG ---
+  Name                                     [str, 36 chars]  02.16.2026. Rigo <> Nati (Internal) 
+  Meeting Notes                            [str, 1896 chars]  ### **Revisión de preguntas para entrevistas con stakeholders** - Revisión completa del documento “interviews with stakeholders”     - Reorganización de categorías de actores según tabla de referencia - Market infrastructure intermediaries (bancos comerciales, aseguradoras, bolsas)         - 6 pregu...
+  Granola                                  [str, 72 chars]  https://notes.granola.ai/t/98890aa2-41fa-4088-9391-8f1f89bb583f-008umkv4
+  Fecha                                    [str, 10 chars]  2026-02-17
+  Project                                  [list, 1 items]  ['Internal']
+  ID                                       int  60
+  Recuento (Quotes)                        int  0
+
+--- Record rec340icnfdqq6NAF ---
+  Name                                     [str, 23 chars]  02.17.2026. Atta Impact
+  Fecha                                    [str, 10 chars]  2026-02-17
+  Countries                                [list, 1 items]  ['rec3f0YCfeMy4ewUt']
+  Institution                              [list, 1 items]  ['recydMIGuhgGSlziF']
+  Project                                  [list, 1 items]  ['CAF']
+  ID                                       int  61
+  Project.                                 [list, 1 items]  ['recQS7tvdjf9Bdin3']
+  Type of Institution (Taxonomy) (from Institution) [list, 1 items]  ['4. Private Capital']
+  Linkedin (from Institution)              [list, 1 items]  ['https://www.linkedin.com/company/atta-impact-capital/']
+  Recuento (Quotes)                        int  0

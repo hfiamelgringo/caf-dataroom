@@ -1,0 +1,390 @@
+﻿Meeting Title: VC Ecosystem Assesment, Startup LiSalud HN
+Date: Mar 12
+Meeting participants: Mark, Jnelson, Manariba, Geoffrey
+
+
+Transcript:
+ 
+Me: Buenas tardes, Marjorie, ¿cómo está? Mucho gusto. No la escucho. No le escucho. Aún no. Ahorita creo que... A ver.  
+Them: ¿Veo? Hola.  
+Me: Hoy sí.  
+Them: ¿Sí me escucha? ¿No?  
+Me: Sim.  
+Them: Es que mi teléfono, no sé por qué se conectó con con la computadora, entonces nunca lo había hecho.  
+Me: Sí.  
+Them: Ya lo dejó en inglés.  
+Me: Bueno, mucho gusto. ¿Qué tal?, ¿cómo está?  
+Them: Buenas tardes, mucho gusto, disculpe. Bien, bien, todo bien, gracias a dios. Buenas  
+Me: No se preocupe. Qué bueno, me alegra.  
+Them: Se escucha ruido.  
+Me: No.  
+Them: Ah, ok, perfecto.  
+Me: Para nada, se  
+Them: Aquí estamos, a la orden.  
+Me: Bueno, gracias. Así que ya la han contactado para ese tipo de reuniones, entonces.  
+Them: Sí, sí, creo que para unas tres mapeos así de de emprendimientos, de y tal. El último que estuvimos con uno en uno de acceso a financiamiento. Y y es. Pero, como le digo, ¿bueno?, nosotros siempre estamos  
+Me: Sí, no, excelente, excelente. Yo,  
+Them: dispuestos a a apoyar y  
+Me: yo, la verdad, mire, le le voy a contar un poquito de de mí y de mi organización. Mire, bueno, yo me llamo Roberto Romero, yo he trabajado en el área de desarrollo cuando le digo al área de desarrollo, he trabajado con ONGs. Específicamente, con una de las que más he trabajado  
+Them: Mhmm.  
+Me: se llama plan internacional, que tiene bastante presencia en Honduras, y tiene bastante presencia en Comayagua, Santa Bárbara,  
+Them: Mhmm.  
+Me: La Paz, Choluteca, Copán, Gracias, Ese Se Llama Plan Honduras, ¿verdad? Es una ONG que trabaja por para proyectos de desarrollo en la comunidad, agua agua y saneamiento, educación, salud y y y todo, y y eso, ¿verdad? Luego,  
+Them: Bien.  
+Me: a mí estuve en el lado del, estuve en el gobierno ocho años, en específicamente en todo el tema de endeudamiento público, la Secretaría De Finanzas, Luego, También Trabajé Con Una Una Organización Que Se Llama La Cuenta Del Milenio, que estuvo bastantes años aquí, en Honduras, y dependía de la oficina de de Washington, que se llama la Corporación Del Del Milenio, para luego estar casi cinco años en el Banco Centroamericano de Integración Económica un fondo y ese fondo para, era por, de cincuenta millones de dólares y levantamos cuarenta millones de dólares y los recursos venían de la República de Corea,  
+Them: Mhmm.  
+Me: del Ministerio de Finanzas de Corea, y servía para hacer proyectos de de desarrollo. En países de Centroamérica y y el Caribe, Después de eso pasé a a una organización que es como es prácticamente esta en la que estoy, que se llama, antes se llamaba partnership for Central America, ahora se llama partnership for for The Americas. Porque tiene un alcance más amplio, y dentro de esa organización nosotros hacemos un hay dos temas, bueno, hay varios, pero dos de los que nos de los que tiene que ver con lo que estamos acá ahorita. Uno es la promoción de inversiones, investment promotion se llama, que que que precisamente fíjese que juntamos empresas  
+Them: Mhmm.  
+Me: con agencias financiadoras, bancos de desarrollo, bancos de inversión, fondos de inversión, fondos de capital de riesgo, y así, y también, y y diferentes inversionistas privados, Entonces, nosotros llevamos a las empresas los países de Latinoamérica y los los ponemos con esta con estas financiadores que les digo, y los ponemos en diferentes esquemas, ¿verdad?, ya sea que nos conectemos así, virtual, porque nos conocimos en un evento  
+Them: Mhmm.  
+Me: que hubo en Mérida, Yucatán, o un evento que hubo en, por ejemplo, en en Antigua Guatemala, que es para startups y todo, para Apple y todo eso, ¿verdad? Pero al mismo tiempo estamos un banco multilateral de desarrollo, que es la CAF, que es la corporación andina de fomento, pero ahora se llama ahora ellos mismos se han puesto banco, como Banco Sudamérica para el desarrollo.  
+Them: Mhmm.  
+Me: Tiene presencia en Honduras, en Guatemala y en otros países,  
+Them: Mhmm.  
+Me: Centroamérica todavía no, pero se está queriendo meter. Y ellos tenían un un fondo, se llama Fide, con el que apoyaba el venture capital, el capital de riesgo. Entonces, ahora nos han encomendado este banco poder entender el ecosistema del capital de riesgo  
+Them: Mhmm.  
+Me: reunirnos con reguladores, con fondos, con startups, poder comprender más del ecosistema en cuatro países, en Dominicana, Honduras, Costa Rica,  
+Them: Ajá.  
+Me: y Guatemala. Ajá. Y por eso es que hemos venido a dar aquí con Lissalud, y la forma en que Lizalud básicamente, le preguntamos a a a, preguntamos en Internet,  
+Them: Mhmm.  
+Me: cuáles son las startups de cada país.  
+Them: Mhmm.  
+Me: Y y le pedimos que las priorizara, que las pusiera el uno a diez, y Lizalud salió dentro de  
+Them: Danke.  
+Me: las diez. Entonces, por eso yo lo lo lo la contacté, ¿verdad? Ese ese ese es mi mi background, por eso estoy acá.  
+Them: Mhmm.  
+Me: Y yo me gustaría, bueno, conocerla y conocer también o sea, su empresa, y y y que, y si nos, y si me puede contar, cómo cómo arranca toda la idea del startup y cómo comienzan ustedes con la empresa, y y todo lo que usted me quiera contar, y yo le voy ir haciendo algunas preguntas.  
+Them: Ah, ok, perfecto. Sí, perfecto.  
+Me: Hoy. Ah, ok, perfecto. Sí, perfecto.  
+Them: Bueno, como mencionaba usted, ¿verdad?, el tema de de de background, yo soy microbióloga. Entonces, yo soy microbióloga y y y me gradué como como microbióloga ahí hace algunos años, y, pues, trabajando, ¿verdad? Siempre que trabajar, uno de los mayores inconvenientes y uno de los grandes inconvenientes en el área de la salud es la gestión de la información. ¿Verdad? Usted sabe, expedientes manuales infinitos y todo eso, y eso pasa también en los laboratorios. Entonces, a todos los lugares que llegaba era un un inconveniente, pues, Tal vez no los trabajaban manual en algunos lugares, pero quien tenía sistema tenía unos sistemas superosoletos, así como Windows noventa y ocho, superfeos, y era como Calgary llegar, aprender a usar, y si no había alguien que se apegaba de uno y que le enseñara, estaba frito, porque, o sea, supercomplejo. Entonces, pero bueno, uno va de donde le toca trabajar, pues a mí nunca se me ocurrió emprender nada en la vida, ¿verdad? Entonces, de repente, yo, conocimos a nuestro cofundador, que es ingeniero en sistemas, que tenía un background de laboratorio también, y, pues, platicando sobre el tema de de los sistemas y qué hubo y todo esto, pues dijimos, pues, ¿por qué no hacemos uno? Sea así, así, así, y tal, y que sea bonito y que sea amigable y que den ganas de usarlo y que no sea un problema la rotación de personal y que que se pueda aprender solo, pues. Entonces, pues así fue surgiendo la idea del Empezamos a trabajar en el marco de ya teníamos la idea nosotros pero en ese tiempo, creo que fue como en dos mil diecinueve, estaba el Honduras digital challenge. Que empezó así como como una fiesta de tecnología, les digo yo, que era como una competencia y era superpinta, y era, pero un programa, creo que eran como tres meses. Fue buenísimo, la verdad, que fue lo que nos ayudó a despegar bastante. Y como en ese tiempo era como una competición, nosotros ganamos la edición de ese año, que fue dos mil diecinueve. Ya con con exposición, porque hubo exposición de medios y todo eso, entonces ya nos empezaron a buscar algunas  
+Me: Persona.  
+Them: personas. Cuando ya empezamos con mi salud en digital challenge, ya teníamos como uno o dos clientes, ¿verdad?, con que estábamos ahí depurando, ¿verdad?, debogueando. Y no, pues ya luego desde ahí empezamos, Ya yo en dos mil veinte, con el tema de la pandemia, que fue algo superinesperado, tomé la decisión de renunciar a mi trabajo. Tenía dos trabajos en ese momento, ser microbiólogo era lo más del momento, ¿verdad? Entonces, tomé la decisión de renunciar a mis dos trabajos y dedicarme, completo a mi salud. Desde dos mil veintiuno ya empezamos, arrancamos con el con la parte de clientes. Actualmente tenemos creo que más de ochenta clientes, en el país. Somos, trabajamos por suscripción mensual,  
+Me: Cuando dice clientes,  
+Them: tenemos  
+Me: generalmente son laboratorios.  
+Them: Laboratorios, sí, ellos se afilian a nuestro servicio de suscripción mensual, donde ellos ingresan a utilizar el sistema por suscripción mensual. ¿Verdad? Somos un servicio, y dice lo de un sistema en la nube, ¿verdad?, que sirve para la gestión de información de los laboratorios clínicos.  
+Me: Y hay diferentes tipos de suscripciones.  
+Them: Hay diferentes tipos de suscripción, hay como hay diferentes como features que tiene el sistema, que tienen costos. Entonces, si yo soy tal vez un Laboratorio Pequeñito De La Paz, ¿verdad?, tal vez voy a necesitar lo más básico, pero si soy un Laboratorio De Tegucigalpa y quiero incorporar a la parte de los equipos, que ya es automatización, ¿verdad?, la parte de por código de barras y todo eso. Ya eso va teniendo precios y ellos van escalando en su en su suscripción según las opciones que ellos vayan tomando dentro de  
+Me: ¿Y y cuál es, por ejemplo,  
+Them: dentro de la plataforma. El servicio básico es la gestión básica de la  
+Me: cuáles son los servicios básicos?  
+Them: ¿verdad?, que es manejo de los pacientes, tenemos toda la base de datos ya de las pruebas que el laboratorio necesita, generación de los envío por de los resultados a los pacientes por correo y por WhatsApp, estadística, historial del paciente. Lo más más básico, pero lo más importante, ¿verdad?, que es el día a día de la rutina.  
+Me: Sí, sí, correcto.  
+Them: Lo más básico, y de ya otras opciones, ya de inventario, Ya la parte de los equipos, que es, pues, que yo me tomo una muestra de sangre, laboratorio viene, en vez de rotularla manual, la identifica por código de barras, Se la lleva al equipo que realiza el examen, ¿verdad? Y el equipo manda directamente los resultados al sistema, porque normalmente el los equipos no envían los resultados, sino que alguien los apunta o el sistema lo, o el equipo los imprime, y ellos tienen que ingresarlos de forma manual. Al sistema. Ya si ellos deciden conectar equipo, pues ya los resultados en una sola transmisión de los equipos al al sistema, y ellos ya solo están ahí verificando todo esté bien, y ahí es un laboratorio completamente automatizado, que es como lo que todos los laboratorios desean alcanzar. Entonces, eso es lo que trabajamos con MiSalud. Ya tenemos, pues, algunos añitos trabajando con esto, y hemos estado, pues, tratando de siempre activos con el en el en el ecosistema, estuvimos, como le digo, con el digital challenge. Hubo una iniciativa se ha que duró como dos años. No hemos estado en las iniciativas del gobierno, creo que fue, hay uno que se llamaba Rocket, emprende Rocket, y y así.  
+Me: ¿Y cómo y cómo  
+Them: Creo que en esas no, pero siempre,  
+Me: Ajá.  
+Them: han surgido.  
+Me: Sí, sí, siempre han estado han tratado de estar activos,  
+Them: Sí.  
+Me: en en en eso. ¿Y cómo y cómo comienza o sea, es decir, uno aquí en Honduras viene y dice, bueno, yo voy a poner un negocio, voy a poner un él hace las escrituras, las registra y todo, pero ¿cómo comienza su camino de de emprendedurismo? Y de haber recibido fondos externos?  
+Them: Nosotros no hemos recibido fondos, hemos hecho principalmente bootstrapping, hemos hemos recibido como  
+Me: Pero, bueno, financiamiento, pues, no no quería, no me refiero a fondos así, gratis, sino que financiamiento.  
+Them: No, nosotros no no hemos recibido financiamiento.  
+Me: Ajá.  
+Them: Hemos hemos trabajado, creo que con tech for dev, El challenge tuvo un precio, tuvo un premio, ¿verdad? Entonces, tuvimos acceso a ese premio, Tech for dev tuvo un desembolso también, en los dos ciclos que estuvimos con y, en general, hemos, de parte de los programas que hemos estado, hemos recibido como siete mil dólares. En los programas que hemos estado. Ajá, eso.  
+Me: Ah, bueno, pero, ah, bueno, entonces, ese ese es Pero ¿siete mil en total o siete mil en una sola?  
+Them: No, si te mira en total.  
+Me: Siete mil en total, ok. Ese, entonces, ese ha sido como un capital semilla.  
+Them: Siete mil en total. Sí, sí, sí, un capital semilla, sí, un capital semilla, podemos decir, sí. Por parte de esos programas, sí. De ahí, pues lo demás ha sido trabajo, principalmente, por parte de nosotros. Y y, a veces, es como esa cantidad de de dinero, o se sabe en comparación a programas que hay en otros países, es como ínfima, ¿verdad? Sí, la verdad que es superpoco, pues. Por eso yo no la considero como un capital de de de inversión o de así, o de un fondo, porque prácticamente esos eran como como grants, como premios o algo así, qué se dijo, incentivos, ¿verdad? Porque  
+Me: Por parte de los programas. Es poquito. Sí. Sí, sí, sí, sí.  
+Them: no es la comparación con con lo que en realidad otros fondos ofrecen. Estuvimos aplicando hace como un año y medio, creo, a la de El Salvador, no recuerdo cómo se llama. Solo recuerdo el logo que es como un triangulito. Y ellos lo que estaban ofreciendo era eran como cien mil dólares, decía, algo así, cien mil dólares, creo. Pero, pues, fuimos avanzando en el proceso, ¿verdad? Y y datos, y reuniones, y y llenando datos, pero ya después de la tercera reunión, ya nos explicaron que lo fondos eran en en especie. Que eran en asesorías técnicas, en cuestiones legales, y todo eso, y eso estaba pero, pues, uno necesita plata, pues. Entonces, porque también ellos querían que desarrolláramos ciertas features para el sistema. Pero yo necesito... Fue lo que fue la conclusión que llamo, pues. Pero yo necesito programadores para poder desarrollar esto, porque es una empresa bien pequeña, ¿verdad?, y si no tengo dinero, no puedo desarrollar esto como en tres meses, que iba a durar nada más la aceleración, ¿verdad? Entonces, era bien difícil y decidimos no seguir en el proceso. Eso, creo que hemos tratado con un par de aceleradoras más, pero no hemos llegado a a concretar Sí.  
+Me: Ajá. Y y ahora, porque porque en en esto, a ver, en esto se trata de que la empresa levanta, entra a rondas de levantamiento, dice,  
+Them: Ajá, ¿de capital?  
+Me: de de fondos, de capital, exactamente.  
+Them: Ajá.  
+Me: Pero y ustedes, pero ¿ustedes alguna vez han pensado entrar en estas rondas o o...? O no o no lo necesitan?  
+Them: Sí, sí, amor. Fíjese que sí hemos pensado, pero sí, no, sí lo necesitamos, sí lo necesitamos. Sí lo necesitamos porque, fíjese que yo creo que al al tiempo que nosotros tenemos ya de estar en el mercado. Una cuestión bien importante que nosotros hemos llegado a a la conclusión es el hecho de que Honduras no es un mercado suficiente para un unicornio, por decir así. No, no, ni salud no es un unicornio, ¿verdad? Pero, en general, para cualquier negocio Tecnológico, Solo Enfocarse En Honduras no es suficiente mercado, ¿verdad? Entonces, uno tiene que verlo siempre de forma regional para poder en realidad, despegar y poder tener una, como dice usted, un un Por el tema de el nicho en que nosotros estábamos, el tamaño del mercado y el país, que en realidad es pequeño, además de la competencia, ¿verdad? Y yo creo que eso es lo que ha dado a un montón de emprendimientos, porque nunca lo hemos visto como un mercado regional, Entonces, ¿qué pasa? En en en en relación a su pregunta, Si nosotros accedemos a el el objetivo actual que nosotros tenemos de acceder a fondos de inversión, nosotros queremos acceder a fondos de inversión y como a alguna forma de tener también contactos para poder salir de las barreras del mercado nacional y poder entrar al mercado internacional. Lo hemos intentado de diferentes maneras, pero es bien difícil que yo llame a Costa Rica, incluso, ¿verdad? Quiero decir, bueno, sí, mire, yo soy una empresa de Honduras y tal, Inmediatamente, casi, no le cortan la llamada a uno como que por respeto, pero es creo que no hay tanta de creer que Honduras puede tener un producto tecnológico de calidad. ¿Me entiende?  
+Me: Sí.  
+Them: Entonces, entonces, ¿qué? Nosotros buscamos fondos, pero también buscamos ¿verdad? Tal vez buscamos alianzas, porque pues, a mí me pueden dar fondos, pero también yo podría conseguirlos en el banco. ¿Verdad? Y y y es un es una opción, y y no me amarro con inversionistas y con un montón de Pero lo que nosotros buscamos también es el tema de alianza, es el tema de partnerships y todo eso, para poder decir, ok, yo te voy a ayudar a abrir República Dominicana, México, Costa Rica, Colombia, ¿verdad? Porque la ventaja de Lissalud es que el lenguaje de salud, el lenguaje de los Clínicos Es El Mismo En Todos Los Países. Es Lo Mismo, Es Lo Mismo, Yo Puedo Hacerme Un Demograma Aquí O Se Usted Se Puede Hacer Un Demograma En Polonia, y exactamente lo mismo, lo que va a cambiar es el idioma. Entonces, nosotros sabemos que, en cuanto al sistema, lo que más nos ha tocado cambiar con el tema, por ejemplo, El Salvador, que sí tenemos clientes, es el el ID. Que el ID de El Salvador se llama de otra forma. Pero de ahí es todo exactamente igual, la parte técnica es la misma. Entonces, nosotros creemos que tenemos un producto y nosotros creemos que lo podemos sacar del país, pero necesitamos como alguien que nos ayude en el siguiente paso para poder  
+Me: Sí.  
+Them: llevarlo a punto.  
+Me: Ok. Entonces, mire, con respecto a eso que me cuenta y y y eso está en en línea con con las cosas que hemos hablado con otros startups, y con los que conocen del ecosistema también, con lo con estos que son, que hacen las las startup weeks, ¿verdad?, que reúnen las startups y todo eso en un país. Yo le quiero preguntar, Marjorie, por ejemplo, digamos, ¿cuáles cree usted para para después preguntarle qué qué se necesitaría? Pero lo primero es, cuál cree... Ah, no, y antes de eso decirle,  
+Them: Mhmm.  
+Me: lo que hemos encontrado nosotros en esto es que tiene que ser  
+Them: Uh-huh. Mhmm.  
+Me: la empresa debe convertirse en una multilatina, que en, regional, una empresa regional.  
+Them: Mhmm.  
+Me: En nuestros países, ¿verdad? En un país como Chile, Chile, Brasil y México,  
+Them: Sí.  
+Me: pues les alcanza el mercado.  
+Them: Exactamente, millones de  
+Me: Les alcanza, y, aun así, esas empresas, aun así, salen otros países. En el caso de los nuestros, definitivamente que tiene que ser regional. Entonces,  
+Them: Sí.  
+Me: yo le quiero preguntar, para usted, ¿cuáles son las barreras que hay o que usted considera que han existido, por lo cual ustedes no han podido dar ese salto regional?  
+Them: Yo creo, yo, honestamente, creo que uno de los temas es la parte de conocimiento. ¿Verdad?, de cómo, de conocimiento de  
+Me: Mhmm.  
+Them: de cómo entrar al mercado con suficiente confianza, creo yo,  
+Me: Sí,  
+Them: de que ya uno lo van a tomar en serio. Por ejemplo, aquí hay competencia de varios países, en relación al tema de laboratorio, ¿verdad?, y y no, ellos ponen, me sale una publicidad en Facebook y la gente se se Pero nosotros somos una empresa más formal, que nosotros no aspiramos como a gente random, yo quiero entrar a un hospital, yo quiero entrar con clientes que en realidad me den ese respaldo, ¿verdad?, de que yo voy a otro cliente y yo le digo, no, pero es que yo estoy en el hospital, de El Salvador, de no sé dónde, ¿verdad?, que me abre la siguiente puerta, ¿verdad? O sea, nosotros  
+Me: Mhmm.  
+Them: igual en el país, tratamos de ser un player como bien formal, ¿verdad? Una empresa que que en en realidad, no como algo como como random. Entonces, algo creo que nos limita es el tema de conocimiento de cómo entrar en cada país. Por ejemplo, algo tan básico como cómo abrir una cuenta bancaria. Porque la gente, como tiene que pagar una suscripción mensual, hay gente que paga por PayPal y es es tranquilo, ¿verdad? Hay gente que dice, pero no sé, PayPal no tengo, no no sé cómo funciona, o no ¿verdad? Quiero hacer es un pago más que una una empresa internacional, yo quiero saber que no estoy perdiendo mi dinero, ¿verdad?, o que no es un o cosas así. Más cuando yo me presento como alguien de Honduras. Entonces, el tema de el tema de respaldo, ¿verdad?, y y y el tema de del tema de alianzas. Que haya algo que nos ayude a a entrar al país, a ser a a a tener como nos tomen en cuenta, ¿verdad?, como una opción dentro de las opciones que hay en en los países. Nosotros sabemos que existe la necesidad Nosotros ya hemos trabajado con campañas de publicidad en Guatemala, en El Salvador, y tenemos bastante respuesta, y sabemos que hay necesidad del mercado y tal, pero no, la gente, sentimos que no da el salto porque no nos ve como tan serio, porque tal vez, no sé, porque somos de Honduras, tal vez porque  
+Me: Sí.  
+Them: hay y la  
+Me: Sí. Ajá.  
+Them: y la y la opción que no nos hace como... Nosotros trabajamos con publicidad, luego hacemos una demostración del sistema y luego todo, pero el cliente que dar el último paso, ¿verdad?, que es el cierre, que es el pago. Y hacemos todo, pero ahí es como hay algo que no no está haciendo clic. Entonces,  
+Me: Sí. Y y, por ejemplo, ustedes, por ejemplo, el el negocio en Guatemala, el negocio en El Salvador, en Costa Rica, ustedes no necesitan, yo sé que es en la nube, pero pero no necesitan tener alguien físico allá.  
+Them: Sí. No, no. Hasta el momento, con el volumen de clientes que tenemos y nosotros más o menos manejamos cuánto, podemos manejar hasta físico. Ahora, creo que ese es otro punto también, que ahí es donde ya entra lo económico, ¿verdad? La la limitación económica, porque como le digo, somos una empresa pequeña y necesitamos fondos para así. Ir a El Salvador, hacer una gira, poder ir personalmente y decir, bueno, voy a visitar a este cliente, voy a visitar a este cliente como tal. Tener un agente en el país sería ideal para nosotros, Creo que lo estuvimos trabajando con la aceleradora El Salvador, ¿verdad? Incluso, estuvimos haciendo un plan de cómo tener una persona allá, en El Salvador, y todo, y y, porque, bueno, ¿verdad? Y eso. ¿Lo necesitamos, lo necesitamos? No. ¿Es bueno para que el cliente vea una cara y sienta más respaldo? Sí. Por el rubro en que estamos, que es salud, ¿verdad? Y, como le digo, para poder tú no tener un cliente representativo de una zona, sí necesita ese contacto Es un B2B al final, ¿verdad?, ese ese contacto físico, ese que que me reúno con tal y tal persona, o un almuerzo, cosas así. Entonces, pues, esas son como las las fricciones que que hemos encontrado en el proceso.  
+Me: Okay. Okay.  
+Them: Sé si le respondí  
+Me: No, no, claro, sí, porque, sí, fíjese que o sea, yo estoy sacando que la barrera principal, Marjorie, es el es el tema de los contactos el tema A ver, de de esa, de generar, de tener esa confianza de que donde usted está yendo, sí va a ser un cliente que va a responder, y también que el cliente donde usted está yendo sepa que usted, la empresa, sí va a responder.  
+Them: Exactamente.  
+Me: Generar esa como como le como diríamos en español, esa cohesión entre la empresa y los clientes. Ahora, ahora, Por ejemplo, ¿qué pasaría si venimos nosotros y le y le presentamos a Lysalud a un fondo de capital de riesgo? Y dice, bueno, ¿cuánto necesitás? Y usted le dice, bueno, mirá, yo creo que dame doscientos mil dólares, y con esos dos, porque digamos que usted, tiene un un proyecto en mente de expansión, y y está pensando en doscientos mil dólares, y el fondo de capital le dice, ah, bueno, está bien, yo te voy a dar doscientos mil dólares, pero quiero equity, quiero un pedazo del la compañía a cambio, O sea, ¿ustedes estarían dispuestos a eso o no?  
+Them: Tendríamos que revisar qué... Bueno, platicando, ¿verdad? Ay, qué interpretan ellos desde que  
+Me: Sí.  
+Them: punto de vista lo interpretan ellos. Quieren equity, quieren board, quieren como tener opinión, tener, o solo como equity como tal. ¿Verdad?, ¿o o o vamos a estar en ese en el punto de, ok, si también quiero tener opinión. Porque, como le digo, nosotros nos solo el dinero, sino que buscamos también la red de de contactos, ¿verdad? Alguien que me pueda respaldar, ¿verdad?, tal vez en un país, en un lugar. Pero sí estaríamos dispuestos a a revisar y a escuchar. Opciones, y es  
+Me: Sí, ok.  
+Them: A veces, a mí, honestamente, me preocupa el tema de equity, porque en realidad no somos una supergrande, yo digo, pues, ¿cuándo vamos a tener como suficiente para devolverle al al inversionista, verdad?, lo que estamos trabajando. Pero también sé que es parte de del fondo de riesgo  
+Me: Sí.  
+Them: también eso. Yo creo que que nosotros tenemos un esquema de trabajo bien claro y que es replicable. Es replicable donde usted lo ponga en cualquier país. Entonces, es algo a lo que estamos abiertos a a revisar y a discutir, pero siempre revisando las opciones que hay.  
+Me: No, correcto, sí.  
+Them: Previo. En ese en este esquema de El Salvador que yo le mencionaba, ellos querían  
+Me: Es que...  
+Them: ellos querían equity, creo que el, como el ocho por ciento, creo que nos pareció un alto para cien mil dólares, en especie. Entonces, Y también tenían como una lista de de cosas que querían que nosotros hiciéramos en la plataforma, que está bien, pero también y creo que es algo bien importante, uno conoce las necesidades que tiene el top cinco de necesidades en rojo que uno también necesita resolver, que usted me dice, ¿me da doscientos mil dólares? Okay, yo voy a hacer esto y esto y esto, que me urge. Entonces, pero ellos tenían como otra visión de las cosas y la verdad que no hicimos match. Entonces, por eso le digo, sería de sí estamos abiertos, pero revisar, ¿verdad?, cuáles son sus expectativas y tal.  
+Me: No, de acuerdo. No, pero es que fíjese, sí, lo que pasa a Marjorie ahí, y y yo, o sea, mi mi organización no conoce montón de fondos de capital, pero...  
+Them: Sí.  
+Me: No es que tenemos uno no es que tenemos uno para ofrecérselo así. Yo yo no tengo uno  
+Them: Ah, sí, sí, sí, sí, sí, no, no, yo yo entiendo.  
+Me: Ahora ahora, si usted si usted, por ejemplo, si usted nos dijera a nosotros,  
+Them: Y de acuerdo, sí, como mi experiencia, sí, lo que lo que nos ha pasado.  
+Me: Sí. Si usted nos dijera a nosotros, ustedes no nos pueden recomendar un fondo de capital. Yo le puedo decir, le puedo decir dos o tres, y le hago el contacto y todo. Pero eso eso es una labor que, fíjese, interesantemente, la hemos la la hemos venido haciendo, con nuestra organización, que era partnership for Central America, y es un tema que estamos retomando en partnership for The Americas, en la nueva organización. Pero  
+Them: Mhmm.  
+Me: y le voy a poner un ejemplo, ayer tuvimos una reunión con una empresa, que se llama, y y búsquela en Internet, se llama Albedo, así como se escucha.  
+Them: Mhmm.  
+Me: A l b, b de de bueno,  
+Them: Mhmm.  
+Me: e de o, albedo solar. Creo que la página web es doble doble doble u punto Albedo guion solar punto com.  
+Them: Mhmm. Ya lo encontré.  
+Me: Ese es un startup que que ha levantado capital. ¿Me entiende? Y estaban en Guatemala, y ahora ya están abriéndose clientes en en, perdón, en El Salvador y en Honduras.  
+Them: Aquí  
+Me: Pasá, pasá, Rito. Pasa. Sí, entonces esa esa empresa es superinteresante porque esa empresa es superinteresante, porque ellos lo que hacen es que paneles solar, por ejemplo, buscan una empresa, que tiene, por decir algo, bodegas o que tiene una una fábrica de producción de algo. Le instalan los paneles solares, y y la y la empresa termina pagando la misma cantidad en energía, al mes que ella pagaba, con la diferencia con la diferencia que dentro de ese monto que está pagando, va el valor de los paneles solares y el mantenimiento y todo. Esto es a los tres, cuatro años. Los paneles solares se vuelven de ellos,  
+Them: como una suscripción. Ajá.  
+Me: y y ahí sí empiezan a ver la reducción del de la factura eléctrica, pero mientras tanto, siguen pagando lo que ya pagaban.  
+Them: Sí.  
+Me: O sea, los paneles solares de por sí solos ya le la tarifa.  
+Them: Sí.  
+Me: O sea, no la, sino que el valor que pagan mensualmente. Ellos han encontrado un un buen nicho porque le, imagínese que a uno le llegan a decir, mirá, en tres a cuatro años,  
+Them: Claro.  
+Me: vos vas a pagar menos, porque vas a tener unos equipos. Y mientras tanto seguís pagando lo mismo.  
+Them: Ajá.  
+Me: Entonces, se les ha multiplicado la cantidad y ellos qué han hecho para para comprar más y más y más equipos.  
+Them: Ajá.  
+Me: Pues conseguir fondos  
+Them: Fondos, sí.  
+Me: fondos, y han conseguido, no no han conseguido financiamiento contra equity, y al final el financiamiento se devuelve. Y entonces el equity se devuelve, hay un exit.  
+Them: Ajá.  
+Me: O sea, son, hay modalidades muy interesantes. Ahora, ahora, yo le entiendo a usted que el, cuando hablamos de de cuando hablamos de barreras, ese es precisamente el conocimiento,  
+Them: Sí,  
+Me: Y créame créame que el tema del conocimiento es el es el número uno de barrera en con todos los que hemos hablado. Ya sea ya sea que  
+Them: Mhmm.  
+Me: que la gente no conoce no conoce fondos, ya sea que lo que hay fondos  
+Them: Mhmm.  
+Me: que quieren poner plata, pero no saben cómo funcionan las startups,  
+Them: Mhmm. Uh-huh.  
+Me: ¿Me entiende?  
+Them: Mhmm.  
+Me: Sí, hay hay de los dos. Bueno, entonces, ahora, ya que hablamos de las barreras, ¿qué cree usted que podría que debería de existir para que ustedes pudieran expandirse?  
+Them: Okay. Para que nosotros podamos expandirnos, Creo que  
+Me: Que debería de existir.  
+Them: ajá, creo que creo que lo que debería, creo que el tema de fondos es algo bien importante para poder expandirnos, ¿verdad?, principalmente por el tema de como de presencia, ¿verdad?, en en en los diferentes países, el tema de marca, poder una campaña que transmite esa confianza, poder tener tal vez un agente que visitar un cliente. Y en el tema de de expansión, sí, yo creo que está ligado no principalmente, pero sí es uno de los factores importantes que que están ligados a al tema de expansión. Incluso, en el país, porque si nosotros queremos alcanzar más clientes, definitivamente necesitamos más ¿verdad?, más personal, poder tener la capacidad de ser más más campañas, más presencia física y digital. Incluso, en el país no hemos alcanzado todavía el el techo del mercado todavía, ¿verdad? Incluso en el país nosotros seguimos creciendo. Pero podríamos crecer más aceleradamente si tuviéramos más fondos, ¿verdad?, porque no estamos mal, pero estamos como tablas, ¿verdad?, nos excedeamos un poquito, tenemos, nosotros tenemos empleados que tienen como todos sus derechos, prestaciones, aguinaldo y todas las reglas de aquí de Honduras,  
+Me: Sí. ¿Cuántos empleados son en lysalud?  
+Them: Ahorita somos cuatro. Y andan como dos o tres freelance que andan como por ahí que los buscamos para servicios específicos en momentos específicos. Entonces, eso. Y que estamos con con todo, ¿verdad? Incluso, yo tengo mi salario, cosas y todo, mis derechos de crecer en una cuota más del mercado, sí necesitamos fondos definitivamente. Para poder tener más personal, más acceso y tal, porque muchas veces  
+Me: Poder tener mas personal. Tienen? Ajá.  
+Them: tenemos saturación, a veces, de que, ok, estamos. Tan too much, que necesitamos una persona, necesitamos dos personas más a veces para poder, okay, hacer un ciclo de de ingresos de clientes sin parar, porque estamos apurados. Bien, perdón.  
+Me: Sí, ok. Y y, por ejemplo, ¿y ustedes tienen No para que me lo vaya a mandar ni nada por el estilo, solo solo es informativo. ¿Ustedes tienen un plan de negocio  
+Them: Ajá.  
+Me: de expansión o no?  
+Them: Actualmente, no. Sí tenemos como un POA la parte económica, como un control financiero anual, que es como una proyección a  
+Me: Sí.  
+Them: a, creo que lo tenemos como a tres años, tres a cinco años. Financiero, pero como un plan de expansión de países actualmente no  
+Me: Okay. Okay.  
+Them: tengo, le mentiría. Así como para no no no lo tengo a la mano.  
+Me: No, no, no, no, no, y no, no, no, no, no, no lo ocuparía ver tampoco, no se preocupe.  
+Them: Ajá.  
+Me: Y, por ejemplo, Marjorie, si usted tuviera que describir  
+Them: Sí.  
+Me: el ecosistema de de de emprendedurismo en Honduras, y de startups en Honduras, ¿cómo lo describiría? En en una o dos o tres oraciones, ¿cómo describiría el ecosistema de emprendedurismo, es decir, lo que usted ha lo que lo que usted le ha tocado hacer, pues, cómo  
+Them: Sí,  
+Me: es el ambiente para  
+Them: Yo creería que es difícil, fíjese,  
+Me: ese... Ajá.  
+Them: Iba a decir muerto, pero no, voy a decir difícil,  
+Me: Okay.  
+Them: porque creo que, es que yo creo que hay diferentes tipos de emprendedores, siento yo. Y yo creo que por eso los programas, como el digital challenge, son bien importantes, pero siento que tienen que ser un poco como, no sé, más activo, más movido, generar como más ruido o algo, como era antes, que era como una algo así, porque eso genera bastante ruido social. Hay emprendedores que tienen la curiosidad de emprender, de qué es emprender, como muchachos que tienen proyectos en la universidad, que les enseñan como un proyectito, algo así, y hay gente que está queriendo emprender en serio. Entonces, yo creo que la gente que quiere emprender en serio debe ser tomada en serio, ¿verdad?, y debe tener incentivos para poder sacar su empresa en adelante, porque son emprendimientos que generan empleo y que, generalmente, hemos visto ideas buenísimas, espectaculares, que son del país, que ayudan en la transformación digital del país. Y que, lamentablemente, no pueden seguir adelante porque no hay un apalancamiento como de ningún lado. Teníamos como una empresa la última vez que nos reunimos, que fue hace como tres años, creo, que fue en el centro de TEUS, No recuerdo cómo se llama el, que es un cowork una un startup que nos encantaba y que y que siempre le damos seguimiento, Y ellos estaban contando ahí que, en realidad, como para poder sacar adelante la empresa, estaban como empeñando sus carros y cosas así, que yo como  
+Me: ¿Qué empresa era?  
+Them: no recuerdo el nombre ahorita, y nosotros estábamos como what? Nunca nos imaginamos que en realidad estaban pasando esa situación, pero es lo que le digo, es lo mismo que son, estamos como satélites y no hay algo que los centralice, algo que los apalanque, porque, como le digo, hay gente que anda como con la curiosidad de emprender y hay gente que en realidad está emprendiendo, que está poniendo su plata, que está poniendo su casas, y que quiere vivir de esto, pues entonces, bueno, esa gente yo la debería sacar a un grupo aparte y yo te voy decir, ok, yo soy este país, yo quiero que las los emprendimientos y físicos también, ¿verdad?, porque están los otros negocios también normales, quieren aprender, pero también están los negocios digitales. Yo quiero que ustedes crezcan y yo les voy a dar este semillero como país para que ustedes salgan adelante, o una iniciativa privada, lo que sea, pero, o sea, la gente necesita un lugar donde un lugar donde cumplir ciertas condiciones. Sí, ok, puedes entrar aquí, nosotros te vamos a ayudar.  
+Me: Sí, excelente.  
+Them: Es lo que yo ti.  
+Me: Y, por ejemplo, ahora, vaya, usted me usted me hablaba, sí ocupamos financiamiento, pero si ocupan, usted considera que ocupa financiamiento, pero no lo han sacado, ¿por qué no lo han sacado? Y lo otro es qué tipo de fondos necesitarían ustedes, entonces.  
+Them: Sí, uno el uno de los temas principalmente, por lo que no hemos sacado... Vaya, porque nosotros tenemos nuestra cuenta de la empresa en el banco y tal, y todo, y el banco nos ofrece crédito y tal. Los intereses son bastante altos. Principalmente, yo le podría decir que el tema de interés, el tema que nos detiene, y muchas veces también el tema de requisitos es extenuante la cantidad de requisitos que nosotros somos un negocio digital. Entonces, para nosotros es como muchas veces complicado que el entienda, porque usted le dice, pero ¿dentro de qué categoría está? Servicios digitales?, ¿ellos creen que es como fotografía o manejo de redes sociales o cosas así, ¿verdad? Entonces no hay como una categoría. Que nos pueda como incluir a nosotros, a nosotros y a otras empresas nos pueden incluir como como empresa. Entonces, es un poco complicado, ¿verdad? Y siento que llevamos un punto en como que nos saturamos, nos fatigamos de de estar en esos procesos, y por eso nos detuvimos un poco.  
+Me: Sí.  
+Them: La última vez que estuvimos revisando, el tema de interés estaba bastante, bastante estaba como al diecisiete por ciento, para un tipo de empresa como nosotros, y eso como hace dos o tres años. Y creo que los intereses aumentaron más el año pasado, entonces,  
+Me: EnReunión. Espere un poquito, ¿Qué le pasó a esto? ¿Se fue el Internet? Se fue el Internet, ¿no? Hola, Marjorie, ¿qué tal? Aquí estoy. Internet o el suyo? Creo que es el mío. Ah, ok. Sí. Y de repente el mío te aviso a poner otro. Sí, ok, aquí estoy. Sí. Ya, yo, pero ya ya va a regresar, no sé de cable de color, no sé qué le pasó a cable de color. Bueno, entonces, ok, Bueno, entonces queda nos quedamos por la parte, vamos a ver, El tema de interés bancario? Sí, sí, que que que siempre está alto, ¿verdad? Ok. Sí. Ah, bueno, y si es, y usted mencionó el un direct to challenge, ¿no hay iniciativas como esa ya o o o o o no hay? No. ¿No hay o hay y hay alguna, pero hay alguna iniciativa de apoyo al a las startups, ¿o no? No, sí, el sector me entero. Creo que con el gobierno anterior no hubo mucho crecimiento en ese aspecto, Lo último que supimos fue que Britain Challenge se había detenido, Take for them, que el pueblo anterior cerró en dos mil y a diez. Hace como dos o tres años también durante el gobierno anterior, creo que el Challenge el año... El Eattal siguió, cambió de administrador, de gerente, no sé cómo se dice, e hicieron como otro tipo de programa, más como un programa como de mentorías. Pero cerró como programa el año pasado. Sí. Creo que ya no. Actualmente, creo que no hay nada. Sí, yo, bueno, yo la verdad no he escuchado absolutamente nada. Nada, estamos todos así como esperando, a ver si A ver qué pasa, ¿verdad? Porque porque es bueno, sí. Ahora ahora. ¿De dónde cree usted, de qué actor del ecosistema cree usted que pudiera venir apoyo? O o que estaría más inmediato el apoyo? Por ejemplo, de de gobierno, de un banco privado, de un banco de desarrollo, o de un fondo especial, o de de dónde cree usted que podría venir ese tipo de apoyo? Fíjese que nuestra experiencia, el tema con lo por ejemplo, con el, creo que day for day era del PIB, Sí. Y el y algo así, la experiencia fue muy buena. Experiencia fue muy buena. También hubo un programa con el que ese no fue de fondos, a pesar de que no era de fondos. El Incae ofrece una parte en la tema de conocimiento espectacular. Entonces, eso. El gobierno siempre es un poco tricky porque  
+Them: Siempre los gobiernos actúan como gobierno, ¿verdad?,  
+Me: Porque  
+Them: Entonces, intentan o ciertas líneas, entonces, a veces  
+Me: O sea, complicada, nosotros.  
+Them: el gobierno es complicado. Nosotros nunca participamos en en programas de gobierno. Y con la parte privada, parece es bueno, pero creo que el digital challenge, por ejemplo, el el el Banco Atlántida era socio, pero no era como un programa del Banco como tal. Entonces, porque sé que Ficosa tiene como premios, de cosas así, pero son como premios nada más, pero no  
+Me: Sí,  
+Them: como un programa. Ajá.  
+Me: Pero sí, definitiva, pero bueno, entonces, esto que acabamos de de de hablar tiene que ver con  
+Them: Sí,  
+Me: dónde podría venir la ayuda, ¿verdad? Y usted, entonces, decía que en el caso de gobierno, no hay mucha confianza, porque de repente el gobierno lo tiene asignado a alguien, pues, no no  
+Them: Exactamente.  
+Me: algo así, ¿verdad?  
+Them: Exactamente. Siempre es como un poco diferente, vamos a decir.  
+Me: Tricky, como decía usted. Y, ok, ya ya le entendí. Y, por ejemplo, en el caso en el caso de de Ficosa y todos estos, pues, bueno, sí, son privados y todo, pero no no es algo continuo, ¿verdad?, sino que es ahí de vez en cuando.  
+Them: Exactamente. Creo que Ficosa tiene un anual, y es banco de cándida creo que ya no está activo, y los demás bancos no tienen nada. Lo bueno de la iniciativa de los bancos es que los bancos tienen dinero.  
+Me: Vení.  
+Them: Creo que las personas, cuando inician,  
+Me: ¿Habla tu mamá? Habla tu mamá.  
+Them: en el punto que estuvimos nosotros en dos mil diecinueve, seis mil, setenta mil, cien mil, ciento cincuenta mil lempiras? Eso arranca un Entonces,  
+Me: Si. ¿Dónde la estaban dando esa?  
+Them: No, no, no, le digo, que le dieran a uno, pero creo que  
+Me: Ah, ok, ya le entiendo, sí.  
+Them: si existiera que, si existiera un programa,  
+Me: Y que es poquito, y eso en dólares es poquito.  
+Them: es superpoquito, eso es dramática,  
+Me: Sí.  
+Them: poquito, pues. Entonces hacen un programa de de Startups, y todo, les dan un premiecito de sesenta mil pesos, y los hipotes que empiezan ahí, pues, del, es de de diez, uno. O sea, si el país quiere empezar a, o tiene la intención, porque siempre se comparando con El Salvador, pero no hacen, ¿verdad?, no no invierten, no nada, Los emprendedores no van a salir de las buenas ideas, los unicornios y eso. Usted tiene que  
+Me: Okay. Que tiene que dar un semillero en la Sí. Entonces, si pensamos en todo el ecosistema,  
+Them: tiene que haber un semillero en algún lugar. Ajá.  
+Me: para usted, ¿quién es el que lleva la voz cantante o quién es el actor principal? Ya sabemos, a o sea, ya sabemos que el startup es la empresa, que que es la que va a desarrollar el negocio y todo, pero  
+Them: Sí.  
+Me: aparte de la startup, ¿quién es quién cree usted que es el actor principal? El que puede levantar, pues,  
+Them: Fíjese que, honestamente, yo creo que el bid tiene un buen manejo de programas, Creo que ellos tuvieron una convocatoria muy buena, un programa como tal de mentorías y de conocimiento muy bueno, tenían fondos, y y fue y fue muy bueno. Sí, usted me pregunta así como la mejor experiencia que tuvimos como empresa,  
+Me: Okay.  
+Them: fue el bid. Y  
+Me: El bid, sí. Y si viniera y si viniera el bid ahorita, es, o le voy a hablar la CAFE es un otro es un banco de desarrollo como el BID, ¿verdad?, eso lo que es más pequeño.  
+Them: Aha.  
+Me: Si viniera a la CAF, que es como el BID, ¿qué qué qué qué esperaría usted  
+Them: Ajá.  
+Me: de la CAF? Para poder desarrollar el el ecosistema? Que apoyara con fondos, con conocimiento? ¿Qué qué le gustaría?  
+Them: Pone, creo que el el tema de eventos es algo superimportante. Pero yo, y no estoy pensando en mí, sino que pienso como en el ecosistema, rescatar a las startups que andan por ahí, que todavía existen, pero motivar a la gente que viene, pues. Ahora, con los temas de inteligencia artificial, o sea, montar en startups es ahora segundos, pues, estamos en un en un escenario completamente diferente. Entonces, creo que cosas que sean como bien, no sé, agresivas, algo así, no solo como, ah, hicimos un evento en el Inter, que es como más, suena más como de de reunión social. Y eso es súper, o sea, nos encanta, y y y súper, ¿verdad? Pero para motivar a que que el ecosistema se active, tiene que entrar como algo como bien llamativo, creo yo, porque, por ejemplo, si usted  
+Me: Sí.  
+Them: quiere como captar al al al talento, anda por ahí, porque hay un montón de gente trabajando en cosas, criptomonedas, un montón de cosas superinteresantes. Pero todo mundo está como así, aislado, trabajando por su lado. Pero para poder como reunir a ese grupo otra vez, ¿verdad?, y y poder como ayudarlos, tiene que haber como una convocatoria como bastante interesante.  
+Me: Sí, sí, sí, y sí, que traigan algo sustancial,  
+Them: Sí, creo que le puedo dar el contacto de alguien de No sé si hablaba con Jesús Bermúdez.  
+Me: No?  
+Them: Yo que le puedo dar el, creo que tengo el contacto de él todavía.  
+Me: ¿Y él quién es?  
+Them: Él él trabajaba con el digital challenge antes, pero él siempre está activo con el tema de cripto en San Pedro. Y él es él es bueno como con el tema de ecosistema en general, entonces yo sé que él tiene como mapeado bien todo el tema de de cómo está por ahí, porque tienen como comunidad de todo eso. Y en TEU tenemos a Gabriela Tor, no sé si la conoce. Que ella ella estuvo con tech for  
+Me: No.  
+Them: era como como, no sé si la directora del programa o algo así, y y también está César Rul, que él trabajaba directamente con el BID,  
+Me: César, ¿qué?  
+Them: no sé si él todavía está trabajando con el César Rul, creo que es el apellido.  
+Me: Ajá. ¿Con BitLab o qué?  
+Them: Con, no sé si con BitLab,  
+Me: ¿Cómo se escribe el el  
+Them: sí, César, Rul. Sí, César Rul. R... Ah, te lo puedo mandar por LinkedIn.  
+Me: Ah, bueno.  
+Them: Más fácil. Es César. No sé, actualmente, si está trabajando con el BID. Pero sí, él era dentro de tech for dev, el representante del bid, dentro de tech for dev como tal. Que ahora recuerdo que era una iniciativa de Unitec, con con el BID, Unitec, y no recuerdo qué banco, creo que Ficosa, y y por ahí  
+Me: Okay. Ok. Y, por ejemplo,  
+Them: Le mandé el contacto, ¿verdad? ¿Le cayó el mensaje?  
+Me: a ver. ¿A dónde me lo mandó el correo?  
+Them: Aquí, al mismo al mismo chat de aquí.  
+Me: Ah, no, porque no, porque en un momentito que se  
+Them: No, aquí. Aquí, sí, aquí ya se lo mandé.  
+Me: salió usted y y acaba de regresar. Ok.  
+Them: César Gabriela  
+Me: Ahí le voy a ahí le voy a dar clic ahí. Ok. Otra  
+Them: Torres.  
+Me: Foundations and  
+Them: Mensaje no a llamar. Y se me ocurre ese supermoder,  
+Me: ¿Qué qué...? Una de las preguntas que yo tengo acá... César Rul. Ah, ya. Madrid, dice que está en Madrid.  
+Them: No, él está, él él vive aquí, en Honduras. Aquí.  
+Me: Okay.  
+Them: Y Jesús.  
+Me: ¿Y y cómo se llama? Y y, por ejemplo, ¿y qué qué Vaya, a un a un a a un fondo, que que pueda poner, o sea, que que tiene el capital para fondear una empresa como la suya, ¿qué consejo le daría?, ¿qué le pediría a usted?, ¿qué le diría? Que, o sea, obviamente, fondo, pero ¿Qué debería de considerar ese ese fondo, pues?  
+Them: Discúlpame, estaba respondiendo un mensaje ahorita. Vuélvame a preguntar.  
+Me: Ah, sí, la pregunta es, ¿qué le diría usted? Por ejemplo, si usted se encuentra con un fondo de capital de riesgo, que está dispuesto a a ponerle fondos a la empresa,  
+Them: Ajá.  
+Me: ¿qué le pediría a usted?, ¿qué le diría?, ¿qué consejo le daría?, ¿qué le diría para que la qué esperaría de un de un fondo, pues,  
+Them: Yo, sí, aparte del capital, yo esperaría apoyo.  
+Me: Usted, aparte del capital, obviamente, pero Ajá.  
+Them: ¿Verdad? De, creo que quisiera, yo quisiera que el fondo de capital llegara con plata, pero que llegara con una red y dijera, mira, te estoy dando plata, pero mira, te doy estas cinco personas o diez personas que te a dar mentoría legal de cómo abrir tú en otro país o en Miami, ¿verdad?, cómo hacer una o que te van a ayudar. Mira, ellos son de transformación digital en salud, y está  
+Me: Yes.  
+Them: este y ese y ese hospital que pueden hacer un proyecto piloto. Yo se lo doy gratis por un año, no sé, lo que yo quiero es abrir puertas. Esta otra persona que te va a ayudar a liderar, que se llama, una campaña de marketing, según la población específica de de Guatemala o de Panamá, algo tropicalizado al estilo de ellos. Y eso, ¿verdad?, como está esto, pero también está esto, porque usted la plata está aquí, pero también está esto. Y también te va a poner dos programadores junior, que nosotros los vamos a pagar.  
+Me: Ok, una persona que... Ajá, excelente.  
+Them: Exactamente, sí, o sea, dentro de ese capital semilla, que ellos muchas veces le dicen en especie, a veces ellos es muy es muy como abstracto, pero también como muy no sé, monótono, lo dicen, asesoría legal, no dejan que que yo pueda tal vez sugerirles ok, pero dentro de ese de ese en especie, poneme tres programadores. Para mí, eso es capital, aunque sea en especie, es sacar trabajo que tal vez tengo acumulado, o es, o sea, sí, te vamos a dar un de marketing, pero te voy a dar un diseñador gráfico que lo vamos a pagar nosotros por seis meses. Eso es en especie, si no me quieren dar el dinero, pues, denme como  
+Me: Sí.  
+Them: ese tipo de recursos que sí me van a ayudar. Porque muchas veces las mentorías son, espectaculares y y uno necesita ese conocimiento, pero uno también para avanzar necesita recurso o recurso humano. ¿Verdad? Entonces, eso. Entonces, creo que es de las dos partes, y muchas veces, en el caso nosotros, que estamos en un nicho bien específico, que la gente se pueda empapar o tratar de conocer un poquito de ese nicho,  
+Me: Sí.  
+Them: ¿verdad? Porque a veces, como yo te digo, ah, bueno, no, sí, deberían hacer esto y esto y esto, pero ni siquiera te tomás el momento de de preguntarnos nuestro punto de vista o o cuál es la la expectativa del mercado, nuestro niche en específico, ese tipo de cosas, ¿verdad?  
+Me: Sí.  
+Them: Algo.  
+Me: Conocer ese nicho, eso está está interesante. Sí, básicamente,  
+Them: Sí, sí, sí. Un con mucho gusto, eso es una limitación para nosotros porque, bueno, muy personas manejan el tema de laboratorio también, ¿verdad? Entonces, Pero por lo menos, ok, yo me puedo tomar el tiempo de de explicarte, tomarte el tiempo de escucharme un poco y y de estar como  
+Me: Sí, sí, no, le entiendo, le entiendo.  
+Them: open mind para para este proceso.  
+Me: Y ya para para ir terminando, ¿verdad?, porque gracias por el tiempo,  
+Them: Sí,  
+Me: Marjorie. Por ejemplo, ¿qué  
+Them: Ok.  
+Me: qué...? Ahora qué...? O sea, ¿qué  
+Them: Ajá.  
+Me: qué consejos o qué le recomendaría a una nueva startup? En este ecosistema en Honduras? ¿Qué qué  
+Them: Una charla en Unitec de eso la otra semana. Mire, yo lo que le recomendaría,  
+Me: Usted va a una charla de eso, me dicen.  
+Them: Ajá.  
+Me: ¿Va va a la charla o la va a dar?  
+Them: Yo la voy a dar el el el otro jueves, pero es en una clase en específico, de de una clase de alumnos, creo que es de una clase de emprendimiento. Yo creo que el el el el  
+Me: ¿O sea una persona que lo combocó, DNITEG?  
+Them: Gaby, es Gabriela Torres.  
+Me: Gabriela Torres, ya la voy a contactar.  
+Them: Ya le di el contacto. Sí, no, ella ella ella es un es un buen contacto, como le digo, ella era asesora de ese proyecto de tech for dev, por parte de Unitec, que así era, pero no sé si era por parte del BID, y actualmente ella sigue siendo, trabajando con las consultorías y es asesora. Yo lo que le  
+Me: Okay.  
+Them: Y a la empresa es que se lo tome en serio desde un principio, como le digo, que que que piense si es algo de lo que quieren vivir o es algo que solo tienen curiosidad. Porque si es algo de lo que quieren vivir, uno se pone en sintonía de, ok, voy a formalizar mi empresa legalmente, voy a abrir una cuenta de banco de mi empresa, me voy a formalizar fiscalmente bajo las leyes del país, y voy a apuntar a los jugadores más altos, voy a buscar clientes serios, clientes formales, o sea, voy a vivir de esto y me lo voy a tomar en serio, porque eso es lo que te hace motivarte y levantarte todos los días en la mañana, seguir trabajando en eso. Pero sí es como un hobby, o es como, ah, algo, algo así, es como ¿verdad? A esa gente no le den plata. Sí, por eso le digo, como poder diferenciar entre esas dos personas, y y cómo se ve en el futuro, y y si lo ven como... Porque le dan como mucho a los estudiantes, que están en las clases o eso, que tienen como proyectitos así, a veces solo son proyectos de clase, y eso hay que poder porque a veces como proyectos de clase cosa, pero gente que ya está trabajando en estas cosas o que tiene la intención de de adelante un proyecto así es muy diferente.  
+Me: Sí, aquí la veo yo que ella dio, trabajó para Tech for Tech for Dev. Okay.  
+Them: Sí.  
+Me: No, no, superbién, la verdad que sí, no, hay, yo yo creo que muy, muy, muy claro todo lo que me ha dicho, lo que me ha explicado, y sí siento yo que la empresa suya tiene un superpotencial, ¿verdad?, de crecimiento, pero con un, o sea, que llegue un fondo indicado, Y fíjese que, por ejemplo, nosotros hemos encontrado en otros países que les llegan y les dicen, mira, te voy a poner tanto, doscientos mil dólares, por decir algo, pero quiero el veinte por ciento. Tu empresa. Entonces, accede la empresa. Cuando ya van a hacer unas una siguiente ronda de levantamiento de capital, ya no tienen mucho que ofrecer, porque ya vendieron  
+Them: Sí.  
+Me: el veinte, ya dieron, ya cedieron el veinte por ciento de su empresa. Por eso le digo, no solo es no solo es un un no entendimiento, del lado de la empresa, sino que también del lado del que pone el dinero. También hemos escuchado de casos que, por ejemplo, en México, que vienen y dicen, bueno, mira, yo te voy a te voy a invertir tanto, pero esa inversión quiero que la cubramos con una hipoteca. Entonces, ya de como que de de figuró el el tema de capital de riesgo, pues, ¿me entiende?  
+Them: Mhmm.  
+Me: Ahora ahora, donde donde manejan esto superbién es en  
+Them: Mhmm.  
+Me: Valley, ¿verdad? Ahí en Silicon Valley, la gente hace negocios en un restaurante, en un bar, se conecta,  
+Them: Sí.  
+Me: uno conecta al otro, uno le pone dinero a la empresa, la empresa crece y así, ¿verdad? Y se  
+Them: Sí, sí, la verdad que que sí, como le digo, la verdad que eso nos ha detenido a nosotros de tomar la decisión, porque, pues, sí estamos dispuestos, pero hacer un buen deal, en realidad, no, algo que como dice usted, pues nos comprometa más adelante. Entonces,  
+Me: Sí, lo tiene lo tienes  
+Them: como estamos, trabajamos, como le digo, trabajamos, no paramos de crecer. Seguimos creciendo, seguimos trabajando, seguimos desarrollando, igual la plataforma igual no para. Entonces, bueno, pues aunque vayamos más despacio, pero  
+Me: Y una y una y una última consulta, Marjorie, si si usted tuviera que agregar algo a la regulación, a la normativa bajo la cual está regida la startups,  
+Them: Mhmm.  
+Me: o o quitar algo en esas regulaciones, ¿qué agregaría o qué quitaría?  
+Them: Lo más urgente es que podamos meter a los  
+Me: Para.  
+Them: digitales en una categoría especial, y  
+Me: ¿Especial en qué sentido?  
+Them: para que, porque es que ahorita está, ahorita somos mi PyMEs,  
+Me: Ajá.  
+Them: Ahorita somos mi PyMEs y no hay ningún de incentivo, o sea, no sé si usted declara su impuesto sobre la venta,  
+Me: Sí, sí.  
+Them: renta y eso, es bien raro cuando usted dé servicio.  
+Me: Sí.  
+Them: Cuando usted servicio, es bien raro, porque más un servicio digital, o sea, yo no compro nada, yo no tengo ninguna Ni conseguir como para poder hacer mi declaración de impuestos sobre la venta es bien, complicado, porque es como, bueno, facturas vamos a presentar nuestra declaración, si nosotros no no somos productos y y no no compro cinco libras de arroz para vender en un restaurante, cosas así, ¿verdad? Entonces, desde ahí, desde que no existe una regulación especial para hacer  
+Me: Mhmm.  
+Them: servicios, para servicios, digamos, ¿verdad? Para servicios digitales es otra cosa. Y para y y que dentro de esa normativa podamos tener para que, ok, si vos sos un emprendedor que está trabajando en transformación digital para el país, en proyectos de transformación digital o de cosas innovadoras, yo te voy a hacer una excepción de cinco años, diez años o algo, o cuando pasé cierto techo vas a empezar a a declarar, pero hasta que alcances cierto techo, tranquilo, pues, solo poder presentar tus declaraciones en cero. Porque es es ilógico que si yo solo facturo, qué sé yo, treinta mil al mes, tenga que estar presentando una declaración, tengo que estar pagando contador, tengo que estar impuestos sobre la renta, impuestos sobre la venta. Eso ahoga, No, eso porque no, fíjese que hay un montón de gente que se detiene por eso, es un montón de plata que paga, la verdad. Por el el nosotros somos muy organizados con el tema de impuestos,  
+Me: Sí, pero pero eso es porque no la deja crecer, ¿o qué? ¿Eso es porque no la deja crecer?  
+Them: y nuestros impuestos están aparte y nosotros los pagamos, ¿verdad? Pero una empresa que viene, deberían estar exentos cien por ciento, les pone una carga que no que no pueden abrir una cuenta a nombre del O sea, es que ahí, el solo decir de pagar el impuestos como empresa, implica un montón de cosas y un montón de procedimientos, cuando más bien yo debería tener estar teniendo un montón de incentivos. ¿Verdad? Entonces, el país actualmente no está proveyendo ningún incentivo para las empresas. O sea, ¿quién va a emprender en algo en un en...?  
+Me: Ok, ok, eso eso es importante.  
+Them: ¿Quién quién quién va a ir a emprender un desierto? Algo que es superáreo que, ¿para qué? O sea, mejor voy y me busco un trabajo, pues,  
+Me: Sí, ok.  
+Them: más cuando hay gente que está superbrillante y superinteligente, trabajando en eso, que dice, pues, ¿para qué voy a emprender en algo que no va a funcionar? Un trabajo superbién pagado, en una empresa de Estados Unidos remoto que me pagan como qué sé yo, veinte mil dólares al mes.  
+Me: No, súper, súper,  
+Them: Súper, ¿verdad?  
+Me: la información que me da, Marjorie. Sí,  
+Them: Sí. No, perfecto. Voy a tener que ir retirando.  
+Me: muchísimas gracias. Vamos a seguir en ¿Ah?  
+Them: Yo me voy a tener que ir retirando, le digo.  
+Me: No, ya, ya, ya, ya terminamos, sí, más bien se extendió. Gracias, Marjorie, muy muy muy amable por toda la información. A ver cuándo volvemos a a contactarnos. Ahí le mando un mensaje más adelantito, ¿verdad?  
+Them: Perfecto.  
+Me: Y muchísimas gracias por toda la información que nos ha dado, y suerte con todo, y seguimos en  
+Them: Sí, sí, sí, sí, sí, nos encontramos por ahí. No, a la orden.  
+Me: oye. Gracias por los contactos también.  
+Them: Perfecto, ¿no?, para servirle. Cualquier cosa, creo que por ahí tiene mi número, o me escribe por LinkedIn.  
+Me: Sí, hoy tengo su número, sí.  
+Them: Perfecto, para servirle.  
+Me: Vaya, pues mucho gusto. Gracias, Marjorie.  
+Them: Buenas tardes, chao.  
+Me: Bye.

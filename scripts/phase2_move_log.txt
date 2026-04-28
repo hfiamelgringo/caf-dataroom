@@ -1,0 +1,64 @@
+MOVED:
+  01.14.2026. Rockefeller Foundation.txt  ->  2026-01-14-rockefeller-foundation-latam.txt
+  02.03.2026 Venture Do (Dominican Republic).txt  ->  2026-02-03-jorge-vargas-venture-do.txt
+  02.05.2026. José Kont .txt  ->  2026-04-21-jos-kont.txt
+  02.11.2026. Rockefeller.txt  ->  2026-02-11-rockefeller.txt
+  02.12.2026.  Louis Provost - Level Up.txt  ->  2026-02-12-louis-prouvost-level-up.txt
+  02.13.2026.  Ady Beitler Nilus .txt  ->  2026-02-13-ady-beitler-nilus.txt
+  02.13.2026. SAntiago Zavala 500.txt  ->  2026-02-13-santiago-zavala-500.txt
+  02.19.26. Cuantico .txt  ->  2026-02-19-jos-kont-cuantico.txt
+  02.23.26. Vanessa Gibson CINDE.txt  ->  2026-02-23-vanessa-gibson-cinde.txt
+  02.27.2026.  Nelson CR Tech Week.txt  ->  2026-02-27-nelson-ir-as-n-ez-costa-rica-tech-week.txt
+  02.27.2026. Maria Velez Crack the Code.txt  ->  2026-02-27-maria-v-lez-crack-the-code.txt
+  02.27.2026. Samuel Hernandez Colmex.txt  ->  2026-02-27-samuel-hernandez-colmex.txt
+  03.03.26. Magma Partners.txt  ->  2026-03-03-magma-partners.txt
+  03.05.  Francisco Meneses CORFO.txt  ->  2026-03-05-francisco-meneses-corfo.txt
+  03.05. Bruno Kuntz Maya Capital.txt  ->  2026-03-05-maya-capital-bruno-kuntz.txt
+  03.05.2026. Dave McClure - Practical VC.txt  ->  2026-03-16-dave-mcclure-practical-vc.txt
+  03.06. Iyinoluwa Aboyeji.txt  ->  2026-03-06-iyinoluwa-aboyeji-future-africa.txt
+  03.06.2026. FEMSA.txt  ->  2026-03-06-patrick-menendez-femsa.txt
+  03.09.2026. Aline Murlik StartSe.txt  ->  2026-03-09-startse-aline-murlik.txt
+  03.09.2026. Peter Walker Carta.txt  ->  2026-03-09-peter-walker-carta.txt
+  03.11.2026. Albedo Solar.txt  ->  2026-03-11-albedo-solar.txt
+  03.11.2026. CABEI .txt  ->  2026-03-11-cabei.txt
+  03.11.2026. Dan Gray - Odin.txt  ->  2026-03-11-dan-gray-odin.txt
+  03.11.2026. Startuplinks.txt  ->  2026-03-11-startuplinks-israel-garcia.txt
+  03.12.2026. LiSalud.txt  ->  2026-03-12-lisalud.txt
+  03.16.2026. Andy Tsao - SVB.txt  ->  2026-03-16-svb-andy-tsao.txt
+  03.16.2026. Daniel Gallo  Gunderson.txt  ->  2026-03-16-daniel-gallo-gunderson.txt
+  03.19.2026. Francisco Meneses.docx.txt  ->  2026-03-19-francisco-meneses.txt
+  03.23.2026. Allen Taylor - Endeavor.txt  ->  2026-03-23-allen-taylor-endeavor.txt
+  03.25.2026. Lizanka Guevara - Amcham Honduras.txt  ->  2026-03-25-lizanka-guevara-amcham-honduras.txt
+  03.25.2026. Urek Bio.txt  ->  2026-03-25-alvaro-peralta-urek.txt
+  03.26.2026. Nanowave.txt  ->  2026-03-26-nanowave.txt
+  04.06.2026. Pomona.txt  ->  2026-04-06-daniel-granada-pomona-impact.txt
+  12.03.2025. Barnaby Dorfman.txt  ->  2025-12-03-barnaby-dorfman.txt
+  _Lyana Latorre and Mark Lopes (PFA) - 2026_01_14 10_59 EST - Notes by Gemini.txt  ->  2026-01-14-lyana-latorre-rockfound.txt
+  Costa Rica VC Ecosystem Meetings for CAF Project - 2026_03_24 15_59 EDT - Notes by Gemini (English).txt  ->  2026-03-17-central-american-vc-roundtable-with-partnership-for-the-amer.txt
+
+SKIPPED:
+  02.23.2026. Agostina Martino.txt  (no match)
+  03.16.2026. Dave McClure Practica VC.txt  (dupe of 2026-03-16-dave-mcclure-practical-vc.txt)
+  2_5_26 Browserling Homepage Features.txt  (no match)
+  browserling test.txt  (no match)
+  CCAMGATE-03-21-26.txt  (no match)
+  IT geek requirements.txt  (no match)
+  keys.txt  (no match)
+  MASTER JOSH SCRIPT Browserling for Cybersecurity The Cybersecurity Workflow.txt  (dupe of 2026-03-17-central-american-vc-roundtable-with-partnership-for-the-amer.txt)
+  meeting2_central_america_roundtable.md.txt  (dupe of 2026-03-17-central-american-vc-roundtable-with-partnership-for-the-amer.txt)
+  pfa.html.txt  (dupe of 2026-03-17-central-american-vc-roundtable-with-partnership-for-the-amer.txt)
+  phil_it_setup_checklist.txt  (no match)
+  SOS geek requirements.txt  (no match)
+  Transcript Meeting with CNBS from Honduras, 22-4-26 (1).txt  (dupe of 2026-03-25-lizanka-guevara-amcham-honduras.txt)
+  Transcript Meeting with CNBS from Honduras, 22-4-26 (2).txt  (dupe of 2026-03-25-lizanka-guevara-amcham-honduras.txt)
+  Transcript Meeting with CNBS from Honduras, 22-4-26 (3).txt  (dupe of 2026-03-25-lizanka-guevara-amcham-honduras.txt)
+  Transcript Meeting with CNBS from Honduras, 22-4-26.txt  (dupe of 2026-03-25-lizanka-guevara-amcham-honduras.txt)
+  Transcript Meeting with Jose Kont Quantico VP, 21-4-26.txt  (dupe of 2026-04-21-jos-kont.txt)
+
+Manifest expected 42; moved 36; missing:
+  2026-04-22-untitled.txt  (airtable: 04.22.2026.)
+  2026-04-09-ruta-medellin.txt  (airtable: 04.09.2027. Ruta Medellin)
+  2026-03-24-speratum-biopharma.txt  (airtable: 03.24.2026. Speratum Biopharma)
+  2026-03-05-dave-mcclure-practical-vc.txt  (airtable: 03.05.2026. Dave McClure - Practical VC)
+  2026-02-23-climatech-technology-with-purpose.txt  (airtable: 02.23.2026. Climatech. Technology with Purpose)
+  2026-02-05-jos-kont-cuantico.txt  (airtable: 02.05.2026. José Kont - Cuantico)

@@ -1,0 +1,56 @@
+﻿Open in Granola
+Venture Capital Ecosystem Development in Latin America with Dan
+Dan’s Background & Expertise
+* 20+ years in startups: early operator, angel investor, VC work, accelerators
+* Previous 4 years: startup valuation company, now private market back office
+* Specializes in VC research analysis spanning 30-40 years of academic data
+* Works with emerging managers, LPs, British Business Bank on strategy
+* Experience with emerging ecosystems in Africa, Latin America through accelerators
+Current VC Market Analysis
+* Emerging managers hit hard since 2020-2021 boom
+   * Too much exuberance in hot categories during peak
+   * Severe overcorrection now, market became top-heavy
+   * Worse at finding outlier opportunities VC should target
+* Europe/Canada face similar issues with additional challenges
+   * Less risk tolerance among LP base
+   * Reduced appetite for early-stage investing
+   * Already top-heavy ecosystems worsened by recent shifts
+* Latin America pension systems: $1.2-1.4B AUM, only ~0.05% in VC (hundreds of millions)
+Strategic Recommendations for Emerging Markets
+* “Missing middle” funding gap is real but wrong solution
+   1. Don’t fill the middle directly - fill the bottom first
+   2. Early-stage pipeline growth naturally creates middle-stage opportunities
+   3. Government attempts to fund growth stage directly don’t work well
+* Optimal approach for capital-desert regions:
+   1. Start with local angel investor ecosystems
+   2. Help successful angels build funds eventually
+   3. Use asymmetric return structures (like British Business Bank model)
+* Kyle Briggs paper: government VC model with diversification + capital recycling becomes self-sustaining after ~30 years
+* Network effects crucial - avoid multipolar dispersion, concentrate resources geographically
+* Tax incentives work well for angels, problematic for funds (EIS/SEIS example)
+Key Insights & Resources
+* Research shows: more market inefficiencies = greater productivity gains from early-stage allocation vs late-stage
+* Spray-and-pray approach works for government VC seeking solid performance + positive externalities
+* Avoid pursuing “hot categories” - consistent government mistake for decades
+* Better model: strategic capabilities valuable long-term (like In-Q-Tel/CIA approach)
+* Dan’s X highlights contain research library, will share Kyle Briggs paper + venture industrial policy article
+
+
+Address the "missing middle" funding gap by focusing on early-stage pipeline growth, which will naturally create middle-stage opportunities. Avoid direct government attempts to fund the growth stage.
+
+For capital-desert regions, start with local angel investor ecosystems, help successful angels build funds, and use asymmetric return structures like the British Business Bank model.
+
+Encourage network effects by concentrating resources geographically and avoid multipolar dispersion.
+
+Implement tax incentives for angels, but be cautious with incentives for funds, as they can lead to problematic behaviors.
+
+
+1. "Missing Middle" Funding Gap: The recommendation is to focus on building the early-stage pipeline rather than directly filling the middle-stage funding gap. By growing the base of early-stage investments, middle-stage opportunities will naturally emerge. Government attempts to directly fund the growth stage have not been effective.
+
+2. Capital-Desert Regions: Begin by developing local angel investor ecosystems. Support successful angels in creating their own funds. Implement asymmetric return structures, similar to the British Business Bank model, to encourage investment. This involves offering favorable economics to other LPs who invest alongside the government or primary investor.
+
+3. Network Effects: Concentrate resources geographically to create strong network effects. Avoid spreading resources too thinly across multiple regions, as this can dilute the impact and hinder the development of a robust ecosystem.
+
+4. Tax Incentives: Tax incentives can be effective for angel investors, encouraging them to invest in early-stage companies. However, be cautious with tax incentives for funds, as they may lead to unintended consequences and do not always drive good investment behavior.
+
+Say more
