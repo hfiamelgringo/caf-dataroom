@@ -14,7 +14,7 @@ source: drive-transcript
 
 ## Executive Summary
 
-Samuel Hernandez spent years at the Mexican Consulate General in Silicon Valley running a structured program that connected Mexican government officials, academics, entrepreneurs, and traditional family-business owners to the Valley ecosystem — at its peak engaging roughly 70 stakeholders per mission. His core diagnosis is that Mexico's venture capital market effectively dries up after Series A: early-stage support exists, but "big tickets" of $15–25 million for a single technology are nearly impossible to source locally, creating a structural bottleneck that forces promising companies to stagnate or relocate. That position at the consulate is now vacant — a gap he calls "a total shame."
+Samuel Hernandez spent years at the Mexican Consulate General in Silicon Valley running a structured program that connected Mexican government officials, academics, entrepreneurs, and traditional family-business owners to the Valley ecosystem — at its peak engaging roughly 70 stakeholders per mission. His core diagnosis is that Mexico's venture capital market effectively dries up after Series A: early-stage support exists, but "big tickets" of $15–25 million for a single technology are nearly impossible to source locally, creating a structural bottleneck that forces promising companies to stagnate or relocate. That position at the consulate is now vacant — a gap he says is a missed opportunity for sustained engagement with the diaspora.
 
 For CAF or any development-finance actor considering a Silicon Valley presence, Hernandez offers a clear playbook: engage the large technology platforms first (the "big seven"), leverage existing city-level "sister cities" programs, bring only highly vetted, technology-ready founders rather than PowerPoint-stage companies, and begin cost-effectively with a Zoom-based acceleration curriculum culminating in a two-to-three week in-person demo-day residency in the Valley. His most urgent warning is reputational: bringing unready founders to the Valley risks permanently damaging the credibility of Central American ecosystems in the eyes of Valley investors.
 
@@ -28,7 +28,7 @@ Samuel Hernandez served as an innovation and technology diplomat at the Mexican 
 Venture capital in Mexico is described as "pretty scarce" beyond the early stages. In capital-intensive sectors like oil and gas, a single technology can require $15–25 million — a ticket size that has no reliable domestic source. Founders who survive the seed and early stages hit a structural wall, forcing them to either stagnate or seek capital abroad, primarily in Silicon Valley.
 
 ### The Mexican Consulate Innovation Program Was High-Return but Is Now Defunct
-The consulate ran structured innovation missions — at peak scale involving roughly 70 participants including federal government officials, academics, and entrepreneurs — to build Valley literacy among Mexican stakeholders. The position driving this program is now vacant, with no successor. Hernandez argues the return on investment was large enough to justify doubling or tripling the program's capacity, and calls its elimination "a total shame."
+The consulate ran structured innovation missions — at peak scale involving roughly 70 participants including federal government officials, academics, and entrepreneurs — to build Valley literacy among Mexican stakeholders. The position driving this program is now vacant, with no successor — a gap Hernandez says is a missed opportunity for sustained engagement with the diaspora. He argues the return on investment was large enough to justify doubling or tripling the program's capacity.
 
 ### San Francisco Consulate Maintains Continuity That Los Angeles Has Lost
 While the consulate where Hernandez worked no longer carries the function, the Mexican Consulate in San Francisco has maintained active ecosystem engagement and built a durable network connecting Mexican innovators to Bay Area capital and talent. This asymmetry means Mexican founders in one corridor have institutional support that those in another do not.
@@ -37,7 +37,7 @@ While the consulate where Hernandez worked no longer carries the function, the M
 Hernandez articulates a specific deal architecture that works well: a Silicon Valley lead investor who provides global network access and scaling discipline, paired with a Mexican co-investor who understands the local market and the specific pain points the technology addresses. The Valley partner brings portfolio-management rigor; the local partner brings market credibility and contextual knowledge.
 
 ### Traditional Family Businesses Are Being Cultivated as Potential LP Capital
-A parallel effort — distinct from founder pipelines — involves bringing owners of traditional Mexican family companies to the Valley not to launch startups but to develop LP-level awareness of innovation funds. The goal is to build a domestic supply of venture limited partners. Hernandez is skeptical of the follow-through: "I don't see a lot of very good follow up on getting them really with a stronghold doing things."
+A parallel effort — distinct from founder pipelines — involves bringing owners of traditional Mexican family companies to the Valley not to launch startups but to develop LP-level awareness of innovation funds. The goal is to build a domestic supply of venture limited partners.
 
 ### Founder Vetting Is the Single Most Critical Risk for a Regional Valley Office
 The most damaging mistake a CAF-style office could make is bringing underprepared founders to the Valley. Doing so would signal a large technological and innovation gap to Valley investors and damage the reputation of Central American ecosystems for years. Hernandez stresses the need for a "very trained eye" to distinguish genuine technology from a polished slide deck with no underlying product.
@@ -56,8 +56,6 @@ For a development bank or regional office entering Silicon Valley, Hernandez rec
 ## Notable Quotes
 
 > "In Mexico, the entrepreneur has to be the one who is doing the whole risk sometimes, at least in the first stages. And after Series A, the venture capital in Mexico is pretty scarce." — on Mexico's structural VC gap
-
-> "I definitely will double or triple the capacity because the return on investment would be huge. Unfortunately, that position is no longer being carried out at the consulate — which is a total shame." — on the defunct Mexican Consulate innovation program
 
 > "The nightmare scenario is to bring founders that are not ready for the Valley. Doing that could give the wrong image that there's a big gap — technologically and innovation-speaking." — on reputational risk for Central American ecosystems
 

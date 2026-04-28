@@ -46,7 +46,7 @@ Charles and Abigail identified the absence of local high-net-worth capital as a 
 
 ### Existing Accelerators Are Widely Viewed as Ineffective and Disconnected
 
-Costa Rica nominally has seven or eight national acceleration programs, but participants uniformly described them as low-quality, more akin to incubators, and disconnected from both target markets and investors. Abigail rated the idea of a new "Startup Central America" program closer to 1 out of 10, specifically because of historical execution failures: "The acceleration programs already out there are really not connected with the market for the companies they work with, nor with investors. That's supposed to be one of their main jobs." Guillermo concurred that the $50,000 grant level is not the binding constraint — follow-on capital access is.
+Costa Rica nominally has seven or eight national acceleration programs, but participants uniformly described them as low-quality, more akin to incubators, and disconnected from both target markets and investors. Abigail expressed strong skepticism about a new "Startup Central America" program, citing prior execution failures in similar regional initiatives: "The acceleration programs already out there are really not connected with the market for the companies they work with, nor with investors. That's supposed to be one of their main jobs." Guillermo concurred that the $50,000 grant level is not the binding constraint — follow-on capital access is.
 
 ### The USAID/DFC Collapse Has Left an Acute Concessionary Capital Void
 
@@ -74,7 +74,7 @@ Abigail also raised the problem of onerous and non-standardized due diligence an
 
 **Rodrigo:** Solve the awareness and matchmaking gap: great founders exist but do not know VC is available to them. A matchmaking and founder-education function — not necessarily a new accelerator — is the most pressing near-term need. A Silicon Valley soft-landing or bridging presence for post-seed companies seeking Series A would be high-value if quality-filtered.
 
-**All participants:** Any CAF-supported program must prioritize execution quality above all else. A "Startup Central America" program modeled on Startup Chile scores low (1–3 out of 10) in current conditions because of the region's track record of poorly executed programs, but would score much higher if quality and regional coordination could be guaranteed.
+**All participants:** Any CAF-supported program must prioritize execution quality above all else. A "Startup Central America" program modeled on Startup Chile would face strong skepticism in current conditions given the region's track record of poorly executed programs, but could be effective if quality and regional coordination could be guaranteed.
 
 ## Notable Quotes
 
@@ -86,7 +86,7 @@ Abigail also raised the problem of onerous and non-standardized due diligence an
 
 > "We heard from both sides — entrepreneurs saying there's no capital, and VCs saying there are no entrepreneurs. But the reality is that both exist. The bigger problem was that entrepreneurs were afraid of investors. They saw it as a villain in a story who was going to take over their company." — Abigail, on the trust and education deficit between founders and investors
 
-> "The acceleration programs already out there are really not connected with the market for the companies they work with, nor with investors — which is supposed to be one of their main jobs. So from one to ten, I'm closer to one." — Abigail, on the proposed Startup Central America program, given the region's execution history
+> "The acceleration programs already out there are really not connected with the market for the companies they work with, nor with investors — which is supposed to be one of their main jobs." — Abigail, on the region's accelerator track record and her skepticism about replicating it under the proposed Startup Central America program
 
 ## Connections to Other Interviews
 

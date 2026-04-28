@@ -1,0 +1,414 @@
+{
+  "2026-02-03-jorge-vargas-venture-do": {
+    "stakeholder": "Multiple stakeholders",
+    "organization": "Venture.do",
+    "findings": [
+      {
+        "quote": "Boost (which presents itself as a VC but is structured as an accelerator)",
+        "target_name": "Boost",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "integrity",
+        "is_caf": false
+      },
+      {
+        "quote": "local capital is slow, expensive in equity terms, and held by investors who do not understand startup risk profiles",
+        "target_name": "Dominican Republic local investors",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "competence",
+        "is_caf": false
+      },
+      {
+        "quote": "the incoming administration discontinued predecessor programs as a matter of political differentiation rather than on the basis of performance review",
+        "target_name": "ruling party administration",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "behavior",
+        "is_caf": false
+      },
+      {
+        "quote": "The national entrepreneurship network, once a coordination hub, has become dysfunctional.",
+        "target_name": "national entrepreneurship network",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Where early events drew broad, cross-sector participation, communities have splintered into personality-branded groups. Jorge describes the shift from 'the Python community' to 'Pineda's Python community' — where individual ownership has replaced collective identity.",
+        "target_name": "Pineda",
+        "target_type": "person",
+        "severity": "moderate",
+        "category": "behavior",
+        "is_caf": false
+      }
+    ]
+  },
+  "2026-02-05-jos-kont-cuantico": {
+    "stakeholder": "José Kont",
+    "organization": "Cuantico",
+    "findings": [
+      {
+        "quote": "agricultural conglomerates whose political influence he describes as dominant",
+        "target_name": "Guatemala agricultural conglomerates",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "behavior",
+        "is_caf": false
+      },
+      {
+        "quote": "Guatemala lost Intel to Costa Rica roughly 20 years ago when it lacked sufficient engineers, and Volkswagen chose Mexico over Guatemala more than a century ago for similar talent-pipeline reasons",
+        "target_name": "Guatemala (government/institutional capacity)",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "he explicitly warns against direct government-to-entrepreneur grants due to 'perverse political incentives'",
+        "target_name": "CAF",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "integrity",
+        "is_caf": true
+      }
+    ]
+  },
+  "2026-02-13-ady-beitler-nilus": {
+    "stakeholder": "Ady Beitler",
+    "organization": "Nilus",
+    "findings": [
+      {
+        "quote": "He contrasts this favorably with IDB Lab, observing that it tends to co-invest only alongside named VCs and questioning whether its investment process applies meaningful impact-additionality criteria — limiting the value add the institution provides.",
+        "target_name": "IDB Lab",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Do not replicate the IDB Lab follow-on-only model. Beitler observes that IDB Lab tends to co-invest only alongside named VCs and questions whether its investment process applies meaningful impact-additionality criteria — limiting the value add the institution provides.",
+        "target_name": "IDB Lab",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "TechnoServe, despite being a 501(c)(3) equity investor that does not return capital to shareholders, still subjected Nilus to identical valuation and audit conversations as commercial VCs.",
+        "target_name": "TechnoServe",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "behavior",
+        "is_caf": false
+      }
+    ]
+  },
+  "2026-02-13-santiago-zavala-500": {
+    "stakeholder": "Santiago Zavala",
+    "organization": "500 Startups (500 Global)",
+    "findings": [
+      {
+        "quote": "Corfo deploys capital as a senior loan with a first-lien repayment priority ahead of LPs — functioning effectively as a 1x liquidation preference — rather than as a true LP. This means a modestly successful fund returns nothing to equity LPs.",
+        "target_name": "Corfo",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "access to Corfo programs in practice often requires engaging specialist consultants who navigate the application process — limiting the value add the institution provides.",
+        "target_name": "Corfo",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Corfo/Startup Chile is structurally sound but, in Zavala's view, suffers from operational drift and weak performance incentives",
+        "target_name": "Corfo",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      }
+    ]
+  },
+  "2026-02-27-nelson-ir-as-n-ez-costa-rica-tech-week": {
+    "stakeholder": "Nelson Irías Núñez",
+    "organization": "Costa Rica Tech Week",
+    "findings": [
+      {
+        "quote": "One Costa Rican fund routinely takes 20% equity for tickets of $20,000–$40,000, implying a $100,000–$200,000 valuation.",
+        "target_name": "Unnamed Costa Rican fund",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "competence",
+        "is_caf": false
+      },
+      {
+        "quote": "A second fund requires a residential property as collateral on checks of $120,000. Both practices destroy cap tables, signal founder naivety to outside investors, and make follow-on institutional investment nearly impossible.",
+        "target_name": "Unnamed Costa Rican fund",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "competence",
+        "is_caf": false
+      },
+      {
+        "quote": "There's a fund in Costa Rica that, in exchange for tickets of twenty to forty thousand dollars, asks for twenty percent equity.",
+        "target_name": "Unnamed Costa Rican fund",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "competence",
+        "is_caf": false
+      },
+      {
+        "quote": "Costa Rica's state development banking system has deployed over $50 million in the past decade into non-scalable microenterprises — jam sellers, flower vendors — rather than technology startups.",
+        "target_name": "Costa Rica's state development banking system",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "A government development bank has given away more than fifty million dollars over the last ten years to businesses with no scalability — a woman selling jam, a man selling flowers.",
+        "target_name": "Costa Rica's state development banking system",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      }
+    ]
+  },
+  "2026-02-27-samuel-hernandez-colmex": {
+    "stakeholder": "Samuel Hernandez",
+    "organization": "El Colegio de México (Colmex) / Former Mexican Consulate Silicon Valley",
+    "findings": [
+      {
+        "quote": "That position at the consulate is now vacant — a gap he calls \"a total shame.\"",
+        "target_name": "Mexican Consulate General in Silicon Valley",
+        "target_type": "org",
+        "severity": "mild",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "The position driving this program is now vacant, with no successor — a gap Hernandez says is a missed opportunity for sustained engagement with the diaspora.",
+        "target_name": "Mexican Consulate General in Silicon Valley",
+        "target_type": "org",
+        "severity": "mild",
+        "category": "performance",
+        "is_caf": false
+      }
+    ]
+  },
+  "2026-03-05-francisco-meneses-corfo": {
+    "stakeholder": "Francisco Meneses",
+    "organization": "CORFO (Chilean Economic Development Agency)",
+    "findings": [
+      {
+        "quote": "By bringing in Canadian, Japanese, and Latin American pension funds (Colombia, Chile, Costa Rica, Mexico) as limited partners, he estimates each CAF dollar could be multiplied up to nine times at full deployment efficiency. He contrasts this with current CAF impact, which he characterizes as barely a three-times multiplier, calling the gap a failure of scale and structure rather than strategy.",
+        "target_name": "CAF",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": true
+      },
+      {
+        "quote": "The session is notable for its candor about institutional limits: Scalex, the junior stock exchange Meneses helped create, has listed only five companies in three and a half years.",
+        "target_name": "Scalex",
+        "target_type": "org",
+        "severity": "mild",
+        "category": "performance",
+        "is_caf": false
+      }
+    ]
+  },
+  "2026-03-06-patrick-menendez-femsa": {
+    "stakeholder": "Patrick Menendez",
+    "organization": "FEMSA Ventures",
+    "findings": [
+      {
+        "quote": "Bimbo Ventures, which Menendez characterizes as operating its CVC primarily as a strategic acquisition pipeline rather than as a financially-driven investment vehicle.",
+        "target_name": "Bimbo Ventures",
+        "target_type": "org",
+        "severity": "mild",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Mexican VC managers are raising $120M–$150M funds with lean four-to-five-person teams and high turnover — focusing on short-term fees rather than building long-term teams and LP returns.",
+        "target_name": "Mexican VC managers",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "integrity",
+        "is_caf": false
+      },
+      {
+        "quote": "multilaterals tend to re-commit to familiar managers regardless of performance — citing a case where an institutional advocate continues to champion a fund manager whose portfolio results he assesses as clearly underperforming.",
+        "target_name": "IDB",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "integrity",
+        "is_caf": false
+      },
+      {
+        "quote": "Menendez describes the LP experience as grueling — multi-month or multi-year commitment timelines, repetitive documentation requests",
+        "target_name": "IDB",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Multilaterals that keep funding these vehicles are actively distorting the market.",
+        "target_name": "CAF",
+        "target_type": "org",
+        "severity": "sharp",
+        "category": "integrity",
+        "is_caf": true
+      }
+    ]
+  },
+  "2026-03-12-lisalud": {
+    "stakeholder": "Marjorie (last name not provided)",
+    "organization": "LiSalud",
+    "findings": [
+      {
+        "quote": "The Honduras Digital Challenge, which LiSalud credits as its launch platform in 2019, has shut down. Tech for Dev — a joint initiative of UNITEC, the IDB, and Ficohsa — closed around 2023 under the previous administration.",
+        "target_name": "Tech for Dev",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Marjorie states flatly that as of early 2026, she is unaware of any active structured support program for tech startups in Honduras.",
+        "target_name": "Honduras startup support infrastructure",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Approximately eighteen months before the interview, one regional accelerator advanced LiSalud to the third meeting stage (offering approximately $100,000) before clarifying that the entire commitment was in-kind — legal advisory and technical consulting — rather than cash, while requesting approximately 8% equity in exchange. Marjorie rejected the deal because she needed cash to hire developers to build the features the accelerator required within a three-month acceleration window.",
+        "target_name": "regional accelerator",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "She describes this as a structural mismatch between what accelerators offer and what early-stage product companies actually need.",
+        "target_name": "accelerators",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Marjorie notes that government programs in Honduras are generally perceived as politically captured and unreliable, which is why LiSalud has deliberately avoided participating in any government-run initiative.",
+        "target_name": "Honduras government programs",
+        "target_type": "org",
+        "severity": "sharp",
+        "category": "integrity",
+        "is_caf": false
+      },
+      {
+        "quote": "She notes El Salvador also fails to invest sufficiently despite favorable rhetoric.",
+        "target_name": "El Salvador",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "deals consistently fail to close: prospective clients express interest after product demos but do not complete payment, which Marjorie attributes to credibility bias against Honduran-origin companies",
+        "target_name": "Honduras",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "other",
+        "is_caf": false
+      },
+      {
+        "quote": "I think it's because we're from Honduras.",
+        "target_name": "Honduras",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "other",
+        "is_caf": false
+      }
+    ]
+  },
+  "2026-03-17-central-american-vc-roundtable": {
+    "stakeholder": "Multiple stakeholders",
+    "organization": "Ara (Costa Rica VC), Ara Impact Capital, Amador, Intelligent Capital",
+    "findings": [
+      {
+        "quote": "The acceleration programs already out there are really not connected with the market for the companies they work with, nor with investors. That's supposed to be one of their main jobs.",
+        "target_name": "Costa Rica acceleration programs",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Abigail expressed strong skepticism about a new 'Startup Central America' program, citing prior execution failures in similar regional initiatives",
+        "target_name": "Startup Central America",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": true
+      },
+      {
+        "quote": "Costa Rica nominally has seven or eight national acceleration programs, but participants uniformly described them as low-quality, more akin to incubators, and disconnected from both target markets and investors.",
+        "target_name": "Costa Rica acceleration programs",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "international investors — including US-based funds — consistently decline Central American deal flow on reputational grounds alone, often conflating the region with Nicaragua's political situation, without engaging with country-specific data even when local fund managers provide it directly.",
+        "target_name": "US-based funds",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "competence",
+        "is_caf": false
+      },
+      {
+        "quote": "There's a huge void that USAID left — not just on the LP side, but on the philanthropic and technical assistance side as well. There's been a complete collapse of that funding.",
+        "target_name": "USAID",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "Her own founding experience included being forced to shut down a biotech company operating in Panama and Guatemala because customs processing times destroyed biological inputs, rendering the unit economics unworkable.",
+        "target_name": "Panama and Guatemala customs",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "As a nonprofit fund manager taking no management fees, she found IDB Lab's standard LP reporting requirements designed for larger commercial funds — creating significant administrative burden.",
+        "target_name": "IDB Lab",
+        "target_type": "org",
+        "severity": "mild",
+        "category": "performance",
+        "is_caf": false
+      },
+      {
+        "quote": "A 'Startup Central America' program modeled on Startup Chile would face strong skepticism in current conditions given the region's track record of poorly executed programs",
+        "target_name": "Central American programs",
+        "target_type": "org",
+        "severity": "moderate",
+        "category": "performance",
+        "is_caf": true
+      }
+    ]
+  }
+}

@@ -27,7 +27,7 @@ Nelson Irías Núñez has sixteen years of ecosystem-building experience across 
 ## Key Findings
 
 ### Central America's Investor Class Is Practicing a Counterfeit Version of Venture Capital
-Local funds are structuring deals that mimic VC language while violating its core logic. One named Costa Rican fund, Parque Tec — acquired by Mexican operator Marcus Dantus — routinely takes 20% equity for tickets of $20,000–$40,000, implying a $100,000–$200,000 valuation. A second fund requires a residential property as collateral on checks of $120,000. Both practices destroy cap tables, signal founder naivety to outside investors, and make follow-on institutional investment nearly impossible. A medical-device AI startup called iNova lost its entire investor pipeline at Mexican pitch events solely because of a contaminated cap table from an early Parque Tec deal.
+Local funds are structuring deals that mimic VC language while violating its core logic. One Costa Rican fund routinely takes 20% equity for tickets of $20,000–$40,000, implying a $100,000–$200,000 valuation. A second fund requires a residential property as collateral on checks of $120,000. Both practices destroy cap tables, signal founder naivety to outside investors, and make follow-on institutional investment nearly impossible. A medical-device AI startup called iNova lost its entire investor pipeline at Mexican pitch events solely because of a contaminated cap table from an early VC deal.
 
 ### A Forty-Five-Person Mapping Exercise Revealed a Region-Wide Investment Literacy Gap
 In January of last year, Nelson convened forty-five Central American ecosystem actors — funds, incubators, and foundations — in Quito, Ecuador for a comprehensive diagnostic that fed into a 220-page report for the IDB. The central finding: neither founders nor investors share a coherent framework. Institutional funds are writing checks into companies generating $1,000/month in revenue, while Costa Rica's state development banking system has deployed over $50 million in the past decade into non-scalable microenterprises — jam sellers, flower vendors — rather than technology startups. The report is not public but Nelson offered to provide a summary.
@@ -66,9 +66,7 @@ Nelson's prescription for CAF in Central America is a sequenced, infrastructure-
 
 > "We're so nascent that not everyone who claims to know what they're doing actually does. We don't have a global vision for launching startups, and we don't have a global vision for investing either. There are VCs that aren't really VCs — they're family offices — and they're investing at valuations that completely destroy the cap tables of entrepreneurs." — on the fundamental diagnosis of the Central American ecosystem
 
-> "There's a fund in Costa Rica that, in exchange for tickets of twenty to forty thousand dollars, asks for twenty percent equity. And there are Costa Rican startups that went along with it." — identifying Parque Tec by name as the specific actor
-
-> "It's not venture capital. They're playing a VC game without VC rules. And when a real VC sees it, they don't like it — because it doesn't have VC conditions." — on funds demanding real estate collateral against investment checks
+> "There's a fund in Costa Rica that, in exchange for tickets of twenty to forty thousand dollars, asks for twenty percent equity. And there are Costa Rican startups that went along with it." — on local funds operating outside conventional VC norms
 
 > "A government development bank has given away more than fifty million dollars over the last ten years to businesses with no scalability — a woman selling jam, a man selling flowers. There's nothing wrong with those businesses. It's just badly invested money." — on Costa Rica's state development banking system
 

@@ -28,7 +28,7 @@ José Kont is Executive Director of Cuantico, a Guatemala-based firm that produc
 
 ### Guatemala Lacks a Fintech Regulatory Sandbox, Creating a Structural Barrier for the Most-Invested Sector
 
-Guatemala has no flexible regulatory sandbox for fintech, which globally represents approximately 60% of Latin American venture investment and nearly $3 billion in 2024. Establishing a bank in Guatemala is described as a "legally ultra-complex, expensive, and lengthy process that functions almost like a cartel." Without a tailored fintech framework analogous to Mexico's or Colombia's fintech laws, the country systematically excludes itself from the primary driver of regional venture activity.
+Guatemala has no flexible regulatory sandbox for fintech, which globally represents approximately 60% of Latin American venture investment and nearly $3 billion in 2024. Establishing a bank in Guatemala is described as a legally complex, expensive, and protracted process with high effective entry barriers, dominated by a small set of incumbent institutions. Without a tailored fintech framework analogous to Mexico's or Colombia's fintech laws, the country systematically excludes itself from the primary driver of regional venture activity.
 
 ### Brain Drain, Not Capital Shortage, Is the Binding Constraint on Startup Formation
 
@@ -52,7 +52,7 @@ Guatemala operates a territorial tax system: income generated from services deli
 
 ### Fragmented Public Institutions and Political Instability Make All-of-Government Strategies Unrealistic for Guatemala
 
-Guatemala has a Secretariat of Innovation and Technology, a Ministry of Economy, a competitiveness program, and an exporters' association, all operating independently with no coordinating body. Kont explicitly contrasts this with Colombia's integrated approach and Chile's CORFO-anchored structure. He notes that Guatemala's president "lives on the edge of being removed because Congress won't let him work," making El Salvador-style executive-driven fintech legislation essentially impossible today. The politically realistic alternative is institution-anchored vehicles (matching funds, accelerator partnerships) that bypass the need for legislative consensus.
+Guatemala has a Secretariat of Innovation and Technology, a Ministry of Economy, a competitiveness program, and an exporters' association, all operating independently with no coordinating body. Kont explicitly contrasts this with Colombia's integrated approach and Chile's CORFO-anchored structure. He notes that Guatemala's president "lives on the edge because Congress won't let him work," making El Salvador-style executive-driven fintech legislation essentially impossible today. The politically realistic alternative is institution-anchored vehicles (matching funds, accelerator partnerships) that bypass the need for legislative consensus.
 
 ### Costa Rica Demonstrates What Guatemala Could Have Achieved — and Missed Twice
 
@@ -84,7 +84,7 @@ The deepest structural obstacle is political: chronic instability between the ex
 
 > "Guatemala has what's called territorial taxation. If I, from Guatemala, provide a service to a company in the United States, I don't have to pay taxes in the U.S. or in Guatemala, because I'm not providing it here for a local business. That's a real advantage that isn't being used." — on an undermarketed structural asset
 
-> "In El Salvador, Nayib Bukele controls Congress and the judiciary. Getting something like that done in a country like Guatemala, where the president lives on the edge of being removed because Congress won't let him work — that's basically impossible today." — explaining why legislative strategies viable elsewhere are not transferable to Guatemala
+> "In El Salvador, Nayib Bukele controls Congress and the judiciary. Getting something like that done in a country like Guatemala, where the president lives on the edge because Congress won't let him work — that's basically impossible today." — explaining why legislative strategies viable elsewhere are not transferable to Guatemala
 
 ## Connections to Other Interviews
 
