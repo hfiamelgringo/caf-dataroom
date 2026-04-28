@@ -1,0 +1,734 @@
+[
+  {
+    "slug": "2026-04-22-cnbs-honduras",
+    "stakeholder_label": "CNBS Honduras",
+    "organization": "National Commission for Banking and Insurance (CNBS) — Superintendency of Pensions and Securities",
+    "anonymous": false,
+    "airtable_id": "rece71hOhvv90o1a9",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recXLILJ6Uqe4VYdP",
+        "name": "Betsabe Franco",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/posts/mar%C3%ADa-betsab%C3%A9-franco-67551ab9_cnbs-honduras-activity-7270056901277622272-90B3",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-04-21-jos-kont",
+    "stakeholder_label": "José Kont — Startup law for Central America (3 of 3 interviews)",
+    "organization": "Cuantico",
+    "anonymous": false,
+    "airtable_id": "recJmd1mJnYuijSIe",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rect7TTLAMMTU1t6F",
+        "name": "José Kont",
+        "email": "jose@cuantico.la",
+        "linkedin": "https://www.linkedin.com/in/jose-kont/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-04-09-ruta-medellin",
+    "stakeholder_label": "Santiago Henao",
+    "organization": "Ruta N (Medellín Innovation Agency)",
+    "anonymous": false,
+    "airtable_id": "rec70j7rP79cJshsD",
+    "stakeholders_resolved": 0,
+    "people": []
+  },
+  {
+    "slug": "2026-04-06-daniel-granada-pomona-impact",
+    "stakeholder_label": "Daniel Granada",
+    "organization": "Pomona Impact",
+    "anonymous": false,
+    "airtable_id": "recm6pMc6DHjiEYXS",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "reccFMBeP38UmtZX3",
+        "name": "Daniel Granada",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/danielgranada/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-26-nanowave",
+    "stakeholder_label": "Javier Berrocal D",
+    "organization": "Nanowave (Nanoweave)",
+    "anonymous": false,
+    "airtable_id": "recnK7J1DlOWRO6GP",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recLoDUsWkk49tEcu",
+        "name": "Javier Berrocal D",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/javier-berrocal-70880211/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-25-alvaro-peralta-urek",
+    "stakeholder_label": "Álvaro Peralta",
+    "organization": "Urek (also board member, Global Life Center Hub; advisory committee, Ocean Oysis accelerator)",
+    "anonymous": false,
+    "airtable_id": "recSWmHLthsgCA3eO",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "receLL8QcfY36ZGDv",
+        "name": "Álvaro Peralta",
+        "email": "ae.peralta@urekbio.com",
+        "linkedin": "",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-25-lizanka-guevara-amcham-honduras",
+    "stakeholder_label": "Lizanka Guevara",
+    "organization": "AMCHAM Honduras",
+    "anonymous": false,
+    "airtable_id": "recOYrWNw8UR92lG1",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recIvTSMZQpJ7N6oQ",
+        "name": "Lizanka Guevara",
+        "email": "",
+        "linkedin": "",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-24-speratum-biopharma",
+    "stakeholder_label": "Christian Marín-Müller",
+    "organization": "Speratum Biopharma",
+    "anonymous": false,
+    "airtable_id": "recijks7BMJrDskMQ",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recCieuGDxlronUVv",
+        "name": "Christian Marin Muller",
+        "email": "christian@speratum.com",
+        "linkedin": "https://www.linkedin.com/in/cmarinmuller198/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-23-allen-taylor-endeavor",
+    "stakeholder_label": "Allen Taylor",
+    "organization": "Endeavor",
+    "anonymous": false,
+    "airtable_id": "recHNPutgx1asFGDk",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recAWHlZDJiVnAw6Y",
+        "name": "Allen Taylor",
+        "email": "allen.taylor@endeavor.org\n",
+        "linkedin": "https://www.linkedin.com/in/aktaylor/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-19-francisco-meneses",
+    "stakeholder_label": "Francisco Meneses — Regional fund design (2 of 2 interviews)",
+    "organization": "Independent (formerly Corfo, Banco Estado)",
+    "anonymous": false,
+    "airtable_id": "recjxUWSuP0V1GLca",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rec0vRsAnd5tfEtuC",
+        "name": "Francisco Meneses",
+        "email": "fjmenese@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/francisco-meneses-ponzini-7b06bb31/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-17-central-american-vc-roundtable",
+    "stakeholder_label": "Central American VC roundtable (4 funds)",
+    "organization": "Ara (Costa Rica VC), Ara Impact Capital, Amador, Intelligent Capital",
+    "anonymous": false,
+    "airtable_id": "recNmo2eHbDZk4Y8L",
+    "stakeholders_resolved": 4,
+    "people": [
+      {
+        "id": "recbDCB02uIRvVwjh",
+        "name": "Galit Flasterstein",
+        "email": "galit@dantafund.com",
+        "linkedin": "https://www.linkedin.com/in/galitflasterstein/",
+        "status": "Engaged"
+      },
+      {
+        "id": "rec3ZujKdywttEExA",
+        "name": "Abigail Napsuciale",
+        "email": "abigail@attaimpact.capital",
+        "linkedin": "https://www.linkedin.com/in/abigail-napsuciale-heredia/",
+        "status": "Engaged"
+      },
+      {
+        "id": "rece7k5SgJLTiEkXt",
+        "name": "Charles Higgenbotham",
+        "email": "charles@attaimpact.capital",
+        "linkedin": "https://www.linkedin.com/in/charlesrhiggenbotham/",
+        "status": "Engaged"
+      },
+      {
+        "id": "recUqqFevN3iaMpuo",
+        "name": "Guillermo Chapman",
+        "email": "guillermo@amador.holdings",
+        "linkedin": "https://www.linkedin.com/in/guillermo-chapman-1a979776/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-16-daniel-gallo-gunderson",
+    "stakeholder_label": "Daniel Gallo",
+    "organization": "Gunderson Dettmer",
+    "anonymous": false,
+    "airtable_id": "rec8DDfzNwAcS0Tx6",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recsxwHSFyYKE420b",
+        "name": "Daniel Gallo",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/danielgallom/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-16-dave-mcclure-practical-vc",
+    "stakeholder_label": "Dave McClure — Engineering a VC ecosystem (2 of 2 interviews)",
+    "organization": "Practical VC (formerly 500 Global / 500 Startups)",
+    "anonymous": false,
+    "airtable_id": "recxfyvGjHJuAZofA",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rec4ry6POf9oZN3pH",
+        "name": "Dave McClure",
+        "email": "dave@practicalvc.com",
+        "linkedin": "https://www.linkedin.com/in/davemcclure/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-16-svb-andy-tsao",
+    "stakeholder_label": "Andy Tsao",
+    "organization": "Silicon Valley Bank (First Citizens Bank)",
+    "anonymous": false,
+    "airtable_id": "recyeCdL4kUkQOIhV",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recNFpHT3jPAuoTMQ",
+        "name": "Andy Tsao",
+        "email": "atsao@svb.com",
+        "linkedin": "https://www.linkedin.com/in/andyhtsao/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-12-lisalud",
+    "stakeholder_label": "Marjorie (last name not provided)",
+    "organization": "LiSalud",
+    "anonymous": false,
+    "airtable_id": "reccOjX9XSc980x4S",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recPdIw7m1kmgeWRZ",
+        "name": "Manariba",
+        "email": "manariba@lisalud.com",
+        "linkedin": "",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-11-albedo-solar",
+    "stakeholder_label": "Albedo Solar",
+    "organization": "",
+    "anonymous": false,
+    "airtable_id": "rec4oxsbuC0g5rC8i",
+    "stakeholders_resolved": 2,
+    "people": [
+      {
+        "id": "recolc9COp6xDHnGy",
+        "name": "Jacob Stern",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/sternj22/",
+        "status": "Engaged"
+      },
+      {
+        "id": "recpxNFmC7D5cpcz7",
+        "name": "Alex MacFarlan",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/alex-macfarlan/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-11-cabei",
+    "stakeholder_label": "Jorge Daneri",
+    "organization": "Independent (formerly CABEI / IFAD)",
+    "anonymous": false,
+    "airtable_id": "reci4WfYa29m2qKn3",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rec9nqul7pSqqAeXT",
+        "name": "Danery Alvarado",
+        "email": "daneryalvarado@hotmail.com",
+        "linkedin": "https://www.linkedin.com/in/hernan-danery-alvarado-708b032a/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-11-dan-gray-odin",
+    "stakeholder_label": "Dan Gray",
+    "organization": "Odin",
+    "anonymous": false,
+    "airtable_id": "rec7mHk15YHCzd47L",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "receL7oNuyFlJw7E1",
+        "name": "Dan Gray",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/dangjr/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-11-startuplinks-israel-garcia",
+    "stakeholder_label": "Israel Garcia",
+    "organization": "Startup Links (startuplinks.world)",
+    "anonymous": false,
+    "airtable_id": "recyt1Eop6dy1KOhO",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recApzCXVAHnjFkgi",
+        "name": "Israel García Ballesteros",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/israelgarciab",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-09-peter-walker-carta",
+    "stakeholder_label": "Peter Walker",
+    "organization": "Carta",
+    "anonymous": false,
+    "airtable_id": "recN08XgLCn7bol6c",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recBOKejgoOwL2w5l",
+        "name": "Peter Walker",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/peterjameswalker/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-09-startse-aline-murlik",
+    "stakeholder_label": "Aline Murlick",
+    "organization": "StartSe",
+    "anonymous": false,
+    "airtable_id": "recrH5b3m9fkZkeaw",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recORaQ2foVuoL5mc",
+        "name": "Aline Murlick",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/aline-testolin-murlick/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-06-iyinoluwa-aboyeji-future-africa",
+    "stakeholder_label": "Iyinoluwa Aboyeji",
+    "organization": "Future Africa / Buco",
+    "anonymous": false,
+    "airtable_id": "rec5UHD2N6Oeti9DJ",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recR2wAf8Xh4N7GE3",
+        "name": "Iyinoluwa Aboyeji ",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/eaboyeji/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-06-patrick-menendez-femsa",
+    "stakeholder_label": "Patrick Menendez",
+    "organization": "FEMSA Ventures",
+    "anonymous": false,
+    "airtable_id": "recJro9hjbr2JkTpP",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recY2zZFGUOVa5aAl",
+        "name": "Patrick Menendez",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/patrickmenendez/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-05-dave-mcclure-practical-vc",
+    "stakeholder_label": "Dave McClure — Fund-of-funds & angel incentives (1 of 2 interviews)",
+    "organization": "Practical VC",
+    "anonymous": false,
+    "airtable_id": "recLu4Z84uyea3ieu",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rec4ry6POf9oZN3pH",
+        "name": "Dave McClure",
+        "email": "dave@practicalvc.com",
+        "linkedin": "https://www.linkedin.com/in/davemcclure/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-05-francisco-meneses-corfo",
+    "stakeholder_label": "Francisco Meneses — Corfo fund-of-funds (1 of 2 interviews)",
+    "organization": "CORFO (Chilean Economic Development Agency)",
+    "anonymous": false,
+    "airtable_id": "recRbTRTwvTYOopWT",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rec0vRsAnd5tfEtuC",
+        "name": "Francisco Meneses",
+        "email": "fjmenese@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/francisco-meneses-ponzini-7b06bb31/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-05-maya-capital-bruno-kuntz",
+    "stakeholder_label": "Bruno Kuntz",
+    "organization": "Maya Capital",
+    "anonymous": false,
+    "airtable_id": "rec3tjDzpk2lLCKRJ",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recpePTnxiT7BAp7O",
+        "name": "Bruno Kuntz",
+        "email": "bruno@maya.capital",
+        "linkedin": "https://www.linkedin.com/in/brunokuntz/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-03-03-magma-partners",
+    "stakeholder_label": "Mak Gutierrez",
+    "organization": "Magma Partners",
+    "anonymous": false,
+    "airtable_id": "recy7inweLg2Z2xoT",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recUyw70GrnHwqVkH",
+        "name": "Mak Gutierrez",
+        "email": "mak@magmapartners.com",
+        "linkedin": "https://www.linkedin.com/in/makote/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-27-maria-v-lez-crack-the-code",
+    "stakeholder_label": "María Vélez",
+    "organization": "Crack the Code",
+    "anonymous": false,
+    "airtable_id": "recED0vEow4prrcPk",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recpCApE7e69CL0Jx",
+        "name": "Maria Velez",
+        "email": "mvelez@crackthecode.la",
+        "linkedin": "https://www.linkedin.com/in/maria-del-mar-velez-79a89522/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-27-nelson-ir-as-n-ez-costa-rica-tech-week",
+    "stakeholder_label": "Nelson Irías Núñez",
+    "organization": "Costa Rica Tech Week",
+    "anonymous": false,
+    "airtable_id": "recCUbg27OCNVl9oC",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rec4NLRl8mKz2qJ6x",
+        "name": "Nelson Irias Nuñez",
+        "email": "nelson@crtechweek.com",
+        "linkedin": "https://www.linkedin.com/in/nelson-irias-nunez/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-27-samuel-hernandez-colmex",
+    "stakeholder_label": "Samuel Hernandez",
+    "organization": "El Colegio de México (Colmex) / Former Mexican Consulate Silicon Valley",
+    "anonymous": false,
+    "airtable_id": "recNBQ9hlnNCjcYSt",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recaGGyD5PtO4yyxp",
+        "name": "Samuel Hernandez Stanford",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/samuelhernandezstanford/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-23-climatech-agostina-martino",
+    "stakeholder_label": "Agostina Martino",
+    "organization": "Geometría Argentina / Sandex",
+    "anonymous": false,
+    "airtable_id": "recM6atHwBlxLHNz8",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recfXvshZKFFUI0QJ",
+        "name": "Agostina Martino",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/agostinamartino/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-23-vanessa-gibson-cinde",
+    "stakeholder_label": "Vanessa Gibson",
+    "organization": "CINDE (Costa Rican Investment Promotion Agency)",
+    "anonymous": false,
+    "airtable_id": "recbRcuRkg6sU45RR",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recfY4bboB9A2tedI",
+        "name": "Vanessa Gibson",
+        "email": "vgibson@cinde.org",
+        "linkedin": "https://www.linkedin.com/in/vanessa-gibson-6699246/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-19-jos-kont-cuantico",
+    "stakeholder_label": "José Kont — Central America VC gaps (2 of 3 interviews)",
+    "organization": "Cuantico",
+    "anonymous": false,
+    "airtable_id": "recphDmyJIkdPAdlx",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rect7TTLAMMTU1t6F",
+        "name": "José Kont",
+        "email": "jose@cuantico.la",
+        "linkedin": "https://www.linkedin.com/in/jose-kont/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-13-ady-beitler-nilus",
+    "stakeholder_label": "Ady Beitler",
+    "organization": "Nilus",
+    "anonymous": false,
+    "airtable_id": "recZL3qQhdVZ8VnYN",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recGw54TiMzXyrx82",
+        "name": "Ady Beitler",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/adybeitler/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-13-santiago-zavala-500",
+    "stakeholder_label": "Santiago Zavala",
+    "organization": "500 Startups (500 Global)",
+    "anonymous": false,
+    "airtable_id": "rec5AlKvvjGjpBcMz",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "receosnMxYMDsx1X1",
+        "name": "Santiago Zavala",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/santiago-zavala-47a68b7/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-12-louis-prouvost-level-up",
+    "stakeholder_label": "Level Up",
+    "organization": "",
+    "anonymous": false,
+    "airtable_id": "recZSdVXRRxk6Utby",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rec1b7m7AjGUZiDzy",
+        "name": "Louis Provost",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/louis-prouvost-681a055b/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-11-rockefeller",
+    "stakeholder_label": "Rockefeller Foundation — Food systems in Central America (2 of 2 interviews)",
+    "organization": "",
+    "anonymous": false,
+    "airtable_id": "recw3VV9AARR8kKqG",
+    "stakeholders_resolved": 0,
+    "people": []
+  },
+  {
+    "slug": "2026-02-05-jos-kont-cuantico",
+    "stakeholder_label": "José Kont — Guatemala ecosystem (1 of 3 interviews)",
+    "organization": "Cuantico",
+    "anonymous": false,
+    "airtable_id": "recr6R2sMLhpvNNCQ",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "rect7TTLAMMTU1t6F",
+        "name": "José Kont",
+        "email": "jose@cuantico.la",
+        "linkedin": "https://www.linkedin.com/in/jose-kont/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-02-03-jorge-vargas-venture-do",
+    "stakeholder_label": "Venture.do",
+    "organization": "",
+    "anonymous": false,
+    "airtable_id": "recZyJHJvSGUNjggt",
+    "stakeholders_resolved": 3,
+    "people": [
+      {
+        "id": "recsMJtRF0JmI3JFk",
+        "name": "Jorge Vargas",
+        "email": "jorge@venture.do",
+        "linkedin": "https://www.linkedin.com/in/elpargo/",
+        "status": "Engaged"
+      },
+      {
+        "id": "recMYT61T9RXFQkxQ",
+        "name": "Michael Jacobo",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/michaeljacobo/",
+        "status": "Engaged"
+      },
+      {
+        "id": "rec80OJMZzluGnR5Q",
+        "name": "Carolle Abreu",
+        "email": "carolle@venture.do",
+        "linkedin": "https://www.linkedin.com/in/carolle-abreu/",
+        "status": "Engaged"
+      }
+    ]
+  },
+  {
+    "slug": "2026-01-14-lyana-latorre-rockfound",
+    "stakeholder_label": "Andrea Acevedo",
+    "organization": "Rockefeller Foundation",
+    "anonymous": false,
+    "airtable_id": "recgyNl90bMTXee6T",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "recgLMlr6oGnk0PNF",
+        "name": "Lyana Latorre",
+        "email": "llatorre@rockfound.org\n",
+        "linkedin": "https://www.linkedin.com/in/lyana-latorre/",
+        "status": "Prospect"
+      }
+    ]
+  },
+  {
+    "slug": "2026-01-14-rockefeller-foundation-latam",
+    "stakeholder_label": "Rockefeller Foundation — LatAm regional strategy (1 of 2 interviews)",
+    "organization": "",
+    "anonymous": false,
+    "airtable_id": "recFlI3qGxF9GbUfW",
+    "stakeholders_resolved": 0,
+    "people": []
+  },
+  {
+    "slug": "2025-12-03-barnaby-dorfman",
+    "stakeholder_label": "Barnaby Dorfman",
+    "organization": "Mainsale Partners",
+    "anonymous": false,
+    "airtable_id": "recDsBrbParwa8N7w",
+    "stakeholders_resolved": 1,
+    "people": [
+      {
+        "id": "reck6oX3L7vSX3cW8",
+        "name": "Barnaby Dorfman",
+        "email": "",
+        "linkedin": "",
+        "status": ""
+      }
+    ]
+  }
+]
